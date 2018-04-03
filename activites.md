@@ -2,6 +2,7 @@
 
 ## ++
 * amo qualité de la donnée et bonnes pratiques
+[slide share](https://fr.slideshare.net/BahriNassim/datawerhouse-donnes-de-qualit)
 * amo archivage électronique
 * amo open data
 * constitution de référentiels
