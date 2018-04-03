@@ -13,7 +13,7 @@
 * product owner démat
 * formation SEDA
 
-## + Delphes - Pascal 
+## + Delphe - Pascal 
 * traitement archives privées (élaboration TdG et pré-classement)
 * amo site internet archives
 * amo rétroconversion EAD
