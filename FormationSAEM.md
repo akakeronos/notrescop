@@ -46,10 +46,30 @@ PAUSE : 20"
       2. lien avec les autorités administratives : 2"
       3. lien avec les profils SEDA : 1"
       4. lien avec les outils de gestion des archives papier et électroniques : 5"
+         1. workflow de publication
+         2. Synchronisation
    3. Présentation de l'interface de saisie en détails : 45"
    4. le schéma EAC (évolution vers RIC) : 20"
 
-   # Main dans le cambouis
+
+
+   ## Main dans le cambouis
+
+   Créer une notice
+
+   * Saisie de la zone information générale
+
+   Renseigner la zone description
+
+   * Ajouter les 8 zones de description
+
+   Renseigner la zone propiété
+
+   Renseigner la zone relation
+
+   Publier
+
+   Exporter en EAC
 
 * faire refaire un tableau célèbre par superposition
 
