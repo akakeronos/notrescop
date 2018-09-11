@@ -1,23 +1,27 @@
 # Formation SAEM
 
+---
+
 ## Méthodologie
 
-### Brise-glace : 20" 
+---
+
+### Brise-glace : 20"
 
 Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises, questions, loi des 2 pieds, détente collective)
 
-* pourquoi nous sommes là ?
-* quel est notre objectif commun
+- pourquoi nous sommes là ?
+- quel est notre objectif commun
 
-Dispositifs : 
+Dispositifs :
 
-* Nuage de mots
-* speedboat
+- Nuage de mots
+- speedboat
 
 ### Programme de la formation : 5"
 
-* matinée : concepts et usages
-* après-midi : manipulation (les mains dans le cambouis)
+- matinée : concepts et usages
+- après-midi : manipulation (les mains dans le cambouis)
 
 #### Concept : les données de référence de l'archivage
 
@@ -40,6 +44,7 @@ Dispositifs :
 PAUSE : 20"
 
 1. Les notices producteurs : 85"
+
    1. présentation de la norme ISAAR-CPF : les éléments obligatoires : 10"
    2. lien entre les entités du référentiel : 10"
       1. lien avec les vocabulaires : 2"
@@ -51,6 +56,6 @@ PAUSE : 20"
 
    # Main dans le cambouis
 
-* faire refaire un tableau célèbre par superposition
+- faire refaire un tableau célèbre par superposition
 
-  * 
+  -
