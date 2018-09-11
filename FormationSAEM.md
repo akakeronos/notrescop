@@ -21,7 +21,7 @@ Dispositifs :
 
 #### Concept : les données de référence de l'archivage
 
-1. Les normes appliquées aux archives : 10"
+1. ##### Les normes appliquées aux archives : 10"
 
    1. produit par
    2. en fonction de
@@ -29,7 +29,7 @@ Dispositifs :
 
    > contextualisation : la mise en place du standard RIC montre l'évolution de la pratique archivistique en lien avec l'exposition des archives sur le Web
 
-2. Présentation du référentiel : 30"
+2. ##### Présentation du référentiel : 30"
 
    1. objectif d'un référentiel de données : 10"
    2. les autorités administratives 5"
@@ -39,17 +39,27 @@ Dispositifs :
 
 PAUSE : 20"
 
-1. Les notices producteurs : 85"
+1. ##### Les notices producteurs : 85"
+
    1. présentation de la norme ISAAR-CPF : les éléments obligatoires : 10"
+
    2. lien entre les entités du référentiel : 10"
       1. lien avec les vocabulaires : 2"
+
       2. lien avec les autorités administratives : 2"
+
       3. lien avec les profils SEDA : 1"
+
       4. lien avec les outils de gestion des archives papier et électroniques : 5"
+
          1. workflow de publication
+
          2. Synchronisation
+
    3. Présentation de l'interface de saisie en détails : 45"
+
    4. le schéma EAC (évolution vers RIC) : 20"
+
 
 
 
