@@ -49,6 +49,8 @@ PAUSE : 20"
    3. Présentation de l'interface de saisie en détails : 45"
    4. le schéma EAC (évolution vers RIC) : 20"
 
+   # Main dans le cambouis
+
 * faire refaire un tableau célèbre par superposition
 
   * 
