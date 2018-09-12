@@ -1,5 +1,5 @@
 class: inverse, center, middle
-background-image: url(./medias/continuum.jpg)
+background-image: url(./images/continuum.jpg)
 background-position: top;
 background-repeat: no-repeat;
 background-size: contain;
