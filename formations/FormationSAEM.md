@@ -1,3 +1,10 @@
+class: inverse, center, middle
+background-image: url(./medias/continuum.jpg)
+background-position: top;
+background-repeat: no-repeat;
+background-size: contain;
+.footnote[Ceci est fait en texte avec du logiciel libre]
+
 # Formation SAEM
 
 ---
@@ -18,10 +25,14 @@ Dispositifs :
 - Nuage de mots
 - speedboat
 
+---
+
 ### Programme de la formation : 5"
 
 - matinée : concepts et usages
 - après-midi : manipulation (les mains dans le cambouis)
+
+---
 
 #### Concept : les données de référence de l'archivage
 
@@ -33,15 +44,21 @@ Dispositifs :
 
    > contextualisation : la mise en place du standard RIC montre l'évolution de la pratique archivistique en lien avec l'exposition des archives sur le Web
 
-2. ##### Présentation du référentiel : 30"
+---
 
-   1. objectif d'un référentiel de données : 10"
-   2. les autorités administratives 5"
-   3. les profils 5"
-   4. les vocabulaires 5"
-   5. les producteurs 5"
+##### Présentation du référentiel : 30"
 
-PAUSE : 20"
+1.  objectif d'un référentiel de données : 10"
+2.  les autorités administratives 5"
+3.  les profils 5"
+4.  les vocabulaires 5"
+5.  les producteurs 5"
+
+---
+
+## PAUSE : 20"
+
+---
 
 ##### Les notices producteurs : 85"
 
@@ -65,6 +82,8 @@ PAUSE : 20"
 
 4.  le schéma EAC (évolution vers RIC) : 20"
 
+---
+
 ## Main dans le cambouis
 
 Créer une notice
@@ -83,6 +102,6 @@ Publier
 
 Exporter en EAC
 
-- faire refaire un tableau célèbre par superposition
+---
 
-  -
+faire refaire un tableau célèbre par superposition
