@@ -15,14 +15,14 @@ background-size: contain;
 
 ### Brise-glace : 20"
 
-Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises, questions, loi des 2 pieds, détente collective)
+Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises questions, loi des 2 pieds, détente collective)
 
 - pourquoi nous sommes là ?
 - quel est notre objectif commun
 
 Dispositifs :
 
-- Nuage de mots
+- Nuage de mots : https://answergarden.ch/create/
 - speedboat
 
 ---
