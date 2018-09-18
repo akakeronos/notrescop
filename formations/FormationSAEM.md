@@ -34,7 +34,7 @@ Dispositifs :
 
 ---
 
-#### Concept : les données de référence de l'archivage
+#### I - Concept : les données de référence de l'archivage
 
 1. ##### Les normes appliquées aux archives : 10"
 
@@ -50,7 +50,7 @@ Dispositifs :
 
      > contextualisation : la mise en place du standard RIC montre l'évolution de la pratique archivistique en lien avec l'exposition des archives sur le Web
 
-2. **L'indexation** 
+2. ##### **L'indexation** 
 
 [image  L'indexation](./formations/images/Lindexation.png)
 
@@ -58,46 +58,45 @@ Dispositifs :
 
 ---
 
-#### Présentation du référentiel : 30"
+#### II - Présentation du référentiel : 30"
 
-1. objectif d'un référentiel de données : 10"
+##### 1. Objectif d'un référentiel de données : 10"
 
-   RAPPEL : 
+RAPPEL : 
 
-   la mise à disposition de « *données de référence* » constitue depuis de la loi « Lemaire » sur la République numérique du 7 octobre 2016, « *une mission de service public relevant de l'État* » (article 14). 
+la mise à disposition de « *données de référence* » constitue depuis de la loi « Lemaire » sur la République numérique du 7 octobre 2016, « *une mission de service public relevant de l'État* » (article 14). 
 
-   Toutes les administrations sont censées participer à ce « service public de la donnée » : ministères, collectivités territoriales, opérateurs publics, etc.
+Toutes les administrations sont censées participer à ce « service public de la donnée » : ministères, collectivités territoriales, opérateurs publics, etc.
 
-   ---
+---
 
-   **Un outil « #DataQuality »**
-
-
-
-   **Objectif** : Un référentiel de structuration et de gestion des métadonnées, interopérable, développé en open source, prenant en compte le contexte normatif et basé sur une ontologie.
-
-   [image le modèle de données du Référentiel girondin](./formations/images/leReferentiel-modele-donnees.png)
-
-   ---
-
-   Un référentiel de structuration et de gestion des métadonnées, interopérable pour **créer, importer, centraliser, gérer et exposer**  :
-
-   - des vocabulaires contrôlés publics ou internes
-   - des notices d’autorité des acteurs de l’archivage
-   - des autorités et unités administratives
-   - des profils d’archivage conformes au SEDA (toutes versions)
+**Un outil « #DataQuality »**
 
 
 
-   ---
+**Objectif** : Un référentiel de structuration et de gestion des métadonnées, interopérable, développé en open source, prenant en compte le contexte normatif et basé sur une ontologie.
 
-2. les autorités administratives 5"
+[image le modèle de données du Référentiel girondin](./formations/images/leReferentiel-modele-donnees.png)
 
-3. les profils 5"
+---
 
-4. les vocabulaires 5"
+Un référentiel de structuration et de gestion des métadonnées, interopérable pour **créer, importer, centraliser, gérer et exposer**  :
 
-5. les producteurs 5"
+- des vocabulaires contrôlés publics ou internes
+- des notices d’autorité des acteurs de l’archivage
+- des autorités et unités administratives
+- des profils d’archivage conformes au SEDA (toutes versions)
+
+
+
+---
+
+##### 2. Les entités dans le référentiel 
+
+- les autorités administratives 5"
+- les profils 5"
+- les vocabulaires 5"
+- les producteurs 5"
 
 ---
 
@@ -105,11 +104,11 @@ Dispositifs :
 
 ---
 
-##### Les notices producteurs : 85"
+#### III - Les notices producteurs dans le Référentiel : 85"
 
-1. présentation de la norme ISAAR-CPF : les éléments obligatoires : 10"
+1. ##### présentation de la norme ISAAR-CPF : les éléments obligatoires : 10"
 
-2. lien entre les entités du référentiel : 10"
+2. ##### lien entre les entités du référentiel : 10"
 
     1. lien avec les vocabulaires : 2"
 
@@ -123,9 +122,9 @@ Dispositifs :
 
        2. Synchronisation
 
-3. Présentation de l'interface de saisie en détails : 45"
+3. ##### Présentation de l'interface de saisie en détails : 45"
 
-4. le schéma EAC (évolution vers RIC) : 20"
+4. ##### le schéma EAC (évolution vers RIC) : 20"
 
 ---
 
