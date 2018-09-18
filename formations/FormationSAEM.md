@@ -38,9 +38,13 @@ Dispositifs :
 
 1. ##### Les normes appliquées aux archives : 10"
 
-   1. produit par
-   2. en fonction de
-   3. décrivent
+   [image des normes applicables aux archives](./formations/images/CPF-ISAD-ISDF.png)
+
+2. **L'indexation** 
+
+
+
+
 
    > contextualisation : la mise en place du standard RIC montre l'évolution de la pratique archivistique en lien avec l'exposition des archives sur le Web
 
@@ -62,9 +66,9 @@ Dispositifs :
 
 ##### Les notices producteurs : 85"
 
-1.  présentation de la norme ISAAR-CPF : les éléments obligatoires : 10"
+1. présentation de la norme ISAAR-CPF : les éléments obligatoires : 10"
 
-2.  lien entre les entités du référentiel : 10"
+2. lien entre les entités du référentiel : 10"
 
     1. lien avec les vocabulaires : 2"
 
@@ -78,9 +82,9 @@ Dispositifs :
 
        2. Synchronisation
 
-3.  Présentation de l'interface de saisie en détails : 45"
+3. Présentation de l'interface de saisie en détails : 45"
 
-4.  le schéma EAC (évolution vers RIC) : 20"
+4. le schéma EAC (évolution vers RIC) : 20"
 
 ---
 
