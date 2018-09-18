@@ -44,7 +44,7 @@ Dispositifs :
 
 [image  L'indexation](./formations/images/Lindexation.png)
 
-Les descriptions séparées mais liées permettent :
+Des descriptions séparées mais liées permettent :
 
 - De traiter de manière très efficace les relations complexes et multidimensionnelles
 - D’améliorer la communication et l’échange d’informations archivistiques
@@ -54,13 +54,42 @@ Les descriptions séparées mais liées permettent :
 
 ---
 
-##### Présentation du référentiel : 30"
+#### Présentation du référentiel : 30"
 
-1.  objectif d'un référentiel de données : 10"
-2.  les autorités administratives 5"
-3.  les profils 5"
-4.  les vocabulaires 5"
-5.  les producteurs 5"
+1. objectif d'un référentiel de données : 10"
+
+   RAPPEL : 
+
+   la mise à disposition de « *données de référence* » constitue depuis de la loi « Lemaire » sur la République numérique du 7 octobre 2016, « *une mission de service public relevant de l'État* » (article 14). 
+
+   Toutes les administrations sont censées participer à ce « service public de la donnée » : ministères, collectivités territoriales, opérateurs publics, etc.
+
+
+
+   **Un outil « #DataQuality »**
+
+
+
+   **Objectif** : Un référentiel de structuration et de gestion des métadonnées, interopérable, développé en open source, prenant en compte le contexte normatif et basé sur une ontologie.
+
+   ---
+
+   Objectif : un référentiel de structuration et de gestion des métadonnées, interopérable pour **créer, importer, centraliser, gérer et exposer**  :
+
+   -  des vocabulaires contrôlés publics ou internes
+   - des notices d’autorité des acteurs de l’archivage
+   - des autorités et unités administratives
+   - des profils d’archivage conformes au SEDA (toutes versions)
+
+   [image le modèle de données du Référentiel girondin](./formations/images/leReferentiel-modele-donnees.png)
+
+2. les autorités administratives 5"
+
+3. les profils 5"
+
+4. les vocabulaires 5"
+
+5. les producteurs 5"
 
 ---
 
