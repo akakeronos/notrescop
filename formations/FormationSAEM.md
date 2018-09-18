@@ -40,17 +40,21 @@ Dispositifs :
 
    [image des normes applicables aux archives](./formations/images/CPF-ISAD-ISDF.png)
 
+   Des descriptions séparées mais liées permettent :
+
+   - De traiter de manière très efficace les relations complexes et multidimensionnelles
+
+   - D’améliorer la communication et l’échange d’informations archivistiques
+
+   - L’interopérabilité entre les systèmes d’information
+
+     > contextualisation : la mise en place du standard RIC montre l'évolution de la pratique archivistique en lien avec l'exposition des archives sur le Web
+
 2. **L'indexation** 
 
 [image  L'indexation](./formations/images/Lindexation.png)
 
-Des descriptions séparées mais liées permettent :
 
-- De traiter de manière très efficace les relations complexes et multidimensionnelles
-- D’améliorer la communication et l’échange d’informations archivistiques
-- L’interopérabilité entre les systèmes d’information
-
-   > contextualisation : la mise en place du standard RIC montre l'évolution de la pratique archivistique en lien avec l'exposition des archives sur le Web
 
 ---
 
@@ -64,7 +68,7 @@ Des descriptions séparées mais liées permettent :
 
    Toutes les administrations sont censées participer à ce « service public de la donnée » : ministères, collectivités territoriales, opérateurs publics, etc.
 
-
+   ---
 
    **Un outil « #DataQuality »**
 
@@ -72,16 +76,20 @@ Des descriptions séparées mais liées permettent :
 
    **Objectif** : Un référentiel de structuration et de gestion des métadonnées, interopérable, développé en open source, prenant en compte le contexte normatif et basé sur une ontologie.
 
+   [image le modèle de données du Référentiel girondin](./formations/images/leReferentiel-modele-donnees.png)
+
    ---
 
-   Objectif : un référentiel de structuration et de gestion des métadonnées, interopérable pour **créer, importer, centraliser, gérer et exposer**  :
+   Un référentiel de structuration et de gestion des métadonnées, interopérable pour **créer, importer, centraliser, gérer et exposer**  :
 
-   -  des vocabulaires contrôlés publics ou internes
+   - des vocabulaires contrôlés publics ou internes
    - des notices d’autorité des acteurs de l’archivage
    - des autorités et unités administratives
    - des profils d’archivage conformes au SEDA (toutes versions)
 
-   [image le modèle de données du Référentiel girondin](./formations/images/leReferentiel-modele-donnees.png)
+
+
+   ---
 
 2. les autorités administratives 5"
 
