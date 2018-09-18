@@ -38,7 +38,7 @@ Dispositifs :
 
 1. ##### Les normes appliquées aux archives : 10"
 
-   [image des normes applicables aux archives](./formations/images/CPF-ISAD-ISDF.png)
+   [image des normes applicables aux archives](./images/CPF-ISAD-ISDF.png)
 
    Des descriptions séparées mais liées permettent :
 
@@ -52,7 +52,7 @@ Dispositifs :
 
 2. ##### **L'indexation** 
 
-[image  L'indexation](./formations/images/Lindexation.png)
+[image  L'indexation](./images/Lindexation.png)
 
 
 
@@ -76,7 +76,7 @@ Toutes les administrations sont censées participer à ce « service public de l
 
 **Objectif** : Un référentiel de structuration et de gestion des métadonnées, interopérable, développé en open source, prenant en compte le contexte normatif et basé sur une ontologie.
 
-[image le modèle de données du Référentiel girondin](./formations/images/leReferentiel-modele-donnees.png)
+[image le modèle de données du Référentiel girondin](./images/leReferentiel-modele-donnees.png)
 
 ---
 
