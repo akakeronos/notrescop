@@ -42,9 +42,13 @@ Dispositifs :
 
 2. **L'indexation** 
 
+[image  L'indexation](./formations/images/Lindexation.png)
 
+Les descriptions séparées mais liées permettent :
 
-
+- De traiter de manière très efficace les relations complexes et multidimensionnelles
+- D’améliorer la communication et l’échange d’informations archivistiques
+- L’interopérabilité entre les systèmes d’information
 
    > contextualisation : la mise en place du standard RIC montre l'évolution de la pratique archivistique en lien avec l'exposition des archives sur le Web
 
