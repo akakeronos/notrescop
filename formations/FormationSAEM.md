@@ -93,17 +93,7 @@ Un référentiel de structuration et de gestion des métadonnées, interopérabl
 
 ##### 2. Les entités dans le référentiel 
 
-- les autorités administratives 5"
-
-  Au sein du référentiel, une **autorité administrative** est une collectivité (commune, département ou un établissement public) « mère », composée de plusieurs **unités administratives** « filles » (directions ou services) et de x **agents** de type personne (employés).
-  L’autorité administrative n’a pas de rôle archivistique propre ; les rôles sont définis pour les unités. Par contre elle permet de paramétrer le NAAN du système d'identifiant des entités ARK.
-
-- les profils 5"
-
-  Pour préparer des versements automatisés ou réguliers d’archives électroniques, l’étude du flux permet de définir un plan de classement type, ainsi que le contenu attendu et des règles de gestion (DUA, sort final ou communicabilité). L’ensemble des règles définies constitue un 
-  profil SEDA, lui-même composé de plusieurs unités d’archives et d’objets données associés. Dans un premier temps, il convient de créer des unités d’archives qui seront réutilisables dans n’importe quel profil.
-
-- les vocabulaires 5"
+- les vocabulaires contôlés 5"
 
   Les vocabulaires sont des listes de termes organisées. Ils peuvent  prendre la forme de listes simples (listes d’autorité) ou hiérarchiques  (thésaurus).
 
@@ -114,6 +104,16 @@ Un référentiel de structuration et de gestion des métadonnées, interopérabl
   Les notices d’autorités sont des fiches de description des  producteurs d’archives, conformément à la norme ISAAR-CPF. Le référentiel implémente le schéma EAC-CPF et permet ainsi d’importer,  de créer et d’exporter des notices d’autorités dans un format intéropérable avec d’autres applications.
 
   Dans le référentiel, chaque notice d’autorité présente des  informations sur un producteur qui sont classée dans les quatre permiers  onglets (informations générales, description, propriétés, relations).  Ces onglets correspondent aux zones de la norme ISAAR-CPF. Un cinquième onglet « cycle de vie » correspond à l’enregistrement des  évenements effectués sur la notice.
+
+- les autorités administratives 5"
+
+  Au sein du référentiel, une **autorité administrative** est une collectivité (commune, département ou un établissement public) « mère », composée de plusieurs **unités administratives** « filles » (directions ou services) et de x **agents** de type personne (employés).
+  L’autorité administrative n’a pas de rôle archivistique propre ; les rôles sont définis pour les unités. Par contre elle permet de paramétrer le NAAN du système d'identifiant des entités ARK.
+
+- les profils 5"
+
+  Pour préparer des versements automatisés ou réguliers d’archives électroniques, l’étude du flux permet de définir un plan de classement type, ainsi que le contenu attendu et des règles de gestion (DUA, sort final ou communicabilité). L’ensemble des règles définies constitue un 
+  profil SEDA, lui-même composé de plusieurs unités d’archives et d’objets données associés. Dans un premier temps, il convient de créer des unités d’archives qui seront réutilisables dans n’importe quel profil.
 
 ---
 
