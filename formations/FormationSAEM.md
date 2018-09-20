@@ -137,7 +137,86 @@ L’ensemble des règles définies constitue un profil SEDA, lui-même composé 
 
 ### III - Les notices producteurs dans le Référentiel : 85"
 
-#### présentation de la norme ISAAR-CPF : les éléments obligatoires : 10"
+#### présentation de la norme ISAAR-CPF : 20"
+
+ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques relatives aux collectivités, aux personnes et aux familles édition ==> aide à structurer et à mettre en forme les informations sur un producteur 
+
+ <u>27 éléments de description sont regroupés en quatre zones</u> : 
+
+1. Zone d’identification
+2. Zone de la description 
+3. Zone des relations
+4. Zone du contrôle
+
+---
+
+**ISAAR (CPF) la zone d’identification**
+
+1. Type d’entité
+2. Forme(s) autorisée(s) du nom
+3. Formes parallèles du nom
+4. Formes du nom normalisées selon d’autres conventions
+5. Autres formes du nom
+6. Numéro d’immatriculation des collectivités 
+
+----
+
+**ISAAR (CPF) : la zone de la description**
+
+1. Dates d’existence
+2. Histoire
+3. Lieux 
+4. Statut juridique
+5. Fonctions et activités
+6. Textes de référence
+7. Organisation interne/généalogie
+8. Contexte général
+
+---
+
+**ISAAR (CPF) : la zone des relations**
+
+1. Nom(s)/numéro d’immatriculation des collectivités, des personnes ou des familles associées
+2. Type de relation 
+3. Description de la relation 
+4. Dates de la relation
+
+---
+
+**ISAAR (CPF) : la zone du contrôle**
+
+1. Code d’identification de la notice d’autorité
+2. Code(s) d’identification du ou des services 
+3. Règles ou conventions
+4. Niveau d’élaboration
+5. Niveau de détail
+6. Dates de création, de révision ou de destruction 
+7. Langue(s) et écriture(s) 
+8. Sources 
+9. Notes relatives à la mise à jour de la notice
+
+---
+
+**le schéma EAC-CPF** : La traduction informatique de la norme ISAAR-CPF en langage informatique : 
+
+**Les éléments obligatoires à renseigner** :
+
+1. Forme(s) autorisée(s) du nom
+2. Type d'entité
+3. Dans le Référentiel : l'autorité administrative
+
+---
+
+**Les éléments non obligatoires mais fortement recommandés** :
+
+1. Dates d’existence
+2. Lieux 
+3. Statut juridique
+4. Fonctions et activités
+5. Textes de référence
+6. Zone des relations
+
+---
 
 ##### lien entre les entités du référentiel : 10"
 
@@ -150,7 +229,7 @@ L’ensemble des règles définies constitue un profil SEDA, lui-même composé 
 
 ##### Présentation de l'interface de saisie en détails : 45"
 
-##### Le schéma EAC (évolution vers RIC) : 20"
+##### Le schéma EAC (évolution vers RIC) : 10"
 
 ---
 
