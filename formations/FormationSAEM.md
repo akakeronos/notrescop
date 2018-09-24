@@ -195,6 +195,12 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 8. Sources 
 9. Notes relatives à la mise à jour de la notice
 
+
+
+***NB : Pour en savoir plus sur la norme ISAAR-CPF*** : https://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_FR.pdf
+
+
+
 ---
 
 **le schéma EAC-CPF** : La traduction informatique de la norme ISAAR-CPF en langage informatique : 
