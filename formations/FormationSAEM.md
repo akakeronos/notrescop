@@ -226,12 +226,41 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 
 ##### lien entre les entités du référentiel : 10"
 
-1. lien avec les vocabulaires : 2"
+1. <u>lien avec les vocabulaires</u> : 2"
+
+De nombreux champs des notices producteurs pourront être remplis grâce à des vocabulaires contrôlés pour :
+
+- être conforme au schéma XML-EAC
+
+- faciliter la saisie
+
+- éviter les erreurs 
+---
+Le champs à reconnaitre :
+
+![capture écran lien vocabulaire / notice producteur](./images/lienVoc.png)
+---
+On choisi son vocabulaire
+
+![capture écran lien vocabulaire / notice producteur](./images/choix-voc.png)
+---
+Puis on cherche le terme adéquate : autocomplétion
+
+![capture écran lien vocabulaire / notice producteur](./images/autocompletion-voc.png)
+---
+
+Les informations contenus dans le vocabulaire sont embarquées dans la notice d'autorité 
+
+![capture écran lien vocabulaire / notice producteur](./images/embarque-info-voc.png)
+---
+
+
 2. lien avec les autorités administratives : 2"
 3. lien avec les profils SEDA : 1"
 4. lien avec les outils de gestion des archives papier et électroniques : 5"
 5. workflow de publication
 6. Synchronisation
+
 
 ##### Présentation de l'interface de saisie en détails : 45"
 
