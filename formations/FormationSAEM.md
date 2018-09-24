@@ -417,7 +417,84 @@ Préciser  la  nature  des  ressources  associées  :  ensemble  archivistique  
 
 ![capture écran ajouter la nature de la ressource associée](./images/nature-de-la-ressource.png)
 ---
-- Renseigner la zone relation
+#### Renseigner la zone relation
+
+La zone Relation correspond au chapitre 5.3 d'ISAAR-CPF : ZONE DES RELATIONS         
+
+L’objectif de cette zone est de décrire les relations avec d’autres collectivités, personnes ou familles, susceptibles d’être décrites dans d’autres notices d’autorité. 
+
+![capture écran zone Relations](./images/zone-Relations.png)
+
+
+
+Dans ISAAR-CPF (chapitre 5.4.3) plusieurs relations sont définies : Elles permettent d'identifier la nature générale de la relation entre l’entité décrite et une collectivité, une personne ou une famille. 
+
+![capture écran Differentes Relationss](./images/Differentes-Relations.png)
+
+
+
+---
+
+**Le Référentiel permet de typer 3 des 4 relations prévues par la norme :**
+
+##### Relation chronologique
+
+Dans une relation chronologique, l’entité peut succéder à plusieurs collectivités, personnes ou familles pour exercer certaines activités. Inversement, plusieurs collectivités, personnes ou familles peuvent succéder à une seule entité. 
+
+<u>Exercice 1</u> : créer une relation chornologique où l'entité est le successeur d'une autre entité 
+
+![capture écran successeur](./images/successeur.png)
+
+---
+
+**Relation chronologique**
+
+<u>Exercice 2</u> : créer une relation chornologique où l'entité est le prédécesseur d'une autre entité 
+
+![capture prédécesseur](./images/predecesseur.png)
+
+---
+
+
+
+##### Relation hiérarchique
+
+Dans une relation hiérarchique, l’entité peut exercer une autorité et contrôler les activités de plusieurs  collectivités, personnes ou familles. L’entité peut également être subordonné à plusieurs collectivités, personnes ou familles. 
+
+ [par exemple : supérieur/subordonné ; contrôleur/contrôlé ; propriétaire de / appartient à ; parent/enfant ] 
+
+<u>Exercice 1</u> : créer une relation hiérarchique où l'entité est le subordonné (enfant) d'une autre entité 
+
+![capture Relation chronologiue : enfant](./images/Enfant.png)
+
+---
+
+**Relation hiérarchique**
+
+<u>Exercice 2</u></u> : créer une relation hiérarchique où l'entité est le supérieur (parent) d'une autre entité 
+
+
+
+![capture Relation chronologiue : parent](./images/parent.png)
+
+---
+
+
+
+##### Relation d’association 
+
+Cette expression générale désigne tout type de relation autre que ceux mentionnés ci-dessus  (par exemple : client/fournisseur, membre, partie de/constitué par, partenaire professionnel...) 
+
+
+
+
+
+
+
+---
+
+
+
 - Publier
 - Exporter en EAC
 #### Conclusion 
