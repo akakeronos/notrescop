@@ -245,18 +245,27 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 
 ---
 
-#### Saisie de la zone information générale
+#### Saisie de la zone description
+
+Zoom sur les menus de la zone description
+
+
+ ![capture écran infos bulles de la zone desciption](./images/zone-description-infos-bulle.png) 
+
+---
 
 **Exercice** :
 
 - Renseigner la zone description
 
- ![capture écran zone description](./images/ajouter-zone-description.png) 
+ ![capture écran zone description](/Users/delphinejamet/Documents/git/notrescop/formations/images/ajouter-zone-description.png)
 
-Exercice : Ajouter les 8 zones de description
+
+
 ---
+
  - **Ajouter un lieu**
-Chapitre 5.2.3 d'ISAAR-CPF :  Lieux      
+Chapitre 5.2.3 d'ISAAR-CPF : Lieux      
 Objectif : 
 Indiquer les principaux lieux et/où ressorts juridictionnels d’origine, de vie ou de résidence de la collectivité, de la personne ou de la famille, ou ceux avec lesquels l’entité a eu d’autres liens. 
 Règle: 
