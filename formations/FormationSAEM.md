@@ -229,6 +229,8 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 
 ##### Présentation de l'interface de saisie en détails : 45"
 
+
+
 ##### Le schéma EAC (évolution vers RIC) : 10"
 
 ---
@@ -248,12 +250,101 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 **Exercice** :
 
 - Renseigner la zone description
-- Ajouter les 8 zones de description
+
+ ![capture écran zone description](./images/ajouter-zone-description.png) 
+
+Exercice : Ajouter les 8 zones de description
+---
+ - **Ajouter un lieu**
+Chapitre 5.2.3 d'ISAAR-CPF :  Lieux      
+Objectif : 
+Indiquer les principaux lieux et/où ressorts juridictionnels d’origine, de vie ou de résidence de la collectivité, de la personne ou de la famille, ou ceux avec lesquels l’entité a eu d’autres liens. 
+Règle: 
+Enregistrer, pour chacun des principaux lieux/ressorts juridictionnels, son nom, la nature de son lien avec l’entité et la période concernée. 
+
+![capture écran lieu](./images/ajouter-un-lieu.png) 
+---
+ - **Ajouter une fonction**
+Chapitre 5.2.5 d'ISAAR-CPF : Fonctions et activités 
+Objectif: 
+Indiquer les fonctions et les activités (professionnelles ou privées) de la collectivité, de la personne ou de la famille. 
+Règle: 
+Enregistrer les fonctions et les activités (professionnelles ou privées) de l’entité décrite, ainsi que les dates correspondantes lorsque nécessaire. Le cas échéant, décrire la nature de la fonction ou de l’activité. 
+Contient les informations sur les activités de l'entité décrite 
+
+![capture écran fonction](./images/ajouter-une-fonction.png )
+---
+ - **Ajouter un statut juridique**
+Chapitre 5.2.4 d'ISAAR-CPF : Statut juridique
+Objectif: 
+Indiquer le statut juridique d’une collectivité. 
+Règle: 
+Enregistrer le statut juridique et, s’il y a lieu, la nature de la collectivité, ainsi que les dates de validité de ce statut. 
+
+![capture écran statut juridique](./images/ajouter-1-statut-juridique.png) 
+
+<u>NB : un vocabulaire contrôlé des différents statuts juridiques sera à la disposition des utilisateurs</u>
+
+ - **Ajouter un texte de référence**
+
+Chapitre 5.2.6 d'ISAAR-CPF : Textes de référence 
+Objectif: 
+Indiquer l’origine des attributions de la collectivité, de la personne ou de la famille, qu’il s’agisse de ses pouvoirs, de ses fonctions, de ses responsabilités, ou de son champ d’activité (y compris géographique).  
+Règle: 
+Enregistrer tout texte de référence (loi, décret, arrêté, directive, recommandation, délibération, décision, etc.) qui est à l’origine des pouvoirs, des fonctions, des responsabilités de l’entité, ainsi que les informations sur les juridictions compétentes et les dates d’exercice ou de modification de ses attributions. 
+
+![capture écran un texte de référence](./images/ajouter-1-textedeRef.png) 
+---
+ - **Ajouter un contexte général **
+
+Chapitre 5.2.8  d'ISAAR-CPF: Contexte général 
+Objectif : 
+Fournir une information significative sur le contex
+te général, social, culturel, économique, politique, 
+historique, etc., dans lequel la collectivité, la pe
+rsonne ou la famille a vécu ou a exercé son activité. 
+Règle : 
+Enregistrer toutes les informations significatives sur le contexte social, culturel, économique, politique, historique, etc., dans lequel l’entité a exercé son activité.
+
+![capture écran profession/activités](./images/ajouter-1-profession.png)
+---
+ - **Ajouter une profession ou une activité **
+Chapitre 5.2.5 d'ISAAR-CPF : Fonctions et activités 
+Objectif: 
+Indiquer les fonctions et les activités (professionnelles ou privées) de la collectivité, de la personne ou de la famille. 
+Règle: 
+Enregistrer les fonctions et les activités (professionnelles ou privées) de l’entité décrite, ainsi que les dates correspondantes lorsque nécessaire. Le cas échéant, décrire la nature de la fonction ou de l’activité. 
+Contient les informations sur les activités de l'entité décrite 
+
+![capture écran profession/activités](./images/ajouter-1-profession.png)
+---
+ - **Ajouter l'élément Organisation interne/généalogie **
+Chapitre 5.2.7 d'ISAAR-CPF   Organisation interne/généalogie      
+Objectif: Présenter l’organisation interne d’une collectivité, ou la généalogie d’une famille. 
+Règles: 
+Pour une collectivité, décrire la structure interne, et préciser les dates des modifications dont la connaissance est nécessaire à la compréhension du fonctionnement de la collectivité (par exemple à l’aide d’organigrammes).  
+Pour une famille, décrire la généalogie (par exemple à l’aide d’un arbre généalogique) de manière à indiquer les relations entre ses membres avec leurs dates.
+
+![capture écran organisation interne/généalogie](./images/ajouter-organisation-interne.png)
+---
+ - **Ajouter l'élément d'information historique **
+Chapitre 5.2.7 d'ISAAR-CPF : Histoire      
+Objectif: 
+Donner un résumé de l’histoire de la collectivité, de la personne ou de la famille. 
+Règle: 
+Enregistrer, sous la forme d’un texte rédigé ou d’une chronologie, les principaux événements de l’existence de l’entité décrite, ses activités, ses réalisations. Cela peut comprendre des informations sur le genre, la nationalité, la famille, et les appartenances religieuses ou politiques. Chaque fois que cela est possible, introduire ici des dates comme élément constitutif de la narration
+
+![capture écran information historique](./images/ajouter-info-historique.png)
+---
 - Renseigner la zone propiété
 - Renseigner la zone relation
+
 - Publier
+
 - Exporter en EAC
 
 ---
 
-faire refaire un tableau célèbre par superposition
+#### Conclusion 
+
+Vous n'êtes pas tout seul...
