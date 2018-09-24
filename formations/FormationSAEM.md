@@ -351,15 +351,75 @@ Enregistrer, sous la forme d’un texte rédigé ou d’une chronologie, les pri
 
 ![capture écran information historique](./images/ajouter-info-historique.png)
 ---
-- Renseigner la zone propiété
-- Renseigner la zone relation
+#### Renseigner la zone "propiété"
+La zone propriété du référentiel correspond :
 
-- Publier
+- **à la zone 5.4.8 d'ISAAR-CPF** : Sources 
 
-- Exporter en EAC
+et
+
+- **à la zone 6 d'ISAAR-CPF** : RELATIONS ENTRE LES COLLECTIVITÉS, LES PERSONNES ET LES FAMILLES, ET DES RESSOURCES ARCHIVISTIQUES OU AUTRES 
+
+
+
+![capture écran ajouter les propriétés](./images/Onglet-proprietes.png)
 
 ---
 
+##### Sources 
+
+Chapitre 5.4.8 d'ISAAR-CPF : Sources
+
+Objectif: 
+
+Identifier les sources consultées pour l’élaboration de la notice d’autorité. 
+
+Règle: 
+
+Enregistrer ici les sources consultées pour l’élaboration de la notice d’autorité. 
+
+![capture écran ajouter une source](./images/sources.png)
+
+---
+##### Ressources liées
+
+Les notices d’autorité pour les archives sont créées en premier lieu pour donner des informations sur le contexte  de  production  des  documents  d’archives.  
+
+Pour  que  ces  informations  soient  utiles,  il  est  nécessaire  de  relier  les  notices  d’autorité  à  la  description  des  documents    Mais  les  notices  d’autorité  pour  les  archives  peuvent  également  être  reliées  à  des  informations  sur  toute  autre  ressource  intéressante.  Lorsque  de  tels  liens  sont  établis,  il  est  important  de  décrire  la  nature  de  la  relation  –  lorsqu’on la connaît – entre la collectivité, la personne ou la famille, et la ressource associée. 
+
+![capture écran ajouter une ressource](./images/relation-vers-une-ressource.png)
+
+---
+
+<u>Chapitre 6.3 d'ISAAR-CPF : Nature des relations entre l'agent et la ressource</u>
+
+Objectif : 
+
+Identifier la nature des relations entre la collectivité, la personne ou la famille et les ressources 
+
+associées. 
+
+Règle : 
+
+Décrire la nature des relations entre la collectivité, la personne ou la famille et les ressources associées, à savoir : producteur, auteur, sujet, détenteur, dépositaire, propriétaire des droits d’auteur, propriétaire... 
+![capture écran ajouter la nature de la relation entre l'agent et la ressource](./images/nature-de-la-relation.png)
+---
+
+<u>Chapitre 6.2 d'ISAAR-CPF : Nature des ressources associées</u> 
+
+Objectif: 
+
+Identifier la nature de la (des) ressource(s) associée(s) référencée(s). 
+
+Règle : 
+
+Préciser  la  nature  des  ressources  associées  :  ensemble  archivistique  (fonds,  série  organique,  etc.),  description  archivistique,  instrument  de  recherche,  monographie,  article  de  périodique,  site  web,  photographie, collection conservée muséale, film documentaire, archives orales... 
+
+![capture écran ajouter la nature de la ressource associée](./images/nature-de-la-ressource.png)
+---
+- Renseigner la zone relation
+- Publier
+- Exporter en EAC
 #### Conclusion 
 
 Vous n'êtes pas tout seul...
