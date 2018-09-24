@@ -483,9 +483,9 @@ Dans une relation hiérarchique, l’entité peut exercer une autorité et contr
 
 ##### Relation d’association 
 
-Cette expression générale désigne tout type de relation autre que ceux mentionnés ci-dessus  (par exemple : client/fournisseur, membre, partie de/constitué par, partenaire professionnel...) 
+Cette expression générale désigne tout type de relation autre que ceux mentionnés ci-dessus  (par exemple : client/fournisseur, membre, partie de/constitué par, partenaire professionnel, service administratif en relation avec un autre...) 
 
-
+![capture Relation association](./images/relation-association.png)
 
 
 
