@@ -11,7 +11,7 @@ background-size: contain;
 - comprendre la notion de profil SEDA, unités d'archives et objets-données
 - maîtriser la création de profil SEDA
 
-
+---
 
 ## Présentation : 20"
 
@@ -24,28 +24,42 @@ Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises qu
 
 _-_ Nuage de mots : https://answergarden.ch/create/
 
-------
-
-## 
+---
 
 ## Programme de la formation : 5"
 
 - matinée : concepts et usages
 - après-midi : manipulation (les mains dans le cambouis)
 
+---
+
 Introduction sur processus de versement et acteurs de l'archivage électronique PR
+
+---
 
 Métadonnées structuration dans le SEDA PR
 
+---
+
 parallèle avec bordereau papier DJ
+
+---
 
 le SEDA dans le référentiel : réutilisabilité DJ
 
+---
+
 Liens avec les autres entités du référentiel
+
+---
 
 Workflow
 
+---
+
 Main dans le Cambouis
+
+---
 
 Jeu de rôle, je fais mon profil ! (archives des archives ? Marché public ?)
 

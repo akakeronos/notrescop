@@ -7,8 +7,8 @@ background-size: contain;
 
 ## Objectifs
 
-- comprendre la gestion des données de référence
-- comprendre la notion de profil SEDA, unités d'archives et objets-données
+- comprendre la gestion d'un système d'archivage électronique
+- comprendre la chaîne de traitement 
 - maîtriser la création de profil SEDA
 
 
