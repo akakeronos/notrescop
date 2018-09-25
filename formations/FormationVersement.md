@@ -8,10 +8,8 @@ background-size: contain;
 ## Objectifs
 
 - comprendre la gestion d'un système d'archivage électronique
-- comprendre la chaîne de traitement 
+- comprendre la chaîne de traitement
 - maîtriser la création de profil SEDA
-
-
 
 ## Présentation : 20"
 
@@ -22,30 +20,90 @@ Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises qu
 
 **Dispositif** :
 
-_-_ Nuage de mots : https://answergarden.ch/create/
+- Nuage de mots : https://answergarden.ch/create/
 
-------
+---
 
-## 
+##
 
 ## Programme de la formation : 5"
 
 - matinée : concepts et usages
 - après-midi : manipulation (les mains dans le cambouis)
 
-Introduction sur processus de versement et acteurs de l'archivage électronique PR
+- Introduction sur processus de versement et acteurs de l'archivage électronique PR
+- Métadonnées structuration dans le SEDA PR
+- Parallèle avec bordereau papier DJ
+- le SEDA dans le référentiel : réutilisabilité DJ
+- Liens avec les autres entités du référentiel
+- Workflow
 
-Métadonnées structuration dans le SEDA PR
+- Main dans le Cambouis :
+  Jeu de rôle, je fais mon profil ! (archives des archives ? Marché public ?)
 
-parallèle avec bordereau papier DJ
+---
 
-le SEDA dans le référentiel : réutilisabilité DJ
+## Introduction sur processus de versement
 
-Liens avec les autres entités du référentiel
+### Un petit détour par la vision processus
 
-Workflow
+> **processus** : ensemble ordonnées d'activités qui délivre un produit et/ou un service, à un "client" interne ou externe, lui apporte de la valeur, répond à ses besoins exprimés ou implicites et nécessite d'être maîtrisé/piloté
 
-Main dans le Cambouis
+> **processus métier** : ensemble des activités qui s’enchaînent pour créer un produit ou un service à partir d’éléments de base. Un processus se décompose en sous-processus. (MAC, glossaire de l'archivage)
 
-Jeu de rôle, je fais mon profil ! (archives des archives ? Marché public ?)
+![illustration d'un processus](./images/dessinerProcessus2.jpg)
 
+---
+
+class: center, top
+
+## Modélisation d'un processus
+
+1. On commence par définir les diagrammes de cas d'utilisation (Use Case)
+
+![exemple de cas d'utilisation archiver](./images/useCaseArchiver.png)
+
+<!--
+Qui permettent de donner une vue globale de l'application. Pas seulement pour un client non avisé qui aura l'idée de sa future application mais aussi le développeur s'en sert pour le développement des interfaces.
+
+La représentation d'un cas d'utilisation met en jeu trois concepts : l'acteur, le cas d'utilisation et l'interaction entre l'acteur et le cas d'utilisation.
+
+Cas d'utilisation : Un cas d'utilisation (use case) représente un ensemble de séquences d'actions qui sont réalisées par le système et qui produisent un résultat observable intéressant pour un acteur particulier
+
+-->
+
+---
+
+class: center, top
+
+## Modélisation d'un processus
+
+2. Ensuite on va présenter la chronologie des opérations par les diagrammes de séquences.
+
+## ![exemple de diagramme de classe verser archives](./images/diagrammeSequenceArchiver.png)
+
+class: center, top
+
+## Modélisation d'un processus
+
+3. Et finir par les diagrammes statiques, qui sont celles de classe de conception, de classe participantes et le modèle physique.
+
+.![exemple de diagramme de classe verser archives](./images/diagrammeClasseVerserArchives.png)
+
+---
+
+### Les métadonnées de pérennisation
+
+![métaphore métadonnées comme partie imergée iceberg](./images/icebergMetadonnees.jpg)
+
+---
+
+#### Introduction sur les Métadonnées en général
+
+**définition**
+
+> Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
+
+![explication des métadonnées par un métaphore sur le vin](./images/vinContexte.png)
+
+---
