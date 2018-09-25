@@ -194,7 +194,9 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 8. Sources
 9. Notes relatives à la mise à jour de la notice
 
-## **_NB : Pour en savoir plus sur la norme ISAAR-CPF_** : https://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_FR.pdf
+**_NB : Pour en savoir plus sur la norme ISAAR-CPF_** : https://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_FR.pdf
+
+---
 
 **le schéma EAC-CPF** : La traduction informatique de la norme ISAAR-CPF en langage informatique :
 
@@ -251,11 +253,36 @@ Les informations contenus dans le vocabulaire sont embarquées dans la notice d'
 
 ---
 
-1. lien avec les autorités administratives : 2"
-2. lien avec les profils SEDA : 1"
-3. lien avec les outils de gestion des archives papier et électroniques : 5"
-4. workflow de publication
-5. Synchronisation
+2. lien avec les autorités administratives : 2"
+
+   Permet de relier une autorité administrative à une notice d'autorité
+
+![capture écran lien autorité administrative](./images/lien-autorite-admin.png)
+
+---
+3. lien avec les profils SEDA : 1"
+
+---
+
+4. lien avec les outils de gestion des archives papier et électroniques : 5"
+![capture écran lien Arkhéia](./images/ProcessusArkheiaRef.png)
+
+A retenir : 
+- Le référentiel : centralisateur des données de référence.
+- Les notices "Acteurs" d'Arkhéia seront validées dans le référentiel pour :
+  - Eviter les doublons,
+  - Normaliser les noms
+  - Faciliter à terme les liens entre les versements "papier" et "électroniques
+
+---
+
+5. workflow de publication
+
+---
+
+6. Synchronisation
+
+
 
 ##### Présentation de l'interface de saisie en détails : 45"
 
