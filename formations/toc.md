@@ -19,4 +19,6 @@ background-size: contain;
 
 ## Modules
 
-- [notices producteurs](./noticeproducteur.html)
+- [Notices producteurs](./noticeproducteur.html)
+- [SEDA](./SEDA.html)
+- [Versement de A à Z](./Versement.html)
