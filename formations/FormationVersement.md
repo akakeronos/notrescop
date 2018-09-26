@@ -11,6 +11,8 @@ background-size: contain;
 - comprendre la chaîne de traitement
 - maîtriser la création de profil SEDA
 
+---
+
 ## Présentation : 20"
 
 Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises questions, loi des 2 pieds, détente collective)
@@ -23,8 +25,6 @@ Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises qu
 - Nuage de mots : https://answergarden.ch/create/
 
 ---
-
-##
 
 ## Programme de la formation : 5"
 
@@ -80,15 +80,17 @@ class: center, top
 
 2. Ensuite on va présenter la chronologie des opérations par les diagrammes de séquences.
 
-## ![exemple de diagramme de classe verser archives](./images/diagrammeSequenceArchiver.png)
+![exemple de diagramme de classe verser archives](./images/diagrammeSequenceArchiver.png)
+
+---
 
 class: center, top
 
 ## Modélisation d'un processus
 
-3. Et finir par les diagrammes statiques, qui sont celles de classe de conception, de classe participantes et le modèle physique.
+1. Et finir par les diagrammes statiques, qui sont celles de classe de conception, de classe participantes et le modèle physique.
 
-.![exemple de diagramme de classe verser archives](./images/diagrammeClasseVerserArchives.png)
+![exemple de diagramme de classe verser archives](./images/diagrammeClasseVerserArchives.png)
 
 ---
 
@@ -107,3 +109,46 @@ class: center, top
 ![explication des métadonnées par un métaphore sur le vin](./images/vinContexte.png)
 
 ---
+
+#### Le standard des échanges d'archives publiques : SEDA
+
+.pull-left[
+![schema SEDA](./images/schemaSeda.PNG)
+]
+.pull-right[
+
+- Le schéma SEDA permet de décrire les relations entre les acteurs au cours des échanges (transfert, de communication, de modification, d'élimination ou de restitution d’archives).
+
+- Il permet d'automatiser les procédures d'échange d'information en décrivant les règles contractuelles qui régissent le versement et la prise en charge d'un paquet d'information.
+
+- Les messages SEDA décrivent les contraintes (format, support, identification) et fournissent un historique des opérations effectuées (transfert, réception, destruction, etc..)
+
+- La grammaire XML permet de définir des règles formelles vérifiables par les machines (est égal à, ne peut pas être différent de, n'existe qu'en un seul exemplaire, provient de, etc...)
+  ]
+
+---
+
+#### modélisation des échanges d’informations dans le cadre de l’archivage
+
+- les acteurs de l'échange
+  - service producteur
+  - service versant
+  - service d'archives
+  - service de contrôle
+  - service demandeur
+
+.reduite[
+![illustration des moyens transverses](./images/desertB.jpg)
+]
+
+---
+
+### La structuration des messages SEDA
+
+![le schéma SEDA](./images/seda1.png)
+
+---
+
+### La structuration des messages SEDA
+
+![Les échanges SEDA](./images/seda2.png)
