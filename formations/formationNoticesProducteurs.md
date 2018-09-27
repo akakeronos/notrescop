@@ -573,7 +573,7 @@ Dans une relation hiérarchique, l’entité peut exercer une autorité et contr
 
 ---
 
-**Relation hiérarchique**
+##### **Relation hiérarchique**
 
 - Exercice 2 : créer une relation hiérarchique où l'entité est le supérieur (parent) d'une autre entité
 
@@ -588,6 +588,14 @@ Cette expression générale désigne tout type de relation autre que ceux mentio
 ![capture Relation association](./images/relation-association.png)
 
 ---
+
+#### Zone de Contrôle
+
+La zone de contrôle telle qu'entendue par la norme ISAAR-CPF n'est pas vraiment intégrée au référentiel mais :
+
+Certains éléments sont renseignés automatiquement grâce à la zone **<u>Cycle de vie</u>** et à **<u>l'état de publication</u>** de la notice. 
+
+![capture écran cycle de vie](./images/CycledeVie.png)
 
 #### Exporter en EAC
 
