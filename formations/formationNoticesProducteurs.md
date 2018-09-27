@@ -225,7 +225,7 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 
 De nombreux champs des notices producteurs pourront être remplis grâce à des vocabulaires contrôlés pour :
 
-- être conforme au schéma XML-EAC
+- être conformes au schéma XML-EAC
 
 - faciliter la saisie
 
@@ -262,15 +262,24 @@ Les informations contenus dans le vocabulaire sont embarquées dans la notice d'
 ---
 3. lien avec les profils SEDA : 1"
 
+Lier un service producteur à une unité d'archives d'un profil SEDA
+
+![capture écran lien Unité d'archives d'un profil](./images/lien-UA-notice-prod.png)
+
+
+
 ---
 
 4. lien avec les outils de gestion des archives papier et électroniques : 5"
-![capture écran lien Arkhéia](./images/ProcessusArkheiaRef.png)
+
+
+
+  ![capture écran lien Arkhéia](./images/ProcessusArkheiaRef.png)
 
 A retenir : 
 - Le référentiel : centralisateur des données de référence.
 - Les notices "Acteurs" d'Arkhéia seront validées dans le référentiel pour :
-  - Eviter les doublons,
+  - Eviter les doublons
   - Normaliser les noms
   - Faciliter à terme les liens entre les versements "papier" et "électroniques
 
@@ -278,15 +287,27 @@ A retenir :
 
 5. workflow de publication
 
----
+- Attribuer le statut "publier" à une notice producteur
 
-6. Synchronisation
+  Par défaut le statut de la notice est "brouillon"
+
+  ![capture écran lien Unité d'archives d'un profil](./images/StatutNoticeProd1.png)
+
+- Commentaire sur le changement de statut
+
+![capture écran lien Arkhéia](./images/StatutNoticeProd2.png)
+
+- Le statut est modifié
+
+![capture écran lien Arkhéia](./images/StatutNoticeProd3.png)
+
+---
 
 
 
 ##### Présentation de l'interface de saisie en détails : 45"
 
-##### Le schéma EAC (évolution vers RIC) : 10"
+
 
 ---
 
@@ -568,8 +589,33 @@ Cette expression générale désigne tout type de relation autre que ceux mentio
 
 ---
 
-- Publier
-- Exporter en EAC
+#### Exporter en EAC
+
+**Exporter**
+
+![capture écran Exporter une notice](./images/Exporter.png)
+
+---
+
+**Enregistrer la notice**
+
+![capture écran Téléchargement une notice](./images/Enregistrer.png)
+
+
+
+**La notice se trouve dans téléchargement**
+
+![capture écran Téléchargement une notice](./images/Telechargement.png)
+
+Le nom se forme automatiquement à partir de l'identifiant ARK
+
+---
+
+**Exemple d'export EAC**
+
+![capture écran Export EAC](./images/ExportEAC.png)
+
+
 
 #### Conclusion
 
