@@ -629,8 +629,14 @@ Le nom se forme automatiquement à partir de l'identifiant ARK
 
 ![capture écran Export EAC](./images/ExportEAC.png)
 
-
+---
 
 #### Conclusion
 
 Vous n'êtes pas tout seul...
+
+Le portrait
+
+Quels sentiments après cette journée de formation ?
+
+https://answergarden.ch/778227
