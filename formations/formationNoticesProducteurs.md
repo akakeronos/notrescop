@@ -26,7 +26,13 @@ Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises qu
 
 **Dispositif** :
 
-_-_ Nuage de mots : https://answergarden.ch/778219 et https://answergarden.ch/778221
+_-_ Nuage de mots :
+
+Pourquoi des notices producteur ? https://answergarden.ch/778219 
+
+et 
+
+Quelles sont  vos appréhensions face à ce nouvel outil ? https://answergarden.ch/778221
 
 ---
 
