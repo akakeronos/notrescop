@@ -138,6 +138,8 @@ L’ensemble des règles définies constitue un profil SEDA, lui-même composé 
 
 ## PAUSE : 20"
 
+![illustration pause / notice producteur](./images/IllustrationPause.jpg)
+
 ---
 
 ### III - Les notices producteurs dans le Référentiel : 85"
