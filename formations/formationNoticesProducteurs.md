@@ -20,6 +20,10 @@ background-size: contain;
 - maîtriser la création de notices
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ## Présentation : 20"
 
@@ -39,6 +43,10 @@ et
 Quelles sont  vos appréhensions face à ce nouvel outil ? https://answergarden.ch/778221
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ## Programme de la formation : 5"
 
@@ -46,6 +54,10 @@ Quelles sont  vos appréhensions face à ce nouvel outil ? https://answergarden.
 - après-midi : manipulation (les mains dans le cambouis)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ### Concept : les données de référence de l'archivage
 
@@ -66,6 +78,10 @@ Des descriptions séparées mais liées permettent :
 ![image  L'indexation](./images/Lindexation.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ### Présentation du référentiel : 30"
 
@@ -78,6 +94,10 @@ La mise à disposition de « _données de référence_ » constitue depuis de la
 Toutes les administrations sont censées participer à ce « service public de la donnée » : ministères, collectivités territoriales, opérateurs publics, etc.
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **Un outil « #DataQuality »**
 
@@ -88,6 +108,10 @@ Toutes les administrations sont censées participer à ce « service public de l
 ![image le modèle de données du Référentiel girondin](./images/leReferentiel-modele-donnees.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 Un référentiel de structuration et de gestion des métadonnées, interopérable pour **créer, importer, centraliser, gérer et exposer** :
 
@@ -97,6 +121,10 @@ Un référentiel de structuration et de gestion des métadonnées, interopérabl
 - des profils d’archivage conformes au SEDA (toutes versions)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### 2. Les entités dans le référentiel
 
@@ -107,6 +135,10 @@ Les vocabulaires sont des **listes de termes** organisées. Ils peuvent prendre 
 Dans le référentiel, il est possible de créer des vocabulaires mais également d’en importer.
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### 2. Les entités dans le référentiel
 
@@ -117,6 +149,10 @@ Les notices d’autorités sont des **fiches de description des producteurs** d�
 Dans le référentiel, chaque notice d’autorité présente des informations sur un producteur qui sont classée dans les quatre premiers onglets (informations générales, description, propriétés, relations). Ces onglets correspondent aux zones de la norme ISAAR-CPF. Un cinquième onglet « cycle de vie » correspond à l’enregistrement des évenements effectués sur la notice.
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### 2. Les entités dans le référentiel
 
@@ -129,6 +165,10 @@ L’autorité administrative n’a pas de rôle archivistique propre ; les rôle
 > NAAN : Name Assigning Authority Number . L'identifiant d'autorité d'une entité (administrative)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### 2. Les entités dans le référentiel
 
@@ -139,12 +179,20 @@ Pour préparer des versements automatisés ou réguliers d’archives électroni
 L’ensemble des règles définies constitue un profil SEDA, lui-même composé de plusieurs unités d’archives et d’objets données associés. Dans un premier temps, il convient de créer des unités d’archives qui seront réutilisables dans n’importe quel profil.
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ## PAUSE : 20"
 
 ![illustration pause / notice producteur](./images/IllustrationPause.jpg)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ### III - Les notices producteurs dans le Référentiel : 85"
 
@@ -160,6 +208,10 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 4. Zone du contrôle
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **ISAAR (CPF) la zone d’identification**
 
@@ -171,6 +223,10 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 6. Numéro d’immatriculation des collectivités
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **ISAAR (CPF) : la zone de la description**
 
@@ -184,6 +240,10 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 8. Contexte général
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **ISAAR (CPF) : la zone des relations**
 
@@ -193,6 +253,10 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 4. Dates de la relation
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **ISAAR (CPF) : la zone du contrôle**
 
@@ -209,6 +273,10 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 **_NB : Pour en savoir plus sur la norme ISAAR-CPF_** : https://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_FR.pdf
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **le schéma EAC-CPF** : La traduction informatique de la norme ISAAR-CPF en langage informatique :
 
@@ -219,6 +287,10 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 3. Dans le Référentiel : l'autorité administrative
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **Les éléments non obligatoires mais fortement recommandés** :
 
@@ -230,6 +302,10 @@ ISAAR (CPF) Norme internationale sur les notices d'autorité archivistiques rela
 6. Zone des relations
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ##### lien entre les entités du référentiel : 10"
 
@@ -244,6 +320,10 @@ De nombreux champs des notices producteurs pourront être remplis grâce à des 
 - éviter les erreurs
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 Le champs à reconnaitre :
 
@@ -258,12 +338,20 @@ Puis on cherche le terme adéquat : autocomplétion
 ![capture écran lien vocabulaire / notice producteur](./images/autocompletion-voc.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 Les informations contenus dans le vocabulaire sont embarquées dans la notice d'autorité
 
 ![capture écran lien vocabulaire / notice producteur](./images/embarque-info-voc.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 2. lien avec les autorités administratives : 2"
 
@@ -272,19 +360,24 @@ Les informations contenus dans le vocabulaire sont embarquées dans la notice d'
 ![capture écran lien autorité administrative](./images/lien-autorite-admin.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
 3. lien avec les profils SEDA : 1"
 
 Lier un service producteur à une unité d'archives d'un profil SEDA
 
 ![capture écran lien Unité d'archives d'un profil](./images/lien-UA-notice-prod.png)
 
-
-
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 4. lien avec les outils de gestion des archives papier et électroniques : 5"
-
-
 
   ![capture écran lien Arkhéia](./images/ProcessusArkheiaRef.png)
 
@@ -296,6 +389,10 @@ A retenir :
   - Faciliter à terme les liens entre les versements "papier" et "électroniques
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 5. workflow de publication
 
@@ -314,14 +411,18 @@ A retenir :
 ![capture écran lien Arkhéia](./images/StatutNoticeProd3.png)
 
 ---
-
-
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ##### Présentation de l'interface de saisie en détails : 45"
 
-
-
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ## Main dans le cambouis
 
@@ -332,6 +433,10 @@ A retenir :
 ![capture écran zone information générale](./images/zoneInfGen.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### Saisie de la zone description
 
@@ -340,6 +445,10 @@ Zoom sur les menus de la zone description
 ![capture écran infos bulles de la zone desciption](./images/zone-description-infos-bulle.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **Exercice** :
 
@@ -348,6 +457,10 @@ Zoom sur les menus de la zone description
 ![capture écran zone description](/Users/delphinejamet/Documents/git/notrescop/formations/images/ajouter-zone-description.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - **Ajouter un lieu**
   Chapitre 5.2.3 d'ISAAR-CPF : Lieux
@@ -363,6 +476,10 @@ Enregistrer, pour chacun des principaux lieux/ressorts juridictionnels, son nom,
 ![capture écran lieu](./images/ajouter-un-lieu.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - **Ajouter une fonction**
 
@@ -378,6 +495,10 @@ Contient les informations sur les activités de l'entité décrite.
 ![capture écran fonction](./images/ajouter-une-fonction.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - **Ajouter un statut juridique**
   Chapitre 5.2.4 d'ISAAR-CPF : Statut juridique
@@ -397,6 +518,7 @@ Enregistrer le statut juridique et, s’il y a lieu, la nature de la collectivit
 Chapitre 5.2.6 d'ISAAR-CPF : Textes de référence
 
 **Objectif**:
+
 Indiquer l’origine des attributions de la collectivité, de la personne ou de la famille, qu’il s’agisse de ses pouvoirs, de ses fonctions, de ses responsabilités, ou de son champ d’activité (y compris géographique).
 
 **Règle**:
@@ -406,6 +528,10 @@ Enregistrer tout texte de référence (loi, décret, arrêté, directive, recomm
 ![capture écran un texte de référence](./images/ajouter-1-textedeRef.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - **Ajouter un contexte général**
 
@@ -422,6 +548,10 @@ Enregistrer toutes les informations significatives sur le contexte social, cultu
 ![capture écran profession/activités](./images/ajouter-1-profession.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - **Ajouter une profession ou une activité**
 
@@ -439,6 +569,10 @@ Contient les informations sur les activités de l'entité décrite.
 ![capture écran profession/activités](./images/ajouter-1-profession.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - **Ajouter l'élément Organisation interne/généalogie**
 
@@ -454,6 +588,10 @@ Pour une famille, décrire la généalogie (par exemple à l’aide d’un arbre
 ![capture écran organisation interne/généalogie](./images/ajouter-organisation-interne.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - **Ajouter l'élément d'information historique**
 
@@ -470,6 +608,10 @@ Enregistrer, sous la forme d’un texte rédigé ou d’une chronologie, les pri
 ![capture écran information historique](./images/ajouter-info-historique.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### Renseigner la zone "propriété"
 
@@ -484,6 +626,10 @@ et
 ![capture écran ajouter les propriétés](./images/Onglet-proprietes.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ##### Sources
 
@@ -500,6 +646,10 @@ Enregistrer ici les sources consultées pour l’élaboration de la notice d’a
 ![capture écran ajouter une source](./images/sources.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ##### Ressources liées
 
@@ -510,6 +660,10 @@ Pour que ces informations soient utiles, il est nécessaire de relier les notice
 ![capture écran ajouter une ressource](./images/relation-vers-une-ressource.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - Chapitre 6.3 d'ISAAR-CPF : Nature des relations entre l'agent et la ressource
 
@@ -524,6 +678,10 @@ Décrire la nature des relations entre la collectivité, la personne ou la famil
 ![capture écran ajouter la nature de la relation entre l'agent et la ressource](./images/nature-de-la-relation.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 - Chapitre 6.2 d'ISAAR-CPF : Nature des ressources associées
 
@@ -538,6 +696,10 @@ Préciser la nature des ressources associées : ensemble archivistique (fonds, s
 ![capture écran ajouter la nature de la ressource associée](./images/nature-de-la-ressource.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### Renseigner la zone relation
 
@@ -552,6 +714,10 @@ Dans ISAAR-CPF (chapitre 5.4.3) plusieurs relations sont définies : Elles perme
 ![capture écran Differentes Relations](./images/Differentes-Relations.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **Le Référentiel permet de typer 3 des 4 relations prévues par la norme :**
 
@@ -564,6 +730,10 @@ Dans une relation chronologique, l’entité peut succéder à plusieurs collect
 ![capture écran successeur](./images/successeur.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **Relation chronologique**
 
@@ -572,6 +742,10 @@ Dans une relation chronologique, l’entité peut succéder à plusieurs collect
 ![capture prédécesseur](./images/predecesseur.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ##### Relation hiérarchique
 
@@ -584,6 +758,10 @@ Dans une relation hiérarchique, l’entité peut exercer une autorité et contr
 ![capture Relation chronologiue : enfant](./images/Enfant.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ##### **Relation hiérarchique**
 
@@ -592,6 +770,10 @@ Dans une relation hiérarchique, l’entité peut exercer une autorité et contr
 ![capture Relation chronologiue : parent](./images/parent.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ##### Relation d’association
 
@@ -600,6 +782,10 @@ Cette expression générale désigne tout type de relation autre que ceux mentio
 ![capture Relation association](./images/relation-association.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### Zone de Contrôle
 
@@ -616,6 +802,10 @@ Certains éléments sont renseignés automatiquement grâce à la zone **<u>Cycl
 ![capture écran Exporter une notice](./images/Exporter.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **Enregistrer la notice**
 
@@ -630,12 +820,20 @@ Certains éléments sont renseignés automatiquement grâce à la zone **<u>Cycl
 Le nom se forme automatiquement à partir de l'identifiant ARK
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 **Exemple d'export EAC**
 
 ![capture écran Export EAC](./images/ExportEAC.png)
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 #### Conclusion
 
