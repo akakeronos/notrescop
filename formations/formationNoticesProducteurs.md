@@ -1,5 +1,5 @@
 class: inverse, center, middle
-background-image: url(./images/continuum.jpg)
+background-image: url(./images/fondCorporate.png)
 background-position: top;
 background-repeat: no-repeat;
 background-size: contain;
@@ -8,6 +8,10 @@ background-size: contain;
 # Formation Référentiel : notices d'autorité
 
 ---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ## Objectifs
 
