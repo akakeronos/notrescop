@@ -418,6 +418,8 @@ background-size: contain;
 
 ##### Présentation de l'interface de saisie en détails : 45"
 
+http://srvmv-julienne.cg33.fr:18080/
+
 ---
 background-position: top;
 background-repeat: no-repeat;
