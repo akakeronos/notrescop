@@ -1,4 +1,4 @@
-class: inverse, center, middle
+class: center, middle
 background-image: url(./images/fondCorporate.png)
 background-position: top;
 background-repeat: no-repeat;
