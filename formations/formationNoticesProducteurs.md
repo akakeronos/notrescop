@@ -795,6 +795,12 @@ Certains éléments sont renseignés automatiquement grâce à la zone **<u>Cycl
 
 ![capture écran cycle de vie](./images/CycledeVie.png)
 
+---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
 #### Exporter en EAC
 
 **Exporter**
@@ -810,8 +816,6 @@ background-size: contain;
 **Enregistrer la notice**
 
 ![capture écran Téléchargement une notice](./images/Enregistrer.png)
-
-
 
 **La notice se trouve dans téléchargement**
 
