@@ -27,8 +27,6 @@ background-size: contain;
 
 ## Présentation : 20"
 
-Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises questions, loi des 2 pieds, détente collective)
-
 - pourquoi nous sommes là ?
 - quel est notre objectif commun ?
 
@@ -36,11 +34,32 @@ Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises qu
 
 _-_ Nuage de mots :
 
-Pourquoi des notices producteur ? https://answergarden.ch/779521
+Pourquoi des notices producteur ?
 
-et 
+Groupe 1 : les réponses
 
-Quelles sont  vos appréhensions face à ce nouvel outil ? https://answergarden.ch/779522
+![image nuage de mots groupe1 Notice producteur](./images/session1-NP.png)
+
+Groupe 2 : les réponses
+
+![image nuage de mots groupe2 Notice producteur](./images/session2-NP.png)
+
+---
+
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+Quelles sont  vos appréhensions face à ce nouvel outil ? 
+
+Groupe 1 : les réponses
+
+![image nuage de mots groupe1 Appréhension](./images/groupe1-apprehension.png)
+
+Groupe 2 : les réponses
+
+![image nuage de mots groupe2 Appréhension](./images/groupe2-apprehension.png)
 
 ---
 background-position: top;
