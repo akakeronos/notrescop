@@ -771,6 +771,13 @@ background-size: contain;
 
 ![capture Relation chronologiue : parent](./images/parent.png)
 
+##### **Relation hiérarchique**
+
+- Exercice 3 : créer une relation hiérarchique où l'entité est l'enfant d'une entité extérieure au référentiel ==> lier une uri externe
+
+
+
+
 ---
 background-position: top;
 background-repeat: no-repeat;
@@ -843,10 +850,19 @@ background-size: contain;
 
 #### Conclusion
 
-Vous n'êtes pas tout seul...
-
-Le portrait
-
 Quels sentiments après cette journée de formation ?
 
-https://answergarden.ch/779523
+
+
+Réponse du premier groupe : 
+
+![capture écran Export EAC](./images/session1-Sentiment.png)
+
+
+
+Réponse du 2e groupe : 
+
+
+
+![capture écran Export EAC](./images/session2-Sentiment.png)
+
