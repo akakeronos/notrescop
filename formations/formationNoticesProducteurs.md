@@ -36,11 +36,11 @@ Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises qu
 
 _-_ Nuage de mots :
 
-Pourquoi des notices producteur ? https://answergarden.ch/778219 
+Pourquoi des notices producteur ? https://answergarden.ch/779521
 
 et 
 
-Quelles sont  vos appréhensions face à ce nouvel outil ? https://answergarden.ch/778221
+Quelles sont  vos appréhensions face à ce nouvel outil ? https://answergarden.ch/779522
 
 ---
 background-position: top;
@@ -849,4 +849,4 @@ Le portrait
 
 Quels sentiments après cette journée de formation ?
 
-https://answergarden.ch/778227
+https://answergarden.ch/779523
