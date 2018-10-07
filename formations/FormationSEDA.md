@@ -1,4 +1,6 @@
-class: inverse, center, middlebackground-position: top;
+class: center, middle
+
+background-position: top;
 background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
@@ -38,6 +40,10 @@ background-size: contain;
 
 
 - matinée : concepts et usages
+
+  - processus et versement
+  - métadonnées et structuration
+  - SEDA
 - après-midi : manipulation (les mains dans le cambouis)
 
 ---
@@ -120,7 +126,7 @@ background-size: contain;
 
 > Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
 
-![explication des métadonnées par un métaphore sur le vin](./images/vinContexte.png)
+![explication des métadonnées par un métaphore sur le vin](./images/vinContexte.PNG)
 
 ---
 background-position: top;
