@@ -20,7 +20,7 @@ le projet est-il né d’une volonté « politique » par le haut ou du fait de 
 
 ---
 #### Tout ce que vous avez toujours voulu savoir sur le projet Girondin
-![facilitation graphique](./media/illustrationSAEM.jpg)
+![facilitation graphique](./images/illustrationSAEM.jpg)
 ---
 #### Chronologie
 * **2010** : Initiative du Conseil général de la Gironde recherche de partenaires
@@ -28,14 +28,14 @@ le projet est-il né d’une volonté « politique » par le haut ou du fait de 
 
 * La première priorité : définir le **cadre du partenariat** et les modalités d’**achat commun** de prestations. 
 
-.reduite[![Dieu Chronos](./media/chronos.jpg)]
+.reduite[![Dieu Chronos](./images/chronos.jpg)]
 ---
 #### Objectifs
 * Mettre en place un **partenariat exemplaire** entre les membres fondateurs afin de mutualiser les expériences des partenaires et favoriser la **montée en compétences de chacun**,
 * Optimiser et **partager les coûts** d’investissement des collectivités sur le prototypage d’un SAE,
 * Construire ensemble une **offre** d’archivage électronique de confiance qui pourra être **ouverte** à d’autres utilisateurs autour des membres fondateurs.
 
-![economie et investissement](./media/ecoEchelleAnime.gif)
+![economie et investissement](./images/ecoEchelleAnime.gif)
 ---
 #### Orientations partagées
 * Utiliser des **solutions libres**
@@ -44,7 +44,7 @@ le projet est-il né d’une volonté « politique » par le haut ou du fait de 
 * Permettre que le SAE puisse **recevoir** une grande variété d’archives
 * Mettre en œuvre une **gouvernance des risques** conformément au RGS
 
-![course d'orientation](./media/course-orientation-lg.png)
+![course d'orientation](./images/course-orientation-lg.png)
 ---
 
 #### Les phases du projet
@@ -53,7 +53,7 @@ Découpage du projet en trois étapes
 * phase 2 – **Développements** complémentaires et construction du référentiel, **études** complémentaires
 * phase 3 – **Exploitation puis offre de service** du système d’archivage électronique.
 
-![phases projet SAEM](./media/phasesaem.png)
+![phases projet SAEM](./images/phasesaem.png)
 
 ---
 #### Outillage projet
@@ -62,23 +62,23 @@ Découpage du projet en trois étapes
 * **tableau** (Kanban) de suivi des développements (cubicweb avec Logilab, Jira avec Atos)
 * **Pad** prise de notes partagé (framapad), **dépôt de source** et gestion de la **documentation en ligne** (gitlab/readthedocs)
 
-.reduite[![illustration outillage](./media/outillage.jpg)]
+.reduite[![illustration outillage](./images/outillage.jpg)]
 ---
 #### Réalisations et périmètre fonctionnel
 * Des besoins fonctionnels à géométrie variable
 * pas de solution disponible sur étagère
 
-![image des enjeux de la conservation pérenne](./media/etagere.jpg)
+![image des enjeux de la conservation pérenne](./images/etagere.jpg)
 ---
 #### Réalisations et périmètre fonctionnel
-![périmètre variable](./media/perimetre.png)
+![périmètre variable](./images/perimetre.png)
 ---
 #### Méthode agile pour le développement
 .pull-left[
-.reduite[![priorisation avec post-it](./media/postit.jpg)]
+.reduite[![priorisation avec post-it](./images/postit.jpg)]
 ]
 .pull-right[
-.reduite[![princpes avant processus](./media/principesAgile.png)]
+.reduite[![princpes avant processus](./images/principesAgile.png)]
 ]
 
 * Les individus et leurs interactions, de préférence aux processus et aux outils,
@@ -91,7 +91,7 @@ Découpage du projet en trois étapes
 #### L'expression des besoins...et leur priorisation
 Rédactions en commun de users stories (US) : « en tant que (rôle).. je veux (fonctionnalité métier)… afin de (objectif)… » + critères d’acceptation pour tests
 
-.reduite[![rédaction user story](./media/userStories.png)]
+.reduite[![rédaction user story](./images/userStories.png)]
 
 ---
 #### Le référentiel des besoins...en mouvement
@@ -100,12 +100,12 @@ Rédactions en commun de users stories (US) : « en tant que (rôle).. je veux 
 * réunion de planification avec le(s) prestataire(s) : identification des tâches de développement et estimation de la charge
 * sprint de développement : 2 semaines du lundi au vendredi, présentation du résultat au COPROJ ou COTECH (démo) et rétrospective (amélioration continue)
 
-.reduite[![rédaction user story](./media/rapportJIRA.png)]
+.reduite[![rédaction user story](./images/rapportJIRA.png)]
 
 ---
 #### Réalisation par phase : définition de la vision produit
 
-![schéma vision produit](./media/vision2.png)
+![schéma vision produit](./images/vision2.png)
 
 ---
 #### Réalisations phase 2
@@ -139,32 +139,32 @@ Audit de conformité (grille SIAF, NF42-013, OAIS) :
 * 80% des exigences couvertes
 ]
 
-.reduite[![mobylette](./media/mobylette.jpg)]
+.reduite[![mobylette](./images/mobylette.jpg)]
 ---
 #### Ontologie saem
-![l'ontologie SAEM](./media/ontologieSAEM.png)
+![l'ontologie SAEM](./images/ontologieSAEM.png)
 ---
 #### Le référentiel Girondin
-.reduite[![accueil saemRef](./media/acceuilRef.png)]
+.reduite[![accueil saemRef](./images/acceuilRef.png)]
 ---
 #### Le référentiel Girondin
 **Autorités administratives** : possibilité de créer des collectivités et leurs entités (basée sur l’ontologie Organization)
 
-.reduite[![accueil saemRef](./media/accueilAA.png)]
+.reduite[![accueil saemRef](./images/accueilAA.png)]
 ---
 #### Le référentiel Girondin
 **Notices d’autorité** : possibilité de créer ou d’importer des notices d’autorité en XML EAC et de les associer à une autorité ou une unité administrative
 
-.reduite[![accueil AR](./media/accueilAR.png)]
+.reduite[![accueil AR](./images/accueilAR.png)]
 ---
 #### Le référentiel Girondin
 **Vocabulaires** : possibilité d’importer des vocabulaires (thésaurus et listes d’autorité SIAF) et d’en créer pour les besoins des métiers de chaque collectivité (ex : liste des lieux ou bâtiments)
-.reduite[![accueil Voc](./media/acceuilVoc.png)]
+.reduite[![accueil Voc](./images/acceuilVoc.png)]
 ---
 #### Le référentiel Girondin
 **Profils SEDA** et unités d’archives: création de profils et possibilité d’export et inspiration de la V2 du SEDA pour concevoir des unités d’archives réutilisables pour constituer des profils
 
-.reduite[![les sous-catégories de normes](./media/accueilProfil.png)]
+.reduite[![les sous-catégories de normes](./images/accueilProfil.png)]
 ---
 #### Partage d'expériences : travailler en réseau
 Assurer la **cohérence et la complémentarité** du projet SAEM avec d'autres projets en cours
@@ -188,7 +188,7 @@ Assurer la **cohérence et la complémentarité** du projet SAEM avec d'autres p
 ---
 #### Equipe projet : complémentarité et complicité
 .pull-left[
-![Experte en archives numériques](./media/valorisatrice.png)
+![Experte en archives numériques](./images/valorisatrice.png)
 ]
 .pull-right[
 **Delphine Jamet** : experte en archives numériques
@@ -201,7 +201,7 @@ Assurer la **cohérence et la complémentarité** du projet SAEM avec d'autres p
 ---
 #### Equipe projet : complémentarité et complicité
 .pull-left[
-![facilitateur produit](./media/traiteur.png)
+![facilitateur produit](./images/traiteur.png)
 ]
 .pull-right[
 **Pascal Romain** : facilitateur produit
@@ -213,4 +213,4 @@ Assurer la **cohérence et la complémentarité** du projet SAEM avec d'autres p
 ---
 ### Démo
 [espace démo](http://saem-demo.cloudapp.net)
-![formulaire ged](./media/demo.jpg)
+![formulaire ged](./images/demo.jpg)
