@@ -6,20 +6,19 @@ background-image: url(./images/fondCorporate.png)
 background-size: contain;
 .footnote[Ceci est fait en texte avec du logiciel libre]
 
-## Objectifs
+### Objectifs
 
 - comprendre la gestion des données de référence
 - comprendre la notion de profil SEDA, unités d'archives et objets-données
 - maîtriser la création de profil SEDA
 
 ---
-
 background-position: top;
 background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Présentation : 20"
+### Présentation
 
 Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises questions, loi des 2 pieds, détente collective)
 
@@ -36,14 +35,13 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Programme de la formation : 5"
-
+### Programme de la formation : 5"
 
 - matinée : concepts et usages
-
   - processus et versement
   - métadonnées et structuration
-  - SEDA
+  - SEDA : modèle de données
+  - présentation de l'interface du référentiel
 - après-midi : manipulation (les mains dans le cambouis)
 
 ---
@@ -52,9 +50,9 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Introduction sur processus de versement
+### Introduction sur processus de versement
 
-### Un petit détour par la vision processus
+#### Un petit détour par la vision processus
 
 > **processus** : ensemble ordonnées d'activités qui délivre un produit et/ou un service, à un "client" interne ou externe, lui apporte de la valeur, répond à ses besoins exprimés ou implicites et nécessite d'être maîtrisé/piloté
 
@@ -68,9 +66,9 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Modélisation d'un processus
+#### Modélisation d'un processus
 
-1. On commence par définir les diagrammes de cas d'utilisation (Use Case)
+On commence par définir les diagrammes de cas d'utilisation (Use Case)
 
 ![exemple de cas d'utilisation archiver](./images/useCaseArchiver.png)
 
@@ -84,15 +82,14 @@ Cas d'utilisation : Un cas d'utilisation (use case) représente un ensemble de s
 -->
 
 ---
-
 background-position: top;
 background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Modélisation d'un processus
+#### Modélisation d'un processus
 
-2. Ensuite on va présenter la chronologie des opérations par les diagrammes de séquences.
+Ensuite on va présenter la chronologie des opérations par les diagrammes de séquences.
 
 ![exemple de diagramme de classe verser archives](./images/diagrammeSequenceArchiver.png)
 
@@ -102,15 +99,15 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Modélisation d'un processus
+#### Modélisation d'un processus
 
-1. Et finir par les diagrammes statiques, qui sont celles de classe de conception, de classe participantes et le modèle physique.
+Et finir par les diagrammes statiques, qui sont celles de classe de conception, de classe participantes et le modèle physique.
 
 ![exemple de diagramme de classe verser archives](./images/diagrammeClasseVerserArchives.png)
 
 ---
 
-### Les métadonnées de pérennisation
+#### Les métadonnées de pérennisation
 
 ![métaphore métadonnées comme partie imergée iceberg](./images/icebergMetadonnees.jpg)
 
@@ -175,7 +172,14 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### La structuration des messages SEDA
+#### La structuration des données
+* Archive : Elle est composée de métadonnées (informations de représentation et de pérennisation) ainsi que d'objets d'archives et de documents.
+* Objet d'archives: Il s'agit d'une subdivision intellectuelle de l'Archive qui possède des caractéristiques propre de conservation. Les objets peuvent eux-même subdivisés
+en objets.
+* Document: Sert à transporter des contenus de données (fichiers) associés à leurs métadonnées.
+
+---
+#### La structuration des messages SEDA
 
 ![le schéma SEDA](./images/seda1.png)
 
@@ -189,3 +193,35 @@ background-size: contain;
 
 ![Les échanges SEDA](./images/seda2.png)
 
+---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+#### transfert d'archives en SEDA
+![les transferts](./images/archiveTransfert.png)
+---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+#### transfert d'archives en SEDA
+![les unités d'archives](./images/archiveTransfertUnitArchives.png)
+---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+#### transfert de marchés notifiés en SEDA : la production
+![l'arbo MP](./images/TransfertMP.png)
+---
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+#### transfert de marchés notifiés en SEDA : l'arborescence d'un versement
+![la production MP](./images/arboMP.png)
