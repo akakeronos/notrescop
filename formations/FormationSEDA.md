@@ -27,7 +27,7 @@ Objectifs : faire un tour de table, ouverture des échanges (pas de mauvaises qu
 
 **Dispositif** :
 
-Nuage de mots : https://answergarden.ch/create/
+Nuage de mots : https://answergarden.ch/787259
 
 ---
 background-position: top;
