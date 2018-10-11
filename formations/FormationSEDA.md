@@ -235,7 +235,11 @@ background-size: contain;
 
 ### Le référentiel et les profils SEDA : Ce qu'il faut comprendre
 
-Pour préparer des versements automatisés ou réguliers d’archives électroniques, l’étude du flux permet de définir un plan de classement type, ainsi que le contenu attendu et des règles de gestion (DUA, sort final ou communicabilité). L’ensemble des règles définies constitue un profil SEDA, lui-même composé de plusieurs unités d’archives et d’objets données associés. Dans un premier temps, il convient de créer des unités d’archives qui seront réutilisables dans n’importe quel profil.
+Pour préparer des versements automatisés ou réguliers d’archives électroniques, l’étude du flux permet de définir **un plan de classement type**, ainsi que le contenu attendu et des **règles de gestion** (DUA, sort final ou communicabilité). 
+
+L’ensemble des règles définies constitue un profil SEDA, lui-même composé de **plusieurs unités d’archives et d’objets données associés**. 
+
+Dans un premier temps, il convient de créer des unités d’archives qui seront réutilisables dans n’importe quel profil.
 
 ---
 
@@ -274,7 +278,7 @@ Cliquer sur l’icône **+** pour créer l’UA
 - Le premier pavé « aide à la saisie » correspond au nom de cette UA **<u>dans le référentiel</u>**.
 - Renseigner l’autorité nommante ark.
 - Renseigner les champs nécessaires. Ceux marqués d’un carré rouge sont obligatoires.
-- Le champ titre apparaîtra dans la ged sas. Pour le renseigner, **<u>2 cas de figures</u>** se présentent 
+- Le champ titre apparaîtra dans la ged sas. Pour le renseigner, **<u>2 cas de figures</u>** se présentent.
 
 ---
 
@@ -285,11 +289,11 @@ background-size: contain;
 
 ##### Focus sur le Champ titre d'une UA
 
-1. <u>Le titre est fixé à l’avance</u>, il peut donc être renseigné dans le  champ valeur et ne sera pas modifiable par le service versant lors de la  préparation d’un versement.
+1. **Le titre est fixé à l’avance**, il peut donc être renseigné dans le  champ valeur et ne sera pas modifiable par le service versant lors de la  préparation d’un versement.
 
    ![titre d'une Unité d'Archives](./images/unite_archives_2.png)
 
-2. <u>Le titre sera renseigné par le service versant lors de la  préparation d’un versement</u>, il faut donc laisser le champ valeur vide et  actionner l’aide à la saisie (en cliquant sur **+**) afin de préciser les  éléments attendus.
+2. Le titre sera renseigné par le service versant **lors de la  préparation d’un versement**, il faut donc laisser le champ valeur vide et  actionner l’aide à la saisie (en cliquant sur **+**) afin de préciser les  éléments attendus.
 
 ![titre d'une Unité d'Archives](./images/unite_archives_3.png)
 
@@ -327,7 +331,9 @@ background-size: contain;
 
 ##### Onglet gestion
 
-Cet onglet permet de renseigner les DUA, sort final et délais de  communicabilité. Faire glisser la souris et cliquer sur le + vert.
+Cet onglet permet de renseigner les DUA, sort final et délais de  communicabilité. 
+
+Faire glisser la souris et cliquer sur le + vert.
 
 ![onglet gestion d'une Unité d'Archives](./images/unite_archives_5.png)
 
@@ -374,7 +380,11 @@ background-size: contain;
 ![onglet Objets-données](./images/objet_binaire.png)
 
 - Dans le champ « aide à la saisie », donner un intitulé pour décrire le fichier attendu
-- Un algorythme d’empreinte doit être renseigné. Par défaut, c’est SHA 256 car c’est celui qui est utilisé par [As@lae](mailto:As%40lae).   L’algorythme d’empreinte par défaut utilisé dans la ged sas est SHA  256 (mais il n’est pas mis par défaut dans le référentiel). Si un mode  d’encodage est spécifié, dans la ged sas, au moment de compléter le  formulaire, un message indique (en plus du type de format attendu), le  type d’encodage attendu. Si le fichier sélectionné par le service  versant n’est pas dans l’encodage attendu, ça ne bloque pas le  versement, et il n’a pas de message particulier, mais au moment de la  soumission du versement au service d’archives, un nouveau message  d’alerte précise à l’attention de l’archiviste : encodage non conforme à  ce qui est attendu. Toutefois, on peut quand même accepter le  versement.
+- Un algorithme d’empreinte doit être renseigné. Par défaut, c’est SHA 256 car c’est celui qui est utilisé par as@lae. 
+
+L’algorythme d’empreinte par défaut utilisé dans la ged sas est SHA  256 (mais il n’est pas mis par défaut dans le référentiel). Si un mode  d’encodage est spécifié, dans la ged sas, au moment de compléter le  formulaire, un message indique (en plus du type de format attendu), le type d’encodage attendu. 
+
+Si le fichier sélectionné par le service  versant n’est pas dans l’encodage attendu, ça ne bloque pas le  versement, et il n’a pas de message particulier, mais au moment de la  soumission du versement au service d’archives, un nouveau message  d’alerte précise à l’attention de l’archiviste : encodage non conforme à  ce qui est attendu. Toutefois, on peut quand même accepter le  versement.
 - Cliquer sur « attachement »
 - Valider
 
@@ -453,7 +463,7 @@ background-size: contain;
 2. Le titre sera renseigné par le service versant lors de la  préparation d’un versement, il faut donc laisser le champ valeur vide et  actionner l’aide à la saisie (en cliquant sur +) afin de préciser les  éléments attendus.
 
 - Valider
-- Renseigner l’accord de service en reprenant le même intitulé que celui saisi dans [As@lae](mailto:As%40lae).
+- Renseigner l’accord de service en reprenant le même intitulé que celui saisi dans As@lae.
 - Valider
 
 ![profil 2](https://saem.readthedocs.io/fr/master/_images/profil_2.png)
@@ -484,7 +494,7 @@ background-size: contain;
 
 **Recommandations**
 
-- Il est conseillé de faire une UA de premier niveau qui englobera les autres et constituera l’enveloppe du versement final dans [As@ale](mailto:As%40ale). Si cela n’est pas fait, chaque UA de premier niveau deviendra une archive dans [As@lae](mailto:As%40lae).
+- Il est conseillé de faire une UA de premier niveau qui englobera les autres et constituera l’enveloppe du versement final dans As@ale. Si cela n’est pas fait, chaque UA de premier niveau deviendra une archive dans As@lae.
 - Il est conseillé d’utiliser des UA précédemment créées pour constituer le profil. On pourra les modifier autant que de besoin.
 
 ![profil 4](https://saem.readthedocs.io/fr/master/_images/profil_4.png)
@@ -502,7 +512,7 @@ background-size: contain;
 
 - Après validation, les unités d’archives apparaîssent dans la zone  « arbre du profil SEDA » dont elles constituent l’arborescence.
 
-  ![profil 6](https://saem.readthedocs.io/fr/master/_images/profil_6.png)
+![profil 6](https://saem.readthedocs.io/fr/master/_images/profil_6.png)
 
 ---
 
@@ -517,7 +527,10 @@ Une fois le profil créé, on doit passer de l’état « brouillon » à   « p
 
 ![profil 7](https://saem.readthedocs.io/fr/master/_images/profil_7.png)
 
-Lorsqu’un profil est devenu caduque, il est possible de le dupliquer afin d’en créer une nouvelle version actualisée. Pour cela * Se positionner sur le profil, dans la zone « actions - profil SEDA », cliquer sur « nouvelle version ». * Une copie du profil est réalisée, sur laquelle on peut faire toutes les modifications nécessaires. * Une fois le nouveau profil validé, l’ancien est automatiquement déprécié et ne pourra plus être utilisé.
+Lorsqu’un profil est devenu caduc, il est possible de le dupliquer afin d’en créer une nouvelle version actualisée. Pour cela * se positionner sur le profil, dans la zone « actions - profil SEDA », cliquer sur « nouvelle version »
+
+* Une copie du profil est réalisée, sur laquelle on peut faire toutes les modifications nécessaires. 
+* Une fois le nouveau profil validé, l’ancien est automatiquement déprécié et ne pourra plus être utilisé.
 
 ---
 
@@ -533,6 +546,3 @@ background-size: contain;
 - Sélectionner le ou les profil(s) choisi(s). (Seuls les profils publiés apparaissent dans cette liste).
 
 ![profil 8](https://saem.readthedocs.io/fr/master/_images/profil_8.png)
-
-
-
