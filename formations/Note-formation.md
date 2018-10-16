@@ -7,3 +7,12 @@ Problèmes remontés
   - comité utilisateur pour améliorer le Référentiel
 - Aide à la saisie : libellé de l'UA
 - Dans référentiel la DUA indique calcul à partir de la date de début ! Attention le calcul se fait sur la date la plus récente donc date fin
+
+
+
+Profil SEDA :
+
+Liste des étapes à ne pas oublier avant publication d'un profil
+
+Aide à la saisie : info bulle disnat attention ces informations ne seront pas visibles par le service versant
+
