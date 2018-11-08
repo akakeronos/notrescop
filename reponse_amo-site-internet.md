@@ -1,5 +1,29 @@
 # Réponse type à une demande d'assistance à maîtrise d'ouvrage dans le cadre d'une refonte de site internet
 
+## Qui sommes nous ?
+
+### Des consultants pas comme les autres ...
+
+Imprégnés des valeurs du service public, nous souhaitons oeuvrer en faveur du **développement du bien commun**, notamment au travers de l'utilisation de **logiciels libres** et par la mise à disposition d'une documentation sous **licence libre**.
+
+Nous ne souhaitons pas nous positionner comme experts mais plutôt comme **facilitateur.trice** ou accompagnateur.trice en privilégiant les valeurs d'écoute, de respect et de transparence.
+
+Venant du monde des collectivités territoriales, nous avons décidé de nous lancer dans celui de l'assistance à maîtrise d'ouvrage afin d'accompagner au mieux les collectivités territoriales dans leurs besoins.
+
+Nos champs de compétences tournent autour de la données. Nous pouvons donc vous accompagner dans de nombreux domaines que cela soit la mise en place d'un projet d'archivage électronique, d'un portail documentaire ou d'un portail open data et ou les 3 en même temps !
+
+### Nos compétences
+
+![illustration d'un processus](./images/nos-competences-V1-3.jpeg)
+
+
+
+### Nos atouts 
+
+![illustration d'un processus](./images/Nos-atouts-V2.jpeg)
+
+
+
 Au travers de notre expérience du fonctionnement des administrations publiques et de la conduite de projets d'élaboration et de mise en oeuvre d'outils de diffusion des données archivistiques nous proposons un accompagnement aussi bien en terme d'organisation qu'en terme de solutions techniques.
 
 La condition préalable à la réussite de ce genre de projet est la convergence des intérêts entre la directions chargée des données à diffuser (la direction des archives) et celle chargée du rôle d'opérateur, en général la direction des systèmes d'information.
