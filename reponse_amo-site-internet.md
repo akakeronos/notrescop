@@ -16,7 +16,7 @@ documentaire il est indispensable de l’aborder de façon pluridisciplinaire :
 
 L’approche méthodologique liée aux spécificités d’un projet de diffusion des données archivistiques croise : 
 
-- une approche processus : analyse à partir des activités de la direction des Archives et de la direction des services informatiques qui produisent et gèrent des des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur établissement.
+- une approche processus : analyse à partir des activités de la direction des Archives et de la direction des services informatiques qui produisent et gèrent  des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur établissement.
 > Notre méthodologie : l'event storming
 
 - une approche réglementaire : cartographie des normes et réglements en vigueur en prenant en compte leur hiérarchie et leur usitabilité dans l'institution.
@@ -61,6 +61,14 @@ La refonte globale du site internet et des outils de diffusion des Archives XXXX
 ## Contexte
 
 ## Déroulement de la prestation
+
+### Benshmarking
+
+
+
+### Ateliers d'expression de besoin
+
+Ces ateliers permettent de stimuler la créativité et l'expression tout en identifiant les **contraintes de temps et de budget**  propre au contexte. Le résultat consiste dans un référentiel des  besoins. A l'intérieur de celui-ci, notre valeur ajoutée consiste à **faciliter l'identification de la valeur ajoutée**  apportée par la mise en oeuvre de ces besoins. En aidant à leur  priorisation et en interviewvant les personnes impliquées, il est  possible de formaliser un calendrier de réalisation soutenable et  valorisant.
 
 ## Intervenants, rôles et responsabilités
 
