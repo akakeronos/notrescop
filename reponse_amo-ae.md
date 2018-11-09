@@ -41,15 +41,12 @@ Nos compétences :
 - une connaissance fine du métier d’archiviste et des contextes réglementaires et normatifs associés,
 - une connaissance des différentes solutions techniques existantes et de leurs couvertures fonctionnelles,
 
-Et bien entendu, la connaissance du métier du conseil, en particulier pour ce qui est des capacités des
-consultants à écouter, analyser, formaliser, synthétiser et préconiser de manière pragmatique et efficace les
-meilleurs scénarios possibles.
-
-
-
-
+Et bien entendu, la connaissance du métier du conseil, en particulier pour ce qui est des capacités des consultants à écouter, analyser, formaliser, synthétiser et préconiser de manière pragmatique et efficace les meilleurs scénarios possibles.
 
 ## Compréhension des besoins
+
+Notre expérience du secteur public et plus particulièrement des processus de gestion du cycle de vie de l'information nous permettent d'appréhender le contexte particulier de chaque client et de l'accompagner dans l'expression de ces besoins. 
+
 
 ## Contexte
 
