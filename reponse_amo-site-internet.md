@@ -22,8 +22,6 @@ Nos champs de compétences tournent autour de la données. Nous pouvons donc vou
 
 ![illustration d'un processus](./images/Nos-atouts-V2.jpeg)
 
-
-
 Au travers de notre expérience du fonctionnement des administrations publiques et de la conduite de projets d'élaboration et de mise en oeuvre d'outils de diffusion des données archivistiques nous proposons un accompagnement aussi bien en terme d'organisation qu'en terme de solutions techniques.
 
 La condition préalable à la réussite de ce genre de projet est la convergence des intérêts entre la directions chargée des données à diffuser (la direction des archives) et celle chargée du rôle d'opérateur, en général la direction des systèmes d'information.
@@ -38,7 +36,7 @@ documentaire il est indispensable de l’aborder de façon pluridisciplinaire :
 - Dimension juridique, réglementaire et normative.
 - Dimension patrimoniale.
 
-L’approche méthodologique liée aux spécificités d’un projet de diffusion des données archivistiques croise : 
+L’approche méthodologique liée aux spécificités d’un projet de diffusion des données archivistiques croise :
 
 - une approche processus : analyse à partir des activités de la direction des Archives et de la direction des services informatiques qui produisent et gèrent  des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur établissement.
 > Notre méthodologie : l'event storming
@@ -66,21 +64,11 @@ Nos compétences :
 
 Et bien entendu, la connaissance du métier du conseil, en particulier pour ce qui est des capacités des consultants à écouter, analyser, formaliser, synthétiser et préconiser de manière pragmatique et efficace les meilleurs scénarios possibles.
 
-
-
-
-
 ## Compréhension des besoins
 
 Compréhension des enjeux et des objectifs stratégiques
 
-La refonte globale du site internet et des outils de diffusion des Archives XXXX a pour objectifs : 
-
-
-
-
-
-
+La refonte globale du site internet et des outils de diffusion des Archives XXXX a pour objectifs :
 
 ## Contexte
 
