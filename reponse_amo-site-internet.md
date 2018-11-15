@@ -84,6 +84,11 @@ Ces ateliers permettent de stimuler la créativité et l'expression tout en iden
 
 ### Intervenants, rôles et responsabilités
 
+- bien définir les rôles et responsabilités de chacun des intervenants sur le projet ==> accompagnement à cette mise en place interne
+- Nous on est garant du cadre et de la bonne humeur
+- Copil = Retro
+- identifier les besoins cachés
+
 ### Plan de charge et coûts de la phase 1
 
 | **Tâche**                                                 | **Livrable**                                        | **Charge** | **Dont sur site** | **Délai** |
@@ -118,7 +123,13 @@ Ces ateliers permettent de stimuler la créativité et l'expression tout en iden
 
 
 
-### Le rôle du product owner
+### Le rôle du coach product owner
+
+Daily, entretien backlog, tests, 1 hors site
+
+atelier d'expression des besoins, animation, rétro. 1 jour sur site par semaine
+
+facturation 2jour /semaine
 
 #### Organisation des recettes et recette de la solution
 
@@ -140,7 +151,17 @@ Plan de charge et coût
 
 ### Les outils mis à disposition
 
-Kanban, visio, prise de notes, planning, outils collaboratifs
+outils collaboratifs : 
+
+Kanban (gitlabproject), visio (appear.in), prise de notes (suite framasoft), planning (outil visuel), Tchat (slack)
+
+documentation (readthedoc), présentation (à voir en fonction niveau Typora)
+
+Dépot de sources et versionning (gitlab)
+
+Mindmapping 
+
+
 
 ### Montant des prestations
 
