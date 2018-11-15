@@ -10,7 +10,7 @@ Nous ne souhaitons pas nous positionner comme experts mais plutôt comme **facil
 
 Venant du monde des collectivités territoriales, nous avons décidé de nous lancer dans celui de l'assistance à maîtrise d'ouvrage afin d'accompagner au mieux les collectivités territoriales dans leurs besoins.
 
-Nos champs de compétences tournent autour de la données. Nous pouvons donc vous accompagner dans de nombreux domaines que cela soit la mise en place d'un projet d'archivage électronique, d'un portail documentaire ou d'un portail open data et ou les 3 en même temps !
+Nos champs de compétences tournent autour de la donnée. Nous pouvons donc vous accompagner dans de nombreux domaines que cela soit la mise en place d'un projet d'archivage électronique, d'un portail documentaire ou d'un portail open data et ou les 3 en même temps !
 
 ### Nos compétences
 
@@ -38,7 +38,7 @@ documentaire il est indispensable de l’aborder de façon pluridisciplinaire :
 
 L’approche méthodologique liée aux spécificités d’un projet de diffusion des données archivistiques croise :
 
-- une approche processus : analyse à partir des activités de la direction des Archives et de la direction des services informatiques qui produisent et gèrent  des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur établissement.
+- une approche processus : analyse à partir des activités de la direction des Archives et de la direction des services informatiques qui produisent et gèrent des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur établissement.
 > Notre méthodologie : l'event storming
 
 - une approche réglementaire : cartographie des normes et réglements en vigueur en prenant en compte leur hiérarchie et leur usitabilité dans l'institution.
@@ -82,8 +82,79 @@ La refonte globale du site internet et des outils de diffusion des Archives XXXX
 
 Ces ateliers permettent de stimuler la créativité et l'expression tout en identifiant les **contraintes de temps et de budget**  propre au contexte. Le résultat consiste dans un référentiel des  besoins. A l'intérieur de celui-ci, notre valeur ajoutée consiste à **faciliter l'identification de la valeur ajoutée**  apportée par la mise en oeuvre de ces besoins. En aidant à leur  priorisation et en interviewvant les personnes impliquées, il est  possible de formaliser un calendrier de réalisation soutenable et  valorisant.
 
-## Intervenants, rôles et responsabilités
+### Intervenants, rôles et responsabilités
 
-## plan de charge et coûts
+### Plan de charge et coûts de la phase 1
+
+| **Tâche**                                                 | **Livrable**                                        | **Charge** | **Dont sur site** | **Délai** |
+| --------------------------------------------------------- | --------------------------------------------------- | ---------- | ----------------- | --------- |
+| **Mission 1**                                             |                                                     | **8 jh**   | **4 jh**          |           |
+| Réunion de lancement                                      | *Dias pour la réunion* *+ Relevé de décisions*      | 1 jh       | 0,5 jh            | T1 + 1 S  |
+| Prise de connaissance des rapports disponibles            |                                                     |            |                   |           |
+| Analyse du site intranet                                  | *Compte rendu qui servira pour l’étude des besoins* | 1 jh       | 1 jh              |           |
+| Analyse du site internet                                  |                                                     | 0,5 jh     |                   | T1 + 2 S  |
+| Parangonnage de six sites externes                        | *Compte rendu qui servira à l’étude des besoins*    | 1,5 jh     |                   | T1 + 3 S  |
+| Etude des besoins avec les Archives X                     |                                                     | 1 jh       | 1 jh              | T1 + 4 S  |
+| Formalisation de la stratégie de trois éditeurs           |                                                     | 0,5 jh     |                   |           |
+| Prise en compte de l’enquête sur les publics              |                                                     | 0,5 jh     |                   | T1 + 5 S  |
+| Rédaction du dossier de synthèse                          | *Dossier livrable*                                  | 1 jh       |                   | T1 + 6 S  |
+| Présentation en Comité de pilotage                        | *Dias + relevé de décisions*                        | 1 jh       | 0,5 jh            |           |
+| **1.2 Mission 2**                                         |                                                     | **5 jh**   | **2,5 jh**        |           |
+| Atelier technique                                         |                                                     | 1,5 jh     | 1 jh              | T2 + 2 S  |
+| Préconisions sur l’organisation et l’alimentation du site |                                                     | 1 jh       | 0,5 jh            | T2 + 4 S  |
+| Rédaction du livrable                                     | *Dossier livrable*                                  | 1 jh       |                   | T2 + 6 S  |
+| Présentation au Comité de pilotage                        | *Dias + relevé de décisions*                        | 1 jh       | 0,5 jh            |           |
+| **1.3 Mission 3**                                         |                                                     | **6 jh**   | **2,5 jh**        |           |
+| Mises au point fonctionnelle et migration (2 réunions)    |                                                     | 1 jh       | 1 jh              | T3 + 1 S  |
+| Mise au point avec la DSI                                 |                                                     | 0,5 jh     | 0,5 jh            |           |
+| Mise au point avec la Commande publique                   |                                                     | 0,5 jh     | 0,5 jh            | T3 + 3 S  |
+| Rédaction CCTP + CR + dossiers administratifs             | *Dossier livrable*                                  | 3 jh       |                   | T3 + 5 S  |
+| Présentation d’une synthèse au Comité de pilotage         | *Dias + relevé de décisions*                        | 1 jh       | 0,5 jh            |           |
+| **Total**                                                 |                                                     | **19 jh**  | **9 jh**          |           |
 
 
+
+## Accompagnement dans la mise en oeuvre du projet (phase 2)
+
+
+
+### Le rôle du product owner
+
+#### Organisation des recettes et recette de la solution
+
+
+
+Plan de charge et coût 
+
+
+
+| **Tâche**                                                | **Livrable**                     | **Charge** | **Dont sur site** | **Délai**       |
+| -------------------------------------------------------- | -------------------------------- | ---------- | ----------------- | --------------- |
+| Participation au Lancement et à 6 comités de projet      | *Relevés de décisions*           | 7 jh       | 3,5 jh            |                 |
+| Préparation d’un document d’accompagnement au changement | *Synthèse pour les utilisateurs* | 1 jh       |                   | T5 + 7 mois     |
+| **Total**                                                |                                  | **8 jh**   | **3,5 jh**        | **T5 + 7 mois** |
+
+
+
+## Le dispositif d’intervention
+
+### Les outils mis à disposition
+
+Kanban, visio, prise de notes, planning, outils collaboratifs
+
+### Montant des prestations
+
+Les honoraires de nos interventions sont de 875 € HT par jour sur site (frais de déplacement et de séjour compris) et de 700 € HT par jour au bureau.
+
+
+
+|                             | **Charge sur site** | **Honoraires sur site € HT** | **Charge au bureau** | **Honoraires au bureau € HT** | **Prix € HT** | **TVA**      | **Prix € TTC** |
+| --------------------------- | ------------------- | ---------------------------- | -------------------- | ----------------------------- | ------------- | ------------ | -------------- |
+| Mission 1                   | **4**               | **875**                      | **4**                | **700**                       | **6 300,00**  | **1 260,00** | **7 560,00**   |
+| Mission 2                   | **2,5**             | **875**                      | **2,5**              | **700**                       | **3 937,50**  | **787,50**   | **4 725,00**   |
+| Mission 3                   | **2,5**             | **875**                      | **3,5**              | **700**                       | **4 637,50**  | **927,50**   | **5 565,00**   |
+| **Tranche ferme**           | **9**               | **875**                      | **10**               | **700**                       | **14 875,00** | **2 975,00** | **17 850,00**  |
+| Mission 1                   | **1**               | **875**                      | **4,5**              | **700**                       | **4 025,00**  | **805,00**   | **4 830,00**   |
+| Mission 2                   | **3,5**             | **875**                      | **7,5**              | **700**                       | **8 312,50**  | **1 662,50** | **9 975,00**   |
+| **Tranche condition-nelle** | **4,5**             | **875**                      | **12**               | **700**                       | **12 337,50** | **2 467,50** | **14 805,00**  |
+| **Total**                   | **13,5**            |                              | **22**               |                               | **27 212,50** | **5 442,50** | **32 655,00**  |
