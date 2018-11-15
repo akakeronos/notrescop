@@ -151,9 +151,21 @@ Plan de charge et coût
 
 ### Les outils mis à disposition
 
-outils collaboratifs : 
+![illustration d'un processus](./images/GitLab-logo.png)Le Kanban (GitLab Project) : 
 
-Kanban (gitlabproject), visio (appear.in), prise de notes (suite framasoft), planning (outil visuel), Tchat (slack)
+le Kanban (terme japonais signifiant “enseigne, panneau”) facilite la collaboration entre les membres de l'équipe agile. C'est aussi une méthode et un outil efficace pour surveiller l'amélioration continue du produit ou du service à développer. 
+
+
+
+![illustration d'un processus](./images/appear-in.png)Visio-conférence (appear.in)
+
+
+
+![illustration d'un processus](./images/Slack-icon.png)Messagerie instantanée - Tchat
+
+Dans Slack, le travail d’équipe se déroule dans les chaînes, un endroit unique pour les messages notamment ; ce qui permet de collaborer facilement et de gagner du temps. Les membres des équipes peuvent rejoindre et quitter les chaînes comme ils le souhaitent. Finies les ribambelles d’e-mails interminables.
+
+, prise de notes (suite framasoft), planning (outil visuel)
 
 documentation (readthedoc), présentation (à voir en fonction niveau Typora)
 
