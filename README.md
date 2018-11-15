@@ -1,2 +1,3 @@
 # notrescop
-initialisation scop avec delph
+[Notre approche](approche.md) [Nos activités](activites.md) [Nos compétences](Competences.md)
+
