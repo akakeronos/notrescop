@@ -8,7 +8,11 @@ Imprégnés des valeurs du service public, nous souhaitons oeuvrer en faveur du 
 
 Nous ne souhaitons pas nous positionner comme experts mais plutôt comme **facilitateur.trice** ou accompagnateur.trice en privilégiant les valeurs d'écoute, de respect et de transparence.
 
-Venant du monde des collectivités territoriales, nous avons décidé de nous lancer dans celui de l'assistance à maîtrise d'ouvrage afin d'accompagner au mieux les collectivités territoriales dans leurs besoins.
+Venant du monde des collectivités territoriales, 
+
+[nous avons décidé de nous lancer dans celui de l'assistance à maîtrise d'ouvrage afin d'accompagner au mieux les collectivités territoriales dans leurs besoins.]
+
+{nous souhaitons mettre en commun nos connaissances afin d'accompagner les maitrises d'ouvrage publiques dans leurs projets}
 
 Nos champs de compétences tournent autour de la donnée. Nous pouvons donc vous accompagner dans de nombreux domaines que cela soit la mise en place d'un projet d'archivage électronique, d'un portail documentaire ou d'un portail open data et ou les 3 en même temps !
 
@@ -80,7 +84,7 @@ La refonte globale du site internet et des outils de diffusion des Archives XXXX
 
 ### Ateliers d'expression de besoin
 
-Ces ateliers permettent de stimuler la créativité et l'expression tout en identifiant les **contraintes de temps et de budget**  propre au contexte. Le résultat consiste dans un référentiel des  besoins. A l'intérieur de celui-ci, notre valeur ajoutée consiste à **faciliter l'identification de la valeur ajoutée**  apportée par la mise en oeuvre de ces besoins. En aidant à leur  priorisation et en interviewvant les personnes impliquées, il est  possible de formaliser un calendrier de réalisation soutenable et  valorisant.
+Ces ateliers permettent de stimuler la créativité et l'expression tout en identifiant les **contraintes de temps et de budget**  propre au contexte. Le résultat consiste dans un référentiel des  besoins. A l'intérieur de celui-ci, notre valeur ajoutée consiste à **faciliter l'identification de la valeur ajoutée**  apportée par la mise en oeuvre de ces besoins. En aidant à leur  priorisation et en interviewant les personnes impliquées, il est  possible de formaliser un calendrier de réalisation soutenable et  valorisant.
 
 ### Intervenants, rôles et responsabilités
 
