@@ -169,9 +169,13 @@ le Kanban (terme japonais signifiant “enseigne, panneau”) facilite la collab
 
 Dans Slack, le travail d’équipe se déroule dans les chaînes, un endroit unique pour les messages notamment ; ce qui permet de collaborer facilement et de gagner du temps. Les membres des équipes peuvent rejoindre et quitter les chaînes comme ils le souhaitent. Finies les ribambelles d’e-mails interminables.
 
-, prise de notes (suite framasoft), planning (outil visuel)
+![illustration d'un processus](./images/1200px-Framasoft_Logo.svg.png) prise de notes (suite framasoft)
 
-documentation (readthedoc), présentation (à voir en fonction niveau Typora)
+ planning (outil visuel)
+
+![illustration d'un processus](./images/readthedocs.png)documentation (readthedoc), 
+
+présentation (à voir en fonction niveau Typora)
 
 Dépot de sources et versionning (gitlab)
 
