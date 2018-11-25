@@ -155,33 +155,48 @@ Plan de charge et coût
 
 ### Les outils mis à disposition
 
-![illustration d'un processus](./images/GitLab-logo.png)Le Kanban (GitLab Project) : 
+![illustration d'un processus](/Users/delphinejamet/Documents/git/notrescop/images/frammindmap.png)Mindmapping 
 
-le Kanban (terme japonais signifiant “enseigne, panneau”) facilite la collaboration entre les membres de l'équipe agile. C'est aussi une méthode et un outil efficace pour surveiller l'amélioration continue du produit ou du service à développer. 
+Framindmap permet de créer et partager des cartes mentales (aussi appelées « cartes heuristiques »). Pourquoi créer une carte mentale ?
 
+- Faire un brainstorming
+- Ordonner ses idées
+- Réaliser des classifications
+- Identifier les éléments importants
 
+![illustration d'un processus](./images/Framapad.png) prise de notes (suite framasoft)
 
 ![illustration d'un processus](./images/appear-in.png)Visio-conférence (appear.in)
 
 
 
+![illustration d'un processus](./images/GitLab-logo.png)Le Kanban (GitLab Project) : 
+
+le Kanban (terme japonais signifiant “enseigne, panneau”) facilite la collaboration entre les membres de l'équipe agile. C'est aussi une méthode et un outil efficace pour surveiller l'amélioration continue du produit ou du service à développer. 
+
 ![illustration d'un processus](./images/Slack-icon.png)Messagerie instantanée - Tchat
 
 Dans Slack, le travail d’équipe se déroule dans les chaînes, un endroit unique pour les messages notamment ; ce qui permet de collaborer facilement et de gagner du temps. Les membres des équipes peuvent rejoindre et quitter les chaînes comme ils le souhaitent. Finies les ribambelles d’e-mails interminables.
 
-![illustration d'un processus](./images/1200px-Framasoft_Logo.svg.png) prise de notes (suite framasoft)
+![illustration d'un processus](./images/loomio-logo.png)outil d'aide à la prise de décision
 
- planning (outil visuel)
+Loomio est une application qui aide à prendre des décisions ensemble. Loomio vous fait gagner du temps, vous aide à obtenir des résultats clairs et vous garde tout à portée de main
+
+
 
 ![illustration d'un processus](./images/readthedocs.png)documentation (readthedoc), 
 
+
+
+![illustration d'un processus](./images/github-pages-examples.png)Dépot de sources et versionning (gitlab)
+
+
+
+
+
 présentation (à voir en fonction niveau Typora)
 
-Dépot de sources et versionning (gitlab)
-
-Mindmapping 
-
-
+ planning (outil visuel)
 
 ### Montant des prestations
 
