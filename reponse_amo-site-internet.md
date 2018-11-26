@@ -18,21 +18,21 @@ Nos champs de compétences tournent autour de la donnée. Nous pouvons donc vous
 
 ### Nos compétences
 
-![illustration d'un processus](./images/nos-competences-V1-3.jpeg)
+![illustration d'un processus](./images/nos-competences-V1-1.png)
 
 
 
 ### Nos atouts 
 
-![illustration d'un processus](./images/Nos-atouts-V2.jpeg)
+![illustration d'un processus](./images/Nos-atouts-2.png)
 
 Au travers de notre expérience du fonctionnement des administrations publiques et de la conduite de projets d'élaboration et de mise en oeuvre d'outils de diffusion des données archivistiques nous proposons un accompagnement aussi bien en terme d'organisation qu'en terme de solutions techniques.
 
-La condition préalable à la réussite de ce genre de projet est la convergence des intérêts entre la directions chargée des données à diffuser (la direction des archives) et celle chargée du rôle d'opérateur, en général la direction des systèmes d'information.
+La condition préalable à la réussite de ce genre de projet est la convergence des intérêts entre la directions chargée des données à diffuser (la direction des Archives) et celle chargée du rôle d'opérateur, en général la direction des systèmes d'information.
 
 Pour construire cette convergence nous proposons d'accompagner ces parties prenantes dans l'identification de leurs intérêts à court, moyen et long terme en itérant sur la vision commune à construire et sur les moyens nécessaires pour y parvenir.
 
-Pour mener de façon efficace et conforme aux textes un projet de dématérialisation de processus
+Pour mener de façon efficace et conforme aux textes un projet de mise en ligne de processus
 documentaire il est indispensable de l’aborder de façon pluridisciplinaire :
 
 - Dimension fonctionnelle (métier) et organisationnelle.
@@ -76,22 +76,37 @@ La refonte globale du site internet et des outils de diffusion des Archives XXXX
 
 ## Contexte
 
+Expliciter le contexte tel que préciser dans le CCTP 
+
 ## Déroulement de la prestation
 
 ### Benshmarking
 
-
+Cartographie de l'existant et des évolutions à venir
 
 ### Ateliers d'expression de besoin
 
 Ces ateliers permettent de stimuler la créativité et l'expression tout en identifiant les **contraintes de temps et de budget**  propre au contexte. Le résultat consiste dans un référentiel des  besoins. A l'intérieur de celui-ci, notre valeur ajoutée consiste à **faciliter l'identification de la valeur ajoutée**  apportée par la mise en oeuvre de ces besoins. En aidant à leur  priorisation et en interviewant les personnes impliquées, il est  possible de formaliser un calendrier de réalisation soutenable et  valorisant.
 
+### Rétrospectives
+
+Des rétrospectives ouvertes : le comité de pilotage peut y participer tout comme l'ensemble du personnel. 
+
+Elles permettent de : 
+
+- faire des points réguliers sur l'état d'avancement du projet
+- diffuser l'information et échanger
+- acculturer l'ensemble des parties prenantes au projet
+-  identifier les besoins cachés
+
 ### Intervenants, rôles et responsabilités
 
-- bien définir les rôles et responsabilités de chacun des intervenants sur le projet ==> accompagnement à cette mise en place interne
-- Nous on est garant du cadre et de la bonne humeur
-- Copil = Retro
-- identifier les besoins cachés
+- bien définir les rôles et responsabilités de chacun des intervenants sur le projet (internes et externes) 
+
+  - Organisation du groupe projet : nous accompagnons le service dans cette mise en place et la définition du rôle de chacun.
+
+- Nous sommes les garants du cadre et de la bonne humeur
+
 
 ### Plan de charge et coûts de la phase 1
 
@@ -127,13 +142,25 @@ Pas de rédaction au sens conventionnel du terme du cahier des charges, nous pro
 
 ## Accompagnement dans la mise en oeuvre du projet (phase 2)
 
+### Product owner
 
+Le Product Owner (PO) se charge de mener à bien un projet suivant la méthodologie Agile. Il est le lien entre le "donneur d'ordre" et "l’équipe de développement".
+ Il cumule un savoir-faire technique dans la conception et la définition des caractéristiques du produit afin d’apporter le maximum de valeur métier aux utilisateurs (dans le temps et le budget impartis 
+au projet), en même temps qu’un savoir professionnel dans la gestion des équipes de réalisation et dans les échanges avec les clients. 
 
-### Le rôle du coach product owner
+### Coach product owner
 
-Daily, entretien backlog, tests, 1 hors site
+En fonction du cadre défini et choisi par la direction nous accompagnons le(s) chef(s) de projet interne(s), product owener pour mener à bien la mission. Souvent confronté à d'autres missions, le(s) chef(s) de projet interne au service n'est pas en mesure de remplir pleinement les tâches dévolues à u product owner. Aussi, nous proposons d'être des coachs product owner.
 
-atelier d'expression des besoins, animation, rétro. 1 jour sur site par semaine
+A nous, en étroite collaboration avec le(s) chef(s) de projet d'effectuer :
+
+- l'entretien du backlog,
+- les dailys
+- les premiers tests
+- de planifier et d'animer les ateliers d'expression des besoins 
+- préparer les rétrospectives
+
+1 jour hors site + 1 jour sur site par semaine
 
 facturation 2jour /semaine
 
