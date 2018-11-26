@@ -121,7 +121,9 @@ Ces ateliers permettent de stimuler la créativité et l'expression tout en iden
 | Présentation d’une synthèse au Comité de pilotage         | *Dias + relevé de décisions*                        | 1 jh       | 0,5 jh            |           |
 | **Total**                                                 |                                                     | **19 jh**  | **9 jh**          |           |
 
+## Le dispositif d’intervention
 
+Pas de rédaction au sens conventionnel du terme du cahier des charges, nous proposons plutôt d'utiliser notre temps pour vous accompagner à la mise en oeuvre agile de votre projet. Le cahier des charges, au lieu d'être un catalogue de fonctionnalités ou d'actions devient un outil de choix de prestataires en fonction de ses compétences techniques, bien entendu, mais surtout de son adaptabilité à votre projet. L'argent économisé sur une rédaction longue et par essence icomplète est reporter sur l'accompagnement à la mise en oeuvre du projet.
 
 ## Accompagnement dans la mise en oeuvre du projet (phase 2)
 
@@ -151,7 +153,11 @@ Plan de charge et coût
 
 
 
-## Le dispositif d’intervention
+
+
+
+
+
 
 ### Les outils mis à disposition
 
