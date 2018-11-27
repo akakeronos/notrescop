@@ -34,7 +34,7 @@ Notre expérience en terme de gestion de projet nous a naturellement orienté ve
 
 ### Nos atouts 
 
-rajouter curieux
 
-![illustration d'un processus](/Users/delphinejamet/Documents/git/notrescop/images/Nos-atouts-2.png)
+
+![illustration d'un processus](/Users/delphinejamet/Documents/git/notrescop/images/Nos-atouts.png)
 
