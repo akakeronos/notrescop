@@ -221,7 +221,7 @@ Loomio est une application qui aide à prendre des décisions ensemble. Loomio v
 
 
 
-![illustration d'un processus](./images/github-pages-examples.png)Dépot de sources et versionning (gitlab)
+![illustration d'un processus](./images/GitLab-logo.png)Dépot de sources et versionning (gitlab)
 
 
 
