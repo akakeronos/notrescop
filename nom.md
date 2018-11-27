@@ -77,9 +77,9 @@ http://rhizome.org/
 
 
 
-J'ai traduit en occitan : **Rizòma** rizoma il y a un site rizoma.com
+J'ai traduit en occitan : **~~Rizòma~~** rizoma il y a un site rizoma.com
 
-ou racine en occitan : **rasic** ou **raiç**  *m.* ( *plural* **raices**)
+# ou racine en occitan : ***<u>rasic</u>*** ou **~~raiç~~**  *m.* ( *plural* **~~raices~~**)
 
 
 
