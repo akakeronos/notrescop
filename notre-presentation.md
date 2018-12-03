@@ -2,11 +2,11 @@
 
 ### Des consultants pas comme les autres ...
 
-Imprégnés des valeurs du service public, nous souhaitons oeuvrer en faveur du **développement du bien commun**, notamment au travers de l'utilisation de **logiciels libres** et par la mise à disposition d'une documentation sous **licence libre**.![illustration creative communs](/Users/delphinejamet/Documents/git/notrescop/images/illustration-CC.png)
+Imprégnés des valeurs du service public, nous souhaitons oeuvrer en faveur du **développement du bien commun**, notamment au travers de l'utilisation de **logiciels libres** et par la mise à disposition d'une documentation sous **licence libre**.![illustration creative communs](images/illustration-CC.png)
 
 Nous ne souhaitons pas nous positionner comme experts mais plutôt
 
- comme **facilitateur.trice** ou accompagnateur.trice en privilégiant les valeurs d'écoute, de respect et de transparence.            ![illustration écoute, respect, transparence](/Users/delphinejamet/Documents/git/notrescop/images/illustration-respect.png)
+ comme **facilitateur.trice** ou accompagnateur.trice en privilégiant les valeurs d'écoute, de respect et de transparence.            ![illustration écoute, respect, transparence](images/illustration-respect.png)
 
 Venant du monde des collectivités territoriales, 
 
@@ -28,7 +28,7 @@ Chacun dans nos domaines nous avons participé à la rétroconversion des instru
 
 Notre expérience en terme de gestion de projet nous a naturellement orienté vers des méthodes alternatives aujourd'hui reconnues. 
 
-![illustration d'un processus](/Users/delphinejamet/Documents/git/notrescop/images/nos-competences-V1-1.png)
+![illustration d'un processus](images/nos-competences-V1-1.png)
 
 
 
@@ -36,5 +36,5 @@ Notre expérience en terme de gestion de projet nous a naturellement orienté ve
 
 
 
-![illustration d'un processus](/Users/delphinejamet/Documents/git/notrescop/images/Nos-atouts.png)
+![illustration d'un processus](images/Nos-atouts.png)
 
