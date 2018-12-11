@@ -1,12 +1,12 @@
 # Modalités d'accompagnement
 
-## valeurs
+## Valeurs
 
 Imprégnés des valeurs du service public, nous souhaitons oeuvrer en faveur du **développement du bien commun**, notamment au travers de l'utilisation de **logiciels libres** et par la mise à disposition d'une documentation sous **licence libre**.
 
 Nous ne souhaitons pas nous positionner comme experts mais plutôt comme **facilitateur.trice** ou accompagnateur.trice en privilégiant les valeurs d'écoute, de respect et de transparence.
 
-## méthodologie
+## Méthodologie
 
 Notre inspiration vient du monde de l'agilité. Cette approche part des besoins des utilisateur.trices et privilégie une **construction incrémentale** associant l'ensemble des parties prenantes.
 
@@ -19,7 +19,7 @@ Tout au long du projet, les tâches mises en oeuvre sont décidées collectiveme
 L'objectif de nos missions de formation et/ou d'accompagnement est de transmettre des connaissances ou des compétences afin de rendre autonome nos client.es. Cette transmision s'effectue tout au long du projet par une interaction, si possible quotidienne avec le référent ou la référente désigné.e par le client ou la cliente. Cette modalité d'échange vise à garantir l'**implication** des parties prenantes et la **transparence** de nos activités.
 Cette transmission s'effectue également en fin de mission par la transmission de livrables sous licence ouverte, librement modifiables et reproductibles.
 
-## outils
+## outils d'animation
 
 ### Atelier d'expression de besoin
 
@@ -102,4 +102,39 @@ Ce tableau est utlisé au départ du projet comme support pour l'identification 
 
 La rétropective est un dispositif visant à l'amélioration continue. Il permet à chacun de verbaliser son ressenti des réalisations et interactions ayant eu lieu lors de la phase de réalisation. Alternant les phases de **prise de recul objectif** et l'**expression des ressentis subjectifs individuels** il permet d'éviter les attaques ad nominem et la cristalisation des ressentiements. Cet atelier vise principalement à développement la **bientraitance** au sein du groupe et de permettre son amélioration.
 
-### exemples de prestation
+## Outils de suivi et de gestion
+
+![illustration d'un processus](/Users/delphinejamet/Documents/git/notrescop/images/frammindmap.png)Mindmapping
+
+Framindmap permet de créer et partager des cartes mentales (aussi appelées « cartes heuristiques »). Pourquoi créer une carte mentale ?
+
+- Faire un brainstorming
+- Ordonner ses idées
+- Réaliser des classifications
+- Identifier les éléments importants
+
+![illustration d'un processus](./images/Framapad.png) prise de notes (suite framasoft)
+
+![illustration d'un processus](./images/appear-in.png)Visio-conférence (appear.in)
+
+![illustration d'un processus](./images/GitLab-logo.png)Le Kanban (GitLab Project) :
+
+le Kanban (terme japonais signifiant “enseigne, panneau”) facilite la collaboration entre les membres de l'équipe agile. C'est aussi une méthode et un outil efficace pour surveiller l'amélioration continue du produit ou du service à développer.
+
+![illustration d'un processus](./images/Slack-icon.png)Messagerie instantanée - Tchat
+
+Dans Slack, le travail d’équipe se déroule dans les chaînes, un endroit unique pour les messages notamment ; ce qui permet de collaborer facilement et de gagner du temps. Les membres des équipes peuvent rejoindre et quitter les chaînes comme ils le souhaitent. Finies les ribambelles d’e-mails interminables.
+
+![illustration d'un processus](./images/loomio-logo.png)outil d'aide à la prise de décision
+
+Loomio est une application qui aide à prendre des décisions ensemble. Loomio vous fait gagner du temps, vous aide à obtenir des résultats clairs et vous garde tout à portée de main
+
+![illustration d'un processus](./images/readthedocs.png)documentation (readthedoc),
+
+![illustration d'un processus](./images/GitLab-logo.png)Dépot de sources et versionning (gitlab)
+
+présentation (à voir en fonction niveau Typora)
+
+ planning (outil visuel)
+
+## Tarifs
