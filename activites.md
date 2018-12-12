@@ -52,7 +52,7 @@ Une réunion quotidienne de très courte durée permet à chacune ou chacun des 
 
 Une restitution du travail incrémental en cours est proposée à l'ensemble des parties prenantes en général le vendredi et une rétrospective de la séquence de travail terminée est proposée aux intervenant.es afin de vérifier s'ils sont à l'aise avec le mode d'organisation mis en oeuvre et si des axes d'améliorations peuvent être collectivement identifiés.
 
-Nous ne préconisons pas de rédaction, au sens conventionnel du terme, de cahier des charges. Nous proposons plutôt d'utiliser notre temps et le vôter pour vous accompagner à la mise en oeuvre agile de votre projet. Le cahier des charges, au lieu d'être un catalogue de fonctionnalités ou d'actions devient un outil de choix de prestataires en fonction de ses compétences techniques, bien entendu, mais surtout de son adaptabilité à votre projet. L'argent économisé sur une rédaction longue et par essence incomplète est reporté sur l'accompagnement à la mise en oeuvre du projet.
+Nous ne préconisons pas de rédaction, au sens conventionnel du terme, de cahier des charges. Nous proposons plutôt d'utiliser notre temps et le votre pour vous accompagner à la mise en oeuvre agile de votre projet. Le cahier des charges, au lieu d'être un catalogue de fonctionnalités ou d'actions devient un outil de choix de prestataires en fonction de ses compétences techniques, bien entendu, mais surtout de son adaptabilité à votre projet. L'argent économisé sur une rédaction longue et par essence incomplète est reporté sur l'accompagnement à la mise en oeuvre du projet.
 
 ## Intervenants, rôles et responsabilités
 
@@ -65,7 +65,7 @@ Nous privilégions les projets qui résultent de l'identification d'un problème
 ### Product owner
 
 Le Product Owner (PO) se charge de mener à bien un projet suivant la méthodologie Agile. Il est le lien entre le "donneur d'ordre" et "l’équipe de développement".
- Il cumule un savoir-faire technique dans la conception et la définition des caractéristiques du produit afin d’apporter le maximum de valeur métier aux utilisateurs (dans le temps et le budget impartis au projet), en même temps qu’un savoir professionnel dans la gestion des équipes de réalisation et dans les échanges avec les clients.
+Il cumule un savoir-faire technique dans la conception et la définition des caractéristiques du produit afin d’apporter le maximum de valeur métier aux utilisateurs (dans le temps et le budget impartis au projet), en même temps qu’un savoir professionnel dans la gestion des équipes de réalisation et dans les échanges avec les clients.
 
 ### Coach product owner
 
@@ -89,23 +89,34 @@ Spécialiste du besoin métier, ce rôle consiste à **renforcer l'expertise** m
 
 ## Types de missions
 
-* amo qualité de la donnée et bonnes pratiques [slide share](https://fr.slideshare.net/BahriNassim/datawerhouse-donnes-de-qualit)
-* amo archivage électronique
-* amo open data
-* constitution de référentiels
+### Assistance à maîtrise d'ouvrage
+
+* AMO qualité de la donnée et bonnes pratiques [slide share](https://fr.slideshare.net/BahriNassim/datawerhouse-donnes-de-qualit)
+* AMO archivage électronique
+* AMO  open data
+* AMO cycle de vie information
+* AMO  GED
+* AMO site internet archives
+* AMO rétroconversion des instruments de recherche EAD
+* AMO rétroconversion des notices producteurs EAC
+* AMO pour la constitution de référentiels 
+* Accompagnement à la mise en oeuvre de la fonction archives dans l'entreprise
+
+### Formations
+
 * formation archivage électronique
-* amo cycle de vie information
-* web sémantique appliqué aux archives RIC + SKOS  
-* amo GED
+* Introduction au web sémantique appliqué aux archives RIC et SKOS  
 * product owner démat
-* formation SEDA
-* traitement archives privées (élaboration TdG et pré-classement)
-* amo site internet archives
-* amo rétroconversion EAD
-* amo mise en oeuvre référentiel producteur et rétroconversion
-* formation EAD
-* formation EAD
+* formation DTD-EAD
+* formation XML-EAC
 * formations outils numériques collaboratifs libres
 * formation OpenData
 * accompagnement transformation numérique
+* formation SEDA
 * formation web sémantique
+
+- constitution de référentiels
+
+### Traitement des archives papiers et électroniques
+
+- Traitement archives privées (élaboration de tableaux de gestion et pré-classement)
