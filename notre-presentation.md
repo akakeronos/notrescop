@@ -1,6 +1,6 @@
 ## Qui sommes nous ?
 
-### Des consultants pas comme les autres ...
+### Des consultants pas comme les autres ... test
 
 Imprégnés des valeurs du service public, nous souhaitons oeuvrer en faveur du **développement du bien commun**, notamment au travers de l'utilisation de **logiciels libres** et par la mise à disposition d'une documentation sous **licence libre**.![illustration creative communs](images/illustration-CC.png)
 
