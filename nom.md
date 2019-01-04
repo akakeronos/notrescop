@@ -30,7 +30,7 @@ disparat
 
 **ryzhom +++ sa relative horizontalité
 
-RyzOm**
+RyzOm** => jeu de rôle en ligne
 
 Le mot vient du grec ῥίζωμα qui veut dire « touffe de racines », de ῥίζα [riza], la racine. 
 
