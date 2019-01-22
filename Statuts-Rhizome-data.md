@@ -2,7 +2,7 @@
 
 # Statuts - Rhizome-data
 
-**_Rhizome-data_** est une association régie par l’application de la loi du 1er juillet 1901 et du décret du 16 août 1901. **_Rhizome-data_** est par conséquent une association de loi 1901 à activité commerciale non lucrative.
+**_Rhizome-data_** est une association régie par l’application de la loi du 1er juillet 1901 et du décret du 16 août 1901. **_Rhizome-data_** est par conséquent une association de loi 1901 à activité commerciale non lucrative et à gestion intéressée.
 
 # Article 1 : Objet
 
