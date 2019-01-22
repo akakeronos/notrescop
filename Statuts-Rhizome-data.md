@@ -2,13 +2,13 @@
 
 # Statuts - Rhizome-data
 
-**_Rhizome-data_** est une association régie par l’application de la loi du 1er juillet 1901 et du décret du 16 août 1901. **_Rhizome-data_** est par conséquent une association de loi 1901 une association à activité commerciale non lucrative.
+**_Rhizome-data_** est une association régie par l’application de la loi du 1er juillet 1901 et du décret du 16 août 1901. **_Rhizome-data_** est par conséquent une association de loi 1901 à activité commerciale non lucrative.
 
 # Article 1 : Objet
 
 ## 1.1 Définition
 
-- L’association _Rhizome-data_ est un studio d’innovation œuvrant pour le bien commun qui travaille pour l’accompagnement, l'émergence, l’expérimentation et la pérennisation de projets numériques dans le domaine des données et des archives. Elle a vocation à reverser à la communauté ses réalisations et donc à les mettre à disposition sous une licence Creative Commons.
+- L’association _Rhizome-data_ est un studio d’innovation œuvrant pour le bien commun qui travaille pour l’accompagnement, l'émergence, l’expérimentation et la pérennisation de projets numériques dans le domaine des données et des archives. Elle a vocation à reverser à la communauté ses réalisations et donc à les mettre à disposition sous une licence conférant des droits de libre réutilisation.
 
 ## 1.2 Mise en oeuvre
 
@@ -28,7 +28,7 @@
   - Formations dans les domaines suivants :
     - archivage électronique
     - web sémantique appliqué aux archives RIC et SKOS
-    - normes et formats de descriptions appliqués aux archives (EAD, EAC, SEDA)
+    - normes et format de description appliqués aux archives (EAD, EAC, SEDA)
     - outils numériques collaboratifs libres
     - Open Data
     - transformation numérique
@@ -40,7 +40,7 @@
 
 ### 2.1 Composition initiale
 
-Les membres fondateurs de l’association, présents lors de l’assemblée constitutive du XX/XX/XXXX.
+Les membres fondateurs de l’association, présents lors de l’assemblée constitutive du 22/01/2019.
 
 ### 2.2 Adhésion
 
@@ -103,27 +103,21 @@ Pour les articles 4.1 et 4.2 chaque décision est prise selon les modalités de 
 
 **Note** : la convocation d’une assemblée générale extraordinaire par une minorité de membres moyau constitue l’unique forme d’opposition formelle à une décision. Elle résulte soit d’une mauvaise communication, soit de ne pas avoir suivi le processus de décision décrit en 3.2.1 et constitue un échec pour l’association. Cet échec doit être l’occasion d’une remise en question.
 
-# Article 5 : Les ressources financière
+# Article 5 : Les ressources financières
 
 - Les ressources financières comprennent :
-  - le produit de l’activité commerciale
+  - le produit de l’activité commerciale et de formation
   - le montant des cotisations
   - les subventions de l’Etat et des collectivités locales
   - donations des partenaires privés
   - ainsi que toutes ressources autorisées par la loi.
 - Il est tenu une comptabilité faisant apparaître annuellement un compte de résultat, un bilan et une annexe, conformément aux dispositions du règlement du 16 février 1999 relatif aux modalités d’établissement des comptes annuels des associations et fondations.
-- La personne légalement responsable de la comptabilité de l’association est son/sa président.e. L’association se réserve le droit de faire appel à un comptable.
+- La personne légalement responsable de la comptabilité de l’association est son/sa président.e. L’association se réserve le droit de faire appel à un expert comptable.
 
 ## Article 5.1 : Réserve statutaire
 
 La réserve impartageable : un an de vie de l’association.
 
-# Article 6 : Charte
-
-Une charte est établie par les membres noyau de l’association. Ce document est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui on trait à la gestion interne de l’association. Ce document peut être modifié lors d’une assemblée générale.
-
-La charte est consultable sur le Web sur notre dépôt de [sources](https://gitlab.com/rizhome-data/charte.md).
-
-# Article 7 : Dissolution
+# Article 6 : Dissolution
 
 En cas de dissolution décidée à l’unanimité par l’ensemble des membres noyau, un ou plusieurs liquidateurs sont nommés. Les membres noyau décident de la destination des actifs restants.
