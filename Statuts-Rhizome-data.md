@@ -121,3 +121,9 @@ La réserve impartageable : un an de vie de l’association.
 # Article 6 : Dissolution
 
 En cas de dissolution décidée à l’unanimité par l’ensemble des membres noyau, un ou plusieurs liquidateurs sont nommés. Les membres noyau décident de la destination des actifs restants.
+
+
+
+Delphine Jamet									Pascal Romain
+
+![](D:\github\notrescop\assets\signatureDelphine.png)![signature pascal](D:\github\notrescop\assets\signatureReprLegal.png)
