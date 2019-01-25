@@ -87,7 +87,13 @@ Se référer à la charte afin de connaître la liste à jour des autres catégo
 
 Pour les articles 4.1 et 4.2 chaque décision est prise selon les modalités de l’article 3.2.
 
-## 4.1 Assemblée générale ordinaire
+## 4.1 : siège social
+
+Le siège social est fixé au 5 rue Marc Nouaux, à Cenon (33150).
+
+Il pourra être transféré par simple décision du conseil d'administration.
+
+## 4.2 : Assemblée générale ordinaire
 
 - L’Assemblée générale ordinaire comprend tous les membres de l’association et se réunit une fois par an.
 - Tous les membres de l’association sont convoqués au moins sept jours avant la date fixée par les soins du président.e ou de son mandataire. L’ordre du jour est indiqué sur les convocations.
@@ -95,7 +101,7 @@ Pour les articles 4.1 et 4.2 chaque décision est prise selon les modalités de 
 - Les points de l’ordre du jour sont tous discutés.
 - Après épuisement de l’ordre du jour, les membres noyau procèdent à la décision du/de la nouveau.elle président.e.
 
-## 4.2 Assemblée Générale Extraordinaire
+## 4.3 Assemblée Générale Extraordinaire
 
 - Tout membre ou groupe de membres de l’association peut convoquer une assemblée générale extraordinaire. Les autres membres sont prévenus au moins sept jours avant la date fixée par le ou les membres.
 - L’ordre du jour est indiqué sur les convocations.
@@ -122,8 +128,6 @@ La réserve impartageable : un an de vie de l’association.
 
 En cas de dissolution décidée à l’unanimité par l’ensemble des membres noyau, un ou plusieurs liquidateurs sont nommés. Les membres noyau décident de la destination des actifs restants.
 
-
-
-Delphine Jamet									Pascal Romain
+Delphine Jamet Pascal Romain
 
 ![](D:\github\notrescop\assets\signatureDelphine.png)![signature pascal](D:\github\notrescop\assets\signatureReprLegal.png)
