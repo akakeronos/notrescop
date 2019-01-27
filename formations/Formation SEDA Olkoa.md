@@ -1,29 +1,41 @@
 # Standard d'échange de données pour l'archivage - SEDA
 
-Pascal - Delphine
+## Définition 
 
 Le standard d'échange de données pour l'archivage modélise les différentes transactions qui peuvent avoir lieu entre des acteurs dans le cadre de l'archivage de données.  
 
+Il précise les messages échangés ainsi que les métadonnées à utiliser pour décrire, gérer et pérenniser l’information.
+
 ---
 
-**Les acteurs** sont au nombre de cinq : 
+## Les acteurs du SEDA
+
+Les acteurs sont au nombre de cinq : 
 
 - le service producteur, 
 - le service versant, 
 - le service d'archives, 
 - le service de contrôle, 
-- le demandeur d'Archives.
+- le demandeur d'archives.
 
-![Les 5 acteurs du SEDA](images/acteursSEDA2.png)
+![Les 5 acteurs du SEDA](./images/acteursSEDA2.png)
 
 Ils peuvent avoir plusieurs rôles en même temps
 
 ---
 
+## Les trransactions du SEDA
 
+**Les transactions** sont au nombre de six :
 
-Ces transactions sont au nombre de six : le transfert, la demande de transfert, la modification, 
-l'élimination, la communication et la restitution. 
+- la demande de transfert, 
+- le transfert, 
+- la modification, 
+- l'élimination,
+- la communication,
+- la restitution. 
+
+![les transactions SEDA](./images/transactionsSEDA.png)
 
 # Comment le SEDA ?
 
