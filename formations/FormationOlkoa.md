@@ -56,6 +56,10 @@ Il précise les messages échangés ainsi que les métadonnées à utiliser pour
 
 ## Les acteurs du SEDA
 
+.pull-left[
+![Les 5 acteurs du SEDA](images/acteursSEDA2.png)
+]
+.pull-right[
 Les acteurs sont au nombre de cinq :
 
 - le service producteur,
@@ -64,14 +68,18 @@ Les acteurs sont au nombre de cinq :
 - le service de contrôle,
 - le demandeur d'archives.
 
-![Les 5 acteurs du SEDA](../images/acteursSEDA2.png)
-
 Ils peuvent avoir plusieurs rôles en même temps
+]
 
 ---
 
 ## Les transactions du SEDA
 
+.pull-left[
+
+![Les transactions dans le SEDA](images/transactionsSEDA.png)
+]
+.pull-right[
 **Les transactions** sont au nombre de six :
 
 - la demande de transfert,
@@ -81,7 +89,7 @@ Ils peuvent avoir plusieurs rôles en même temps
 - la communication,
 - la restitution.
 
-![Les transactions dans le SEDA](../images/transactionsSEDA.png)
+]
 
 ---
 
