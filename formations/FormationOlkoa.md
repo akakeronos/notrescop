@@ -64,7 +64,7 @@ Les acteurs sont au nombre de cinq :
 - le service de contrôle,
 - le demandeur d'archives.
 
-![Les 5 acteurs du SEDA](images/acteursSEDA2.png)
+![Les 5 acteurs du SEDA](../images/acteursSEDA2.png)
 
 Ils peuvent avoir plusieurs rôles en même temps
 
@@ -81,7 +81,7 @@ Ils peuvent avoir plusieurs rôles en même temps
 - la communication,
 - la restitution.
 
-![Les transactions dans le SEDA](images/transactionsSEDA.png)
+![Les transactions dans le SEDA](../images/transactionsSEDA.png)
 
 ---
 
@@ -136,7 +136,7 @@ background-size: contain;
 
 > Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
 
-![explication des métadonnées par un métaphore sur le vin](images/vinContexte.PNG)
+![explication des métadonnées par un métaphore sur le vin](../images/vinContexte.PNG)
 
 ---
 
@@ -163,7 +163,7 @@ background-size: contain;
 
 ### La structuration des messages SEDA V1
 
-![le schéma SEDA V1](./images/seda1.png)
+![le schéma SEDA V1](images/seda1.png)
 
 ---
 
