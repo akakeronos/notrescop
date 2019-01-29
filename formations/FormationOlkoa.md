@@ -6,8 +6,9 @@ background-image: url(./images/fondCorporate.png)
 background-size: contain;
 .footnote[Ceci est fait en texte avec du logiciel libre]
 
-### Standard d'échange de données pour l'archivage - Présentation
+# Standard d'échange de données pour l'archivage - Présentation
 
+- comprendre la structuration
 - comprendre la gestion des données de référence
 - comprendre la notion de profil SEDA, unités d'archives et objets-données
 - maîtriser la création de profil SEDA
@@ -19,7 +20,32 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### Pourquoi le SEDA ?
+## Pourquoi le SEDA ?
+
+Faciliter les échanges entre les systèmes d'information en les **normalisant** et en permettant leur **Interopérabilité**.
+
+
+![Interopérabilité](images/desertB.jpg)
+
+La rédaction de cette grammaire est à l'initiative du Service interministériel des Archives de France :
+
+- **mars 2006**, publication de la **version 0.1** suivie d'une instruction DITN/RES/2006/001 au 8 mars 2006
+- janvier 2010 publication de la version 0.2
+- septembre **2012** publication de la **version 1.0**
+- **2014** : parution de la norme Afnor **NF 44-022 MEDONA** : Modélisation des échanges de données pour l'archivage
+- décembre **2015** publication de la **version du standard 2.0**, conforme à la norme MEDONA
+- **2017** : praution de la norme **ISO 20614** : Information et documentation -- Protocole d'échange de données pour l'**interopérabilité et la préservation**
+- **juin 2018** publication de la révision 2.1 : Interface web de consultation des schémas de la [**version 2.1**](https://francearchives.fr/seda/api_v2-1/seda-2.1-main.html)
+  
+
+---
+
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+## Pourquoi le SEDA ?
 
 > Le standard d'échange de données pour l'archivage **modélise les différentes transactions** qui peuvent avoir lieu **entre des acteurs** dans le cadre de l'**archivage de données**.
 
@@ -38,32 +64,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### Pourquoi le SEDA ?
-
-#### Interopérabilité
-
-.pull-left[
-![Interopérabilité](images/desertB.jpg)
-]
-.pull-right[
-
-- **mars 2006**, publication de la **version 0.1** suivie d'une instruction DITN/RES/2006/001 au 8 mars 2006
-- janvier 2010 publication de la version 0.2
-- septembre **2012** publication de la **version 1.0**
-- **2014** : parution de la norme Afnor **NF 44-022 MEDONA** : Modélisation des échanges de données pour l'archivage
-- décembre **2015** publication de la **version du standard 2.0**, conforme à la norme MEDONA
-- **2017** : praution de la norme **ISO 20614** : Information et documentation -- Protocole d'échange de données pour l'**interopérabilité et la préservation**
-- **juin 2018** publication de la révision 2.1 : Interface web de consultation des schémas de la [**version 2.1**](https://francearchives.fr/seda/api_v2-1/seda-2.1-main.html)
-  ]
-
----
-
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
-
-### Les acteurs du SEDA
+## Les acteurs du SEDA
 
 .pull-left[
 ![Les 5 acteurs du SEDA](images/acteursSEDA2.png)
@@ -87,7 +88,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### Les transactions du SEDA
+## Les transactions du SEDA
 
 .pull-left[
 
@@ -112,7 +113,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### Structurer les messages
+## Structurer les messages
 
 - types d'acteurs
   - service versant
@@ -129,7 +130,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### Valeur probante
+## Valeur probante
 
 - le bordereau est l'acte signé du transfert de responsabilité
 - les messages d'accusé (répcetion, validation) sont les preuves de la transaction
@@ -142,7 +143,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### Relier des unités de description
+## Relier des unités de description
 
 - encapsuler dans un bordereau le contenu du versement
 - décrire les acteurs impliqués (producteur, versant, archives)
@@ -167,7 +168,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### typologies de métadonnées
+### Typologies de métadonnées
 
 Le SEDA utilise quatre sortes de **métadonnées** :
 
@@ -183,9 +184,15 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### La structuration des messages
+## La structuration des messages
 
-#### La structuration des messages SEDA V1
+Prendre les schémas https://francearchives.fr/seda/documentation.html Interface web de consultation des schémas de la version 2.0 sous forme SVG
+
+https://francearchives.fr/seda/Dictionnaire_SEDA2.1.pdf
+
+
+
+### La structuration des messages SEDA V1 d'un transfert
 
 ![le schéma SEDA V1](images/seda1.png)
 
@@ -196,25 +203,39 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### La structuration des messages
+## La structuration des messages
 
-#### La structuration des messages SEDA V2
+### La structuration des messages SEDA V2 d'un transfert
 
 ![Les échanges SEDA V2](images/seda2.png)
 
 ---
+
+### La structuration des messages SEDA V2 : l'accusé de réception 
+
+### La structuration des messages SEDA V2 : Le contrôle 
+
+### La structuration des messages SEDA V2 : la demande de modification 
+
+### La structuration des messages SEDA V2 : la demande de communication
+
+### La structuration des messages SEDA V2 : la demande de d'élimination 
+
+### La structuration des messages SEDA V2 : la demande de restitution 
+
+
 
 background-position: top;
 background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### Liens avec d'autres schéma de description
+## Liens avec d'autres schéma de description
 
 - Lien avec l'EAC pour les descripteurs des acteurs
-- Lien avec SKOS pour les vocabulaire d'indexation contrôlés
+- Lien avec SKOS pour les vocabulaires d'indexation contrôlés
 - Lien avec EAD ou RIC pour la description des archives
-- Lien avec d'autres schémas (PROV-O, PREMIS,etc) depuis la version 2
+- Lien avec d'autres schémas (PROV-O, PREMIS, etc) depuis la version 2
 
 ---
 
@@ -244,15 +265,18 @@ Pascal
 
 ---
 
-### Présentation du Référentiel girondin
-
-Delphine
-
----
-
 ### Présentation de SHERPA
 
 Delphine-Pascal
+
+---
+
+### Présentation du Référentiel girondin
+
+Les différences :
+
+- Créations de vocabulaires contrôlés
+- Des notices producteurs plus complètes
 
 ---
 
@@ -268,6 +292,14 @@ Pascal
 
 ### Profils simples
 
+- La matrice cadatrale selon SIAF
+- Les vidéo des séances d'une collectivité territoriale
+
 ---
 
 ### Profils plus complexes
+
+- La matrice cadastrale dans la réalité
+- Les marchés publics
+- Bureautique : Activités d'Olkoa en 2018
+- tous les marchés de travaux de 2018
