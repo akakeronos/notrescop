@@ -45,7 +45,7 @@ Ils peuvent avoir plusieurs rôles en même temps
 - la communication,
 - la restitution. 
 
-![Les transactions dans le SEDA](./transactionsSEDA.png)
+![Les transactions dans le SEDA](./images/transactionsSEDA.png)
 
 ---
 
@@ -55,7 +55,7 @@ Ils peuvent avoir plusieurs rôles en même temps
 
 > Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
 
-![explication des métadonnées par un métaphore sur le vin](/Users/delphinejamet/Documents/git/notrescop/formations/images/vinContexte.PNG)
+![explication des métadonnées par un métaphore sur le vin](./images/vinContexte.PNG)
 
 ------
 
