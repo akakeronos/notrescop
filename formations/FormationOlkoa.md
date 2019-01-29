@@ -25,36 +25,45 @@ background-size: contain;
 
 > Il précise les messages échangés ainsi que les métadonnées à utiliser pour **décrire, gérer et pérenniser** l’information.
 
-- proposer un cadre d'interopérabilité pour la dématérialisation des processus d'archivage
-- structurer les messages renforcant la valeur probante des archives
-- relier des unités de description au sein du processus de versement
+Il vise à :
+
+- proposer un **cadre d'interopérabilité** pour la dématérialisation des processus d'archivage
+- **structurer les messages** renforcant la valeur probante des archives
+- **relier des unités de description** au sein du processus de versement
 
 ---
+
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
 ### Pourquoi le SEDA ?
 
 #### Interopérabilité
 
-- mars 2006, publication de la version 0.1 suivie d'une instruction DITN/RES/2006/001 au 8 mars 2006
+.pull-left[
+![Interopérabilité](images/desertB.jpg)
+]
+.pull-right[
+
+- **mars 2006**, publication de la **version 0.1** suivie d'une instruction DITN/RES/2006/001 au 8 mars 2006
 - janvier 2010 publication de la version 0.2
-- septembre 2012 publication de la version 1.0
-- 2014 : parution de la norme Afnor NF 44-022 MEDONA : Modélisation des échanges de données pour l'archivage
-- décembre 2015 publication de la version du standard 2.0, conforme à la norme MEDONA
-- 2017 : parution du SEDA 2.0
-- 2017 : paution de la norme ISO 20614 : Information et documentation -- Protocole d'échange de données pour l'interopérabilité et la préservation
-- juin 2018 publication de la révision 2.1 : Interface web de consultation des schémas de la version 2.1 https://francearchives.fr/seda/api_v2-1/seda-2.1-main.html
+- septembre **2012** publication de la **version 1.0**
+- **2014** : parution de la norme Afnor **NF 44-022 MEDONA** : Modélisation des échanges de données pour l'archivage
+- décembre **2015** publication de la **version du standard 2.0**, conforme à la norme MEDONA
+- **2017** : praution de la norme **ISO 20614** : Information et documentation -- Protocole d'échange de données pour l'**interopérabilité et la préservation**
+- **juin 2018** publication de la révision 2.1 : Interface web de consultation des schémas de la [**version 2.1**](https://francearchives.fr/seda/api_v2-1/seda-2.1-main.html)
+  ]
 
 ---
 
-## Définition
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
 
-Le standard d'échange de données pour l'archivage modélise les différentes transactions qui peuvent avoir lieu entre des acteurs dans le cadre de l'archivage de données.
-
-Il précise les messages échangés ainsi que les métadonnées à utiliser pour décrire, gérer et pérenniser l’information.
-
----
-
-## Les acteurs du SEDA
+### Les acteurs du SEDA
 
 .pull-left[
 ![Les 5 acteurs du SEDA](images/acteursSEDA2.png)
@@ -73,7 +82,12 @@ Ils peuvent avoir plusieurs rôles en même temps
 
 ---
 
-## Les transactions du SEDA
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+### Les transactions du SEDA
 
 .pull-left[
 
@@ -138,7 +152,7 @@ background-size: contain;
 
 ---
 
-## Les métadonnées
+### Les métadonnées
 
 **définition**
 
@@ -152,6 +166,8 @@ background-position: top;
 background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
+
+### typologies de métadonnées
 
 Le SEDA utilise quatre sortes de **métadonnées** :
 
@@ -167,9 +183,9 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## La structuration des messages
+### La structuration des messages
 
-### La structuration des messages SEDA V1
+#### La structuration des messages SEDA V1
 
 ![le schéma SEDA V1](images/seda1.png)
 
@@ -180,7 +196,9 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### La structuration des messages SEDA V2
+### La structuration des messages
+
+#### La structuration des messages SEDA V2
 
 ![Les échanges SEDA V2](images/seda2.png)
 
@@ -191,9 +209,22 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
+### Liens avec d'autres schéma de description
+
+- Lien avec l'EAC pour les descripteurs des acteurs
+- Lien avec SKOS pour les vocabulaire d'indexation contrôlés
+- Lien avec EAD ou RIC pour la description des archives
+- Lien avec d'autres schémas (PROV-O, PREMIS,etc) depuis la version 2
+
 ---
 
 # Comment le SEDA ?
+
+Pour produire les fichiers xml nécessaire aux processus ou à la modélisation des paquets d'information, plusieurs outils sont disponibles :
+
+- éditeur xml : production de bordereaux de versement ou de profils
+- SHERPA : application en ligne de génération de profils
+- SAEM : application en ligne de génération de profils et de génération de bordereaux SEDA
 
 ---
 
