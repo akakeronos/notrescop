@@ -226,10 +226,7 @@ background-size: contain;
 
 Le SEDA utilise quatre sortes de **métadonnées** :
 
-- Les métadonnées de transport
-- Les métadonnées de description,
-- Les métadonnées de gestion,
-- Les métadonnées techniques.
+![illustration métadonnées seda](images/metadataSeda.png)
 
 ---
 
@@ -262,18 +259,6 @@ background-size: contain;
 ![Les échanges SEDA V2](images/seda2.png)
 
 ---
-
-### La structuration des messages SEDA V2 : l'accusé de réception
-
-### La structuration des messages SEDA V2 : Le contrôle
-
-### La structuration des messages SEDA V2 : la demande de modification
-
-### La structuration des messages SEDA V2 : la demande de communication
-
-### La structuration des messages SEDA V2 : la demande de d'élimination
-
-### La structuration des messages SEDA V2 : la demande de restitution
 
 background-position: top;
 background-repeat: no-repeat;
