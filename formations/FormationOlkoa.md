@@ -177,7 +177,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-### Acquitter réception
+### Acquitter / réception
 
 .pull-left[
 ![illustration de la structuration du message d'acquitement](images/msgTransfertReply_seda.png)
@@ -235,15 +235,13 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## La structuration des messages
+## Les messages SEDA
 
 Prendre les schémas https://francearchives.fr/seda/documentation.html Interface web de consultation des schémas de la version 2.0 sous forme SVG
 
 https://francearchives.fr/seda/Dictionnaire_SEDA2.1.pdf
 
-### La structuration des messages SEDA V1 d'un transfert
 
-![le schéma SEDA V1](images/seda1.png)
 
 ---
 
@@ -252,9 +250,25 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## La structuration des messages
+## Les messages SEDA
 
-### La structuration des messages SEDA V2 d'un transfert
+### Les différents messages lors d'un transfert
+
+
+
+![Les échanges SEDA V2](images/transferer.png)
+
+---
+
+### La structuration des messages SEDA V1 d'un transfert (@ArchiveTransfert)
+
+![le schéma SEDA V1](/Users/delphinejamet/Documents/git/notrescop/formations/images/seda1.png)
+
+---
+
+
+
+### La structuration des messages SEDA V2 d'un transfert (@ArchiveTransfert)
 
 ![Les échanges SEDA V2](images/seda2.png)
 
