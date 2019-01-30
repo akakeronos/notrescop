@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArchiveTransferReply xmlns="fr:gouv:ae:archive:draft:standard_echange_v0.2">
+  <Comment>Votre transfert d'archive a été pris en compte par la plate-forme as@lae</Comment>
+  <Date>2019-01-08T18:00:59+01:00</Date>
+  <ReplyCode listVersionID="edition 2009">000</ReplyCode>
+  <TransferIdentifier>25651-rfc4dzn6kg</TransferIdentifier>
+  <TransferReplyIdentifier>ATR_5</TransferReplyIdentifier>
+  <TransferringAgency>
+    <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+    <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+    <Contact>
+      <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+      <PersonName>Stéphanie Giraud</PersonName>
+    </Contact>
+  </TransferringAgency>
+  <ArchivalAgency>
+    <Identification>ark:/25651/rf37fmz57g/d7d4p8q763</Identification>
+    <Name>direction des archives départementales de la Gironde</Name>
+    <Contact>
+      <Identification>ark:/25651/rf37fmz57g/6zhf40c252</Identification>
+      <PersonName>Magali LEVRARD</PersonName>
+    </Contact>
+  </ArchivalAgency>
+</ArchiveTransferReply>

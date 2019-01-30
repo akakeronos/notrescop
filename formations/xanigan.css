@@ -2,40 +2,49 @@
 @link url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
 @link url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 
-
 body {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: "Yanone Kaffeesatz";
   font-size: 11 px;
- }
-h1, h2, h3 {
-  font-family: 'Yanone Kaffeesatz';
-  font-weight:small;
+}
+h1,
+h2,
+h3 {
+  font-family: "Yanone Kaffeesatz";
+  font-weight: small;
 }
 
-div{
+div {
   font-size: 11px;
 }
-a, a > code {
-  color: rgb(249, 38, 114);
+a,
+a > code {
+  color: rgb(77, 93, 240);
   text-decoration: none;
 }
 .footnote {
   position: absolute;
   bottom: 3em;
   padding-left: 26em;
-  font-size: 60%;
+  font-size: 0.5em;
 }
-.remark-code, .remark-inline-code { font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace; }
-.remark-code-line-highlighted     { background-color: #ffff88; }
+.remark-code,
+.remark-inline-code {
+  font-family: "Source Code Pro", "Lucida Console", Monaco, monospace;
+}
+.remark-code-line-highlighted {
+  background-color: #d6e0d3;
+}
 
 .inverse {
   background-color: #272822;
   color: #d6d6d6;
   text-shadow: 0 0 20px #333;
 }
-.inverse h1, .inverse h2, .inverse h3 {
+.inverse h1,
+.inverse h2,
+.inverse h3 {
   color: #f3f3f3;
-  line-height: 1.0em;
+  line-height: 1em;
 }
 /* Two-column layout */
 .left-column {
@@ -44,7 +53,8 @@ a, a > code {
   float: left;
   padding-right: 1em;
 }
-.left-column h2:last-of-type, .left-column h3:last-child {
+.left-column h2:last-of-type,
+.left-column h3:last-child {
   color: #000;
 }
 .right-column {
@@ -52,23 +62,24 @@ a, a > code {
   float: right;
   padding-top: 1em;
   font-size: 0.7em;
-  font-family: 'Droid Serif';
 }
-.right-column h1, .inverse h2, .inverse h3 {
-  font-family: 'Yanone Kaffeesatz';
+.right-column h1,
+.inverse h2,
+.inverse h3 {
+  font-family: "Yanone Kaffeesatz";
   font-weight: lighter;
 }
 
-
 .pull-left {
   float: left;
-  width: 47%;
+  width: 52%;
 }
 .pull-right {
   float: right;
-  width: 53%;
-  font-size: 0.7em;
-  font-family: 'Droid Serif';
+  width: 43%;
+  font-size: 0.9em;
+  margin-left: 5px;
+  font-family: "Yanone Kaffeesatz";
 }
 .pull-right ~ * {
   clear: both;
@@ -86,17 +97,17 @@ img {
   border-left: solid 2px lightgray;
   padding-left: 1em;
   font-size: 0.3 em;
-  font-weight:small;
+  font-weight: small;
 }
- td {
+td {
   border: 0.2px solid;
   text-align: center;
   font-size-adjust: auto;
-  font-weight:normal;
+  font-weight: normal;
   padding: 5px;
   font-size: 0.3 em;
 }
-th{
+th {
   border: 0.2px solid;
   text-align: center;
 }

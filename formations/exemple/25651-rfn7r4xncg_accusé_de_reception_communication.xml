@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArchiveDelivery xmlns="fr:gouv:ae:archive:draft:standard_echange_v0.2">
+  <Comment>La demande de communication d'archives '25651-rfn7r4xncg - come to me' a été validée et la ou les archives suivantes sont mises à disposition : ark:/25651/rft1h2r4kg - nom de mon versement de test</Comment>
+  <Date>2019-01-08T18:05:29+01:00</Date>
+  <DeliveryIdentifier>ADL_1</DeliveryIdentifier>
+  <DeliveryRequestIdentifier>25651-rfn7r4xncg</DeliveryRequestIdentifier>
+  <UnitIdentifier>ark:/25651/rft1h2r4kg</UnitIdentifier>
+  <Requester>
+    <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+    <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+    <Contact>
+      <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+      <PersonName>Stéphanie Giraud</PersonName>
+    </Contact>
+  </Requester>
+  <ArchivalAgency>
+    <Identification>ark:/25651/rf37fmz57g/d7d4p8q763</Identification>
+    <Name>direction des archives départementales de la Gironde</Name>
+    <Contact>
+      <Identification>ark:/25651/rf37fmz57g/6zhf40c252</Identification>
+      <PersonName>Magali LEVRARD</PersonName>
+    </Contact>
+  </ArchivalAgency>
+  <Archive>
+    <ArchivalAgencyArchiveIdentifier>ark:/25651/rft1h2r4kg</ArchivalAgencyArchiveIdentifier>
+    <ArchivalAgreement>Accord-AD33</ArchivalAgreement>
+    <ArchivalProfile>ark:/25651/rfz0cz2tbg</ArchivalProfile>
+    <DescriptionLanguage listVersionID="edition 2009">fr</DescriptionLanguage>
+    <DescriptionLevel listVersionID="edition 2009">recordgrp</DescriptionLevel>
+    <Name>nom de mon versement de test</Name>
+    <TransferringAgencyArchiveIdentifier>25651/rfx3jj2kmg</TransferringAgencyArchiveIdentifier>
+    <ContentDescription>
+      <Language listVersionID="edition 2009">fr</Language>
+      <LatestDate>2019-01-08</LatestDate>
+      <OldestDate>2019-01-08</OldestDate>
+      <OriginatingAgency>
+        <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+        <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+        <Contact>
+          <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+          <PersonName>Stéphanie Giraud</PersonName>
+        </Contact>
+      </OriginatingAgency>
+      <AccessRestriction>
+        <Code listVersionID="edition 2009">AR038</Code>
+        <StartDate>2019-01-08</StartDate>
+      </AccessRestriction>
+      <OtherMetadata xmlns:prov="http://www.w3.org/ns/prov#" xmlns:asalae="http://srvmv-claude.cg33.fr">
+        <prov:agent prov:id="asalae:cron:Transfertstraitasync">
+          <prov:label>prise en compte asynchrone des transferts</prov:label>
+          <prov:type>Tâche planifiée</prov:type>
+        </prov:agent>
+        <prov:agent prov:id="asalae:user:spadois">
+          <prov:label>Stephane Padois (spadois)</prov:label>
+          <prov:type>Utilisateur</prov:type>
+        </prov:agent>
+        <prov:entity prov:id="asalae:archiveTransfer:25651-rfc4dzn6kg">
+          <prov:label>25651-rfc4dzn6kg - test connecteur</prov:label>
+          <prov:type>Transfert d'archive</prov:type>
+        </prov:entity>
+        <prov:entity prov:id="asalae:archive:ark:/25651/rft1h2r4kg">
+          <prov:label>ark:/25651/rft1h2r4kg - nom de mon versement de test</prov:label>
+          <prov:type>Archive</prov:type>
+        </prov:entity>
+        <prov:entity prov:id="asalae:archive:fichier:delib-25_d1462263888141.pdf">
+          <prov:label>delib-25_d1462263888141.pdf, 141903 octets, ef8c365dc37e727d8bc33b1ec57c41e4dc15a20102e4646e573fecb1d88a010f SHA256</prov:label>
+          <prov:type>Fichier</prov:type>
+        </prov:entity>
+        <prov:activity prov:id="asalae:journal:id:6141">
+          <prov:startTime>2019-01-08T18:00:59</prov:startTime>
+          <prov:label>Prise en compte du transfert '25651-rfc4dzn6kg' (id: 4)</prov:label>
+        </prov:activity>
+        <prov:wasGeneratedBy>
+          <prov:entity prov:ref="asalae:archiveTransfer:25651-rfc4dzn6kg"/>
+          <prov:activity prov:ref="asalae:journal:id:6141"/>
+        </prov:wasGeneratedBy>
+        <prov:wasAssociatedWith>
+          <prov:activity prov:ref="asalae:journal:id:6141"/>
+          <prov:agent prov:ref="asalae:cron:Transfertstraitasync"/>
+        </prov:wasAssociatedWith>
+        <prov:activity prov:id="asalae:journal:id:6158">
+          <prov:startTime>2019-01-08T18:02:40</prov:startTime>
+          <prov:label>Création de l'archive ark:/25651/rft1h2r4kg issue du transfert 25651-rfc4dzn6kg</prov:label>
+        </prov:activity>
+        <prov:used>
+          <prov:activity prov:ref="asalae:journal:id:6158"/>
+          <prov:entity prov:ref="asalae:archive:ark:/25651/rft1h2r4kg"/>
+        </prov:used>
+        <prov:wasAssociatedWith>
+          <prov:activity prov:ref="asalae:journal:id:6158"/>
+          <prov:agent prov:ref="asalae:user:spadois"/>
+        </prov:wasAssociatedWith>
+        <prov:activity prov:id="asalae:journal:id:6159">
+          <prov:startTime>2019-01-08T18:02:40</prov:startTime>
+          <prov:label>Stockage du fichier delib-25_d1462263888141.pdf, 141903 octets, ef8c365dc37e727d8bc33b1ec57c41e4dc15a20102e4646e573fecb1d88a010f SHA256, avec la référence /data/archives/ark:_25651_rf37fmz57g_vx7w00b1mw/2019/Accord-AD33/ark:_25651_rft1h2r4kg/documents/delib-25_d1462263888141.pdf sur le volume Volume01</prov:label>
+          <prov:location>Volume01:/data/archives/ark:_25651_rf37fmz57g_vx7w00b1mw/2019/Accord-AD33/ark:_25651_rft1h2r4kg/documents/delib-25_d1462263888141.pdf</prov:location>
+        </prov:activity>
+        <prov:used>
+          <prov:activity prov:ref="asalae:journal:id:6159"/>
+          <prov:entity prov:ref="asalae:archive:fichier:delib-25_d1462263888141.pdf"/>
+        </prov:used>
+        <prov:wasAssociatedWith>
+          <prov:activity prov:ref="asalae:journal:id:6159"/>
+          <prov:agent prov:ref="asalae:user:spadois"/>
+        </prov:wasAssociatedWith>
+      </OtherMetadata>
+    </ContentDescription>
+    <Appraisal>
+      <Code listVersionID="edition 2009">detruire</Code>
+      <Duration>P01Y</Duration>
+      <StartDate>2016-05-12</StartDate>
+    </Appraisal>
+    <AccessRestriction>
+      <Code listVersionID="edition 2009">AR038</Code>
+      <StartDate>2016-05-12</StartDate>
+    </AccessRestriction>
+    <Contains>
+      <ArchivalAgencyObjectIdentifier>ark:/25651/rfg48km6wg</ArchivalAgencyObjectIdentifier>
+      <DescriptionLevel listVersionID="edition 2009">file</DescriptionLevel>
+      <Name>nom du dossier des délibs</Name>
+      <TransferringAgencyObjectIdentifier>25651/rff7fqg4ng</TransferringAgencyObjectIdentifier>
+      <ContentDescription>
+        <Language listVersionID="edition 2009">fr</Language>
+        <LatestDate>2019-01-08</LatestDate>
+        <OldestDate>2019-01-08</OldestDate>
+        <OriginatingAgency>
+          <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+          <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+          <Contact>
+            <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+            <PersonName>Stéphanie Giraud</PersonName>
+          </Contact>
+        </OriginatingAgency>
+        <ContentDescriptive>
+          <AccessRestriction>
+            <Code listVersionID="edition 2009">AR038</Code>
+            <StartDate>2019-01-08</StartDate>
+          </AccessRestriction>
+          <KeywordContent>mot matière</KeywordContent>
+          <KeywordType listVersionID="edition 2009">subject</KeywordType>
+        </ContentDescriptive>
+        <AccessRestriction>
+          <Code listVersionID="edition 2009">AR038</Code>
+          <StartDate>2019-01-08</StartDate>
+        </AccessRestriction>
+      </ContentDescription>
+      <Appraisal>
+        <Code listVersionID="edition 2009">detruire</Code>
+        <Duration>P01Y</Duration>
+        <StartDate>2016-05-12</StartDate>
+      </Appraisal>
+      <AccessRestriction>
+        <Code listVersionID="edition 2009">AR038</Code>
+        <StartDate>2016-05-12</StartDate>
+      </AccessRestriction>
+      <Contains>
+        <ArchivalAgencyObjectIdentifier>ark:/25651/rf67x05m4g</ArchivalAgencyObjectIdentifier>
+        <DescriptionLevel listVersionID="edition 2009">file</DescriptionLevel>
+        <Name>nom de la délib</Name>
+        <TransferringAgencyObjectIdentifier>25651/rf0mj0fdng</TransferringAgencyObjectIdentifier>
+        <ContentDescription>
+          <Description>description de la délib</Description>
+          <Language listVersionID="edition 2009">fr</Language>
+          <LatestDate>2016-05-12</LatestDate>
+          <OldestDate>2016-05-12</OldestDate>
+          <OriginatingAgency>
+            <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+            <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+            <Contact>
+              <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+              <PersonName>Stéphanie Giraud</PersonName>
+            </Contact>
+          </OriginatingAgency>
+          <AccessRestriction>
+            <Code listVersionID="edition 2009">AR038</Code>
+            <StartDate>2019-01-08</StartDate>
+          </AccessRestriction>
+        </ContentDescription>
+        <Appraisal>
+          <Code listVersionID="edition 2009">detruire</Code>
+          <Duration>P01Y</Duration>
+          <StartDate>2016-05-12</StartDate>
+        </Appraisal>
+        <AccessRestriction>
+          <Code listVersionID="edition 2009">AR038</Code>
+          <StartDate>2016-05-12</StartDate>
+        </AccessRestriction>
+        <Document>
+          <Attachment filename="delib-25_d1462263888141.pdf" format="fmt/18" mimeCode="application/pdf"></Attachment>
+          <Control>false</Control>
+          <Copy>false</Copy>
+          <Type listVersionID="edition 2009">CDO</Type>
+        </Document>
+      </Contains>
+    </Contains>
+  </Archive>
+</ArchiveDelivery>

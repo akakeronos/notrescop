@@ -6,10 +6,10 @@ background-image: url(./images/fondCorporate.png)
 background-size: contain;
 .footnote[Ceci est fait en texte avec du logiciel libre]
 
-# Standard d'échange de données pour l'archivage - Présentation
+### Standard d'échange de données pour l'archivage (SEDA)
 
 - comprendre la structuration
-- comprendre la gestion des données de référence
+- comprendre la gestion des métadonnées
 - comprendre la notion de profil SEDA, unités d'archives et objets-données
 - maîtriser la création de profil SEDA
 
@@ -20,23 +20,11 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Pourquoi le SEDA ?
+### Pourquoi le SEDA ?
 
 Faciliter les échanges entre les systèmes d'information en les **normalisant** et en permettant leur **Interopérabilité**.
 
-
 ![Interopérabilité](images/desertB.jpg)
-
-La rédaction de cette grammaire est à l'initiative du Service interministériel des Archives de France :
-
-- **mars 2006**, publication de la **version 0.1** suivie d'une instruction DITN/RES/2006/001 au 8 mars 2006
-- janvier 2010 publication de la version 0.2
-- septembre **2012** publication de la **version 1.0**
-- **2014** : parution de la norme Afnor **NF 44-022 MEDONA** : Modélisation des échanges de données pour l'archivage
-- décembre **2015** publication de la **version du standard 2.0**, conforme à la norme MEDONA
-- **2017** : praution de la norme **ISO 20614** : Information et documentation -- Protocole d'échange de données pour l'**interopérabilité et la préservation**
-- **juin 2018** publication de la révision 2.1 : Interface web de consultation des schémas de la [**version 2.1**](https://francearchives.fr/seda/api_v2-1/seda-2.1-main.html)
-  
 
 ---
 
@@ -45,7 +33,26 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Pourquoi le SEDA ?
+### Pourquoi le SEDA ?
+
+La rédaction de cette grammaire est à l'initiative du Service interministériel des Archives de France :
+
+- **mars 2006**, publication de la **version 0.1** suivie d'une instruction DITN/RES/2006/001 au 8 mars 2006
+- janvier 2010 publication de la version 0.2
+- septembre **2012** publication de la **version 1.0**
+- **2014** : parution de la norme Afnor **NF 44-022 MEDONA** : Modélisation des échanges de données pour l'archivage
+- décembre **2015** publication de la **version du standard 2.0**, conforme à la norme MEDONA
+- **2017** : parution de la norme **ISO 20614** : Information et documentation -- Protocole d'échange de données pour l'**interopérabilité et la préservation**
+- **juin 2018** publication de la révision 2.1 : Interface web de consultation des schémas de la [**version 2.1**](https://francearchives.fr/seda/api_v2-1/seda-2.1-main.html)
+
+---
+
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+### Pourquoi le SEDA ?
 
 > Le standard d'échange de données pour l'archivage **modélise les différentes transactions** qui peuvent avoir lieu **entre des acteurs** dans le cadre de l'**archivage de données**.
 
@@ -64,7 +71,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Les acteurs du SEDA
+### Les acteurs du SEDA
 
 .pull-left[
 ![Les 5 acteurs du SEDA](images/acteursSEDA2.png)
@@ -88,7 +95,7 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Les transactions du SEDA
+### Les transactions du SEDA
 
 .pull-left[
 
@@ -108,20 +115,24 @@ background-size: contain;
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+### Structurer les messages
 
-## Structurer les messages
+.pull-left[
+
+![traçabilité des échanges](images/structureMsg.png)
+]
+
+.pull-right[
 
 - types d'acteurs
+  - service producteur
   - service versant
   - service d'archives
   - service de contrôle
 - représentation
   - messages XML
-  - schémas de strucuturation XML (XSD ou RNG)
+  - schémas de validation (RNG ou XSD)
+    ]
 
 ---
 
@@ -130,12 +141,14 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Valeur probante
+### Valeur probante
 
 - le bordereau est l'acte signé du transfert de responsabilité
 - les messages d'accusé (répcetion, validation) sont les preuves de la transaction
 - les demandes de communication et d'élimination peuvent être signées par un service de contrôle
 
+![accusé de réception](images/msgAck_seda.png)
+
 ---
 
 background-position: top;
@@ -143,13 +156,54 @@ background-repeat: no-repeat;
 background-image: url(./images/fondCorporate.png)
 background-size: contain;
 
-## Relier des unités de description
+### Relier des unités de description
+
+.pull-left[
+![illustration de la structuration du message](images/msgTransfert_seda.png)
+]
+
+.pull-right[
 
 - encapsuler dans un bordereau le contenu du versement
 - décrire les acteurs impliqués (producteur, versant, archives)
 - décrire les propriétés techniques des objets données
 - décrire le contenu des unités de description
-- indexer en liant des concepts issus de vocabulaires contrôlés
+  ]
+
+---
+
+background-position: top;
+background-repeat: no-repeat;
+background-image: url(./images/fondCorporate.png)
+background-size: contain;
+
+### Acquitter réception
+
+.pull-left[
+![illustration de la structuration du message d'acquitement](images/msgTransfertReply_seda.png)
+]
+
+.pull-right[
+
+- dématérialiser le bordereau de versement
+- tracer le trasnfert de responsabilité
+- décrire les évènements du cycle de vie
+  ]
+
+---
+
+### Faire des demandes
+
+.pull-left[
+![illustration de la structuration du message de demande](images/msgDemandeCom_seda.png)
+]
+
+.pull-right[
+
+- Demander une communication, une destruction ou une restitution
+- Faire intervenir un service de contrôle
+- générer des traces des réponses et des évènements
+  ]
 
 ---
 
@@ -190,8 +244,6 @@ Prendre les schémas https://francearchives.fr/seda/documentation.html Interface
 
 https://francearchives.fr/seda/Dictionnaire_SEDA2.1.pdf
 
-
-
 ### La structuration des messages SEDA V1 d'un transfert
 
 ![le schéma SEDA V1](images/seda1.png)
@@ -211,19 +263,17 @@ background-size: contain;
 
 ---
 
-### La structuration des messages SEDA V2 : l'accusé de réception 
+### La structuration des messages SEDA V2 : l'accusé de réception
 
-### La structuration des messages SEDA V2 : Le contrôle 
+### La structuration des messages SEDA V2 : Le contrôle
 
-### La structuration des messages SEDA V2 : la demande de modification 
+### La structuration des messages SEDA V2 : la demande de modification
 
 ### La structuration des messages SEDA V2 : la demande de communication
 
-### La structuration des messages SEDA V2 : la demande de d'élimination 
+### La structuration des messages SEDA V2 : la demande de d'élimination
 
-### La structuration des messages SEDA V2 : la demande de restitution 
-
-
+### La structuration des messages SEDA V2 : la demande de restitution
 
 background-position: top;
 background-repeat: no-repeat;

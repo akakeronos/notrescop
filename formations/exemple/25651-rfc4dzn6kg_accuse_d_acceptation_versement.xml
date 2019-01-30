@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArchiveTransferAcceptance xmlns="fr:gouv:ae:archive:draft:standard_echange_v0.2">
+  <Comment>Votre transfert d'archive a été accepté par la plate-forme as@lae</Comment>
+  <Date>2019-01-08T18:02:40+01:00</Date>
+  <ReplyCode listVersionID="edition 2009">000</ReplyCode>
+  <TransferAcceptanceIdentifier>ATA_3</TransferAcceptanceIdentifier>
+  <TransferIdentifier>25651-rfc4dzn6kg</TransferIdentifier>
+  <TransferringAgency>
+    <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+    <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+    <Contact>
+      <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+      <PersonName>Stéphanie Giraud</PersonName>
+    </Contact>
+  </TransferringAgency>
+  <ArchivalAgency>
+    <Identification>ark:/25651/rf37fmz57g/d7d4p8q763</Identification>
+    <Name>direction des archives départementales de la Gironde</Name>
+    <Contact>
+      <Identification>ark:/25651/rf37fmz57g/6zhf40c252</Identification>
+      <PersonName>Magali LEVRARD</PersonName>
+    </Contact>
+  </ArchivalAgency>
+  <Archive>
+    <ArchivalAgencyArchiveIdentifier>ark:/25651/rft1h2r4kg</ArchivalAgencyArchiveIdentifier>
+    <ArchivalAgreement>Accord-AD33</ArchivalAgreement>
+    <ArchivalProfile>ark:/25651/rfz0cz2tbg</ArchivalProfile>
+    <DescriptionLanguage listVersionID="edition 2009">fr</DescriptionLanguage>
+    <DescriptionLevel listVersionID="edition 2009">recordgrp</DescriptionLevel>
+    <Name>nom de mon versement de test</Name>
+    <TransferringAgencyArchiveIdentifier>25651/rfx3jj2kmg</TransferringAgencyArchiveIdentifier>
+    <ContentDescription>
+      <Language listVersionID="edition 2009">fr</Language>
+      <LatestDate>2019-01-08</LatestDate>
+      <OldestDate>2019-01-08</OldestDate>
+      <OriginatingAgency>
+        <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+        <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+        <Contact>
+          <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+          <PersonName>Stéphanie Giraud</PersonName>
+        </Contact>
+      </OriginatingAgency>
+      <AccessRestriction>
+        <Code listVersionID="edition 2009">AR038</Code>
+        <StartDate>2019-01-08</StartDate>
+      </AccessRestriction>
+    </ContentDescription>
+    <Appraisal>
+      <Code listVersionID="edition 2009">detruire</Code>
+      <Duration>P01Y</Duration>
+      <StartDate>2016-05-12</StartDate>
+    </Appraisal>
+    <AccessRestriction>
+      <Code listVersionID="edition 2009">AR038</Code>
+      <StartDate>2016-05-12</StartDate>
+    </AccessRestriction>
+    <Contains>
+      <ArchivalAgencyObjectIdentifier>ark:/25651/rfg48km6wg</ArchivalAgencyObjectIdentifier>
+      <DescriptionLevel listVersionID="edition 2009">file</DescriptionLevel>
+      <Name>nom du dossier des délibs</Name>
+      <TransferringAgencyObjectIdentifier>25651/rff7fqg4ng</TransferringAgencyObjectIdentifier>
+      <ContentDescription>
+        <Language listVersionID="edition 2009">fr</Language>
+        <LatestDate>2019-01-08</LatestDate>
+        <OldestDate>2019-01-08</OldestDate>
+        <OriginatingAgency>
+          <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+          <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+          <Contact>
+            <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+            <PersonName>Stéphanie Giraud</PersonName>
+          </Contact>
+        </OriginatingAgency>
+        <ContentDescriptive>
+          <AccessRestriction>
+            <Code listVersionID="edition 2009">AR038</Code>
+            <StartDate>2019-01-08</StartDate>
+          </AccessRestriction>
+          <KeywordContent>mot matière</KeywordContent>
+          <KeywordType listVersionID="edition 2009">subject</KeywordType>
+        </ContentDescriptive>
+        <AccessRestriction>
+          <Code listVersionID="edition 2009">AR038</Code>
+          <StartDate>2019-01-08</StartDate>
+        </AccessRestriction>
+      </ContentDescription>
+      <Appraisal>
+        <Code listVersionID="edition 2009">detruire</Code>
+        <Duration>P01Y</Duration>
+        <StartDate>2016-05-12</StartDate>
+      </Appraisal>
+      <AccessRestriction>
+        <Code listVersionID="edition 2009">AR038</Code>
+        <StartDate>2016-05-12</StartDate>
+      </AccessRestriction>
+      <Contains>
+        <ArchivalAgencyObjectIdentifier>ark:/25651/rf67x05m4g</ArchivalAgencyObjectIdentifier>
+        <DescriptionLevel listVersionID="edition 2009">file</DescriptionLevel>
+        <Name>nom de la délib</Name>
+        <TransferringAgencyObjectIdentifier>25651/rf0mj0fdng</TransferringAgencyObjectIdentifier>
+        <ContentDescription>
+          <Description>description de la délib</Description>
+          <Language listVersionID="edition 2009">fr</Language>
+          <LatestDate>2016-05-12</LatestDate>
+          <OldestDate>2016-05-12</OldestDate>
+          <OriginatingAgency>
+            <Identification>ark:/25651/rf37fmz57g/vx7w00b1mw</Identification>
+            <Name>Service de l'administration générale et des assemblées (CD33-DGAR-SAGA)</Name>
+            <Contact>
+              <Identification>ark:/25651/rf37fmz57g/crg3d8tvn2</Identification>
+              <PersonName>Stéphanie Giraud</PersonName>
+            </Contact>
+          </OriginatingAgency>
+          <AccessRestriction>
+            <Code listVersionID="edition 2009">AR038</Code>
+            <StartDate>2019-01-08</StartDate>
+          </AccessRestriction>
+        </ContentDescription>
+        <Appraisal>
+          <Code listVersionID="edition 2009">detruire</Code>
+          <Duration>P01Y</Duration>
+          <StartDate>2016-05-12</StartDate>
+        </Appraisal>
+        <AccessRestriction>
+          <Code listVersionID="edition 2009">AR038</Code>
+          <StartDate>2016-05-12</StartDate>
+        </AccessRestriction>
+        <Document>
+          <Attachment filename="delib-25_d1462263888141.pdf" format="fmt/18" mimeCode="application/pdf"></Attachment>
+          <Control>false</Control>
+          <Copy>false</Copy>
+          <Type listVersionID="edition 2009">CDO</Type>
+        </Document>
+      </Contains>
+    </Contains>
+  </Archive>
+</ArchiveTransferAcceptance>
