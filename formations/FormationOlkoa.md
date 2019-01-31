@@ -1,9 +1,5 @@
 class: left, middle
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
 .footnote[Ceci est fait en texte avec du logiciel libre]
 
 ### Standard d'échange de données pour l'archivage (SEDA)
@@ -15,10 +11,7 @@ background-size: contain;
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Pourquoi le SEDA ?
 
@@ -28,10 +21,7 @@ Faciliter les échanges entre les systèmes d'information en les **normalisant**
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Pourquoi le SEDA ?
 
@@ -47,10 +37,7 @@ La rédaction de cette grammaire est à l'initiative du Service interministérie
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Pourquoi le SEDA ?
 
@@ -66,10 +53,7 @@ Il vise à :
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Les acteurs du SEDA
 
@@ -85,15 +69,12 @@ Les acteurs sont au nombre de cinq :
 - le service de contrôle,
 - le demandeur d'archives.
 
-Ils peuvent avoir plusieurs rôles en même temps
-]
+> Ils peuvent avoir plusieurs rôles en même temps
+> ]
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Les transactions du SEDA
 
@@ -101,6 +82,7 @@ background-size: contain;
 
 ![Les transactions dans le SEDA](images/transactionsSEDA.png)
 ]
+
 .pull-right[
 **Les transactions** sont au nombre de six :
 
@@ -115,6 +97,8 @@ background-size: contain;
 
 ---
 
+class: left, top
+
 ### Structurer les messages
 
 .pull-left[
@@ -125,36 +109,30 @@ background-size: contain;
 .pull-right[
 
 - types d'acteurs
-  - service producteur
-  - service versant
-  - service d'archives
-  - service de contrôle
+  - service producteur (OriginatingAgency)
+  - service versant (TransferingAgency)
+  - service d'archives (ArchivalAgency)
+  - service de contrôle (AuthorizationControlAuthority)
 - représentation
-  - messages XML
+  - messages XML (Request / Reply / Notification / Acknowledgement)
   - schémas de validation (RNG ou XSD)
     ]
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Valeur probante
 
-- le bordereau est l'acte signé du transfert de responsabilité
-- les messages d'accusé (répcetion, validation) sont les preuves de la transaction
-- les demandes de communication et d'élimination peuvent être signées par un service de contrôle
+- le bordereau est l'acte "signé" du **transfert de responsabilité**
+- les messages d'accusé (réception, validation) sont les **preuves** de la transaction
+- les demandes de communication et d'élimination peuvent être signées par un **service de contrôle**
 
 ![accusé de réception](images/msgAck_seda.png)
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Relier des unités de description
 
@@ -164,18 +142,15 @@ background-size: contain;
 
 .pull-right[
 
-- encapsuler dans un bordereau le contenu du versement
-- décrire les acteurs impliqués (producteur, versant, archives)
-- décrire les propriétés techniques des objets données
-- décrire le contenu des unités de description
+- **encapsuler** dans un bordereau le contenu du versement
+- décrire les **acteurs impliqués** (producteur, versant, archives)
+- décrire les **propriétés techniques** des objets données
+- **décrire le contenu** des unités de description
   ]
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Acquitter / réception
 
@@ -192,6 +167,8 @@ background-size: contain;
 
 ---
 
+class: left, top
+
 ### Faire des demandes
 
 .pull-left[
@@ -207,20 +184,19 @@ background-size: contain;
 
 ---
 
+class: left, top
+
 ### Les métadonnées
 
 **définition**
 
 > Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
 
-![explication des métadonnées par un métaphore sur le vin](../images/vinContexte.PNG)
+![explication des métadonnées par un métaphore sur le vin](images/vinContexte.PNG)
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ### Typologies de métadonnées
 
@@ -230,10 +206,7 @@ Le SEDA utilise quatre sortes de **métadonnées** :
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
 ## Les messages SEDA
 
@@ -241,54 +214,51 @@ Prendre les schémas https://francearchives.fr/seda/documentation.html Interface
 
 https://francearchives.fr/seda/Dictionnaire_SEDA2.1.pdf
 
+---
 
+class: left, top
+
+### Les messages SEDA
+
+#### Les différents messages lors d'un transfert
+
+.reduite[![Les échanges SEDA V2](images/transferer.png)]
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
-## Les messages SEDA
+### Transfert (@ArchiveTransfert) en SEDA v1
 
-### Les différents messages lors d'un transfert
-
-
-
-![Les échanges SEDA V2](images/transferer.png)
+![le schéma SEDA V1](images/seda1.png)
 
 ---
 
-### La structuration des messages SEDA V1 d'un transfert (@ArchiveTransfert)
+class: left, top
 
-![le schéma SEDA V1](/Users/delphinejamet/Documents/git/notrescop/formations/images/seda1.png)
-
----
-
-
-
-### La structuration des messages SEDA V2 d'un transfert (@ArchiveTransfert)
+### Transfert (@ArchiveTransfert) en SEDA v2
 
 ![Les échanges SEDA V2](images/seda2.png)
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, top
 
-## Liens avec d'autres schéma de description
-
-- Lien avec l'EAC pour les descripteurs des acteurs
-- Lien avec SKOS pour les vocabulaires d'indexation contrôlés
-- Lien avec EAD ou RIC pour la description des archives
-- Lien avec d'autres schémas (PROV-O, PREMIS, etc) depuis la version 2
+### structure d'un profil (SEDA v2) : les éléments obligatoires
 
 ---
 
-# Comment le SEDA ?
+class: left, top
+
+### Liens avec d'autres schéma de description
+
+![illustration des liens](images/webLinkedData.png)
+
+---
+
+class: left, top
+
+### Comment le SEDA ?
 
 Pour produire les fichiers xml nécessaire aux processus ou à la modélisation des paquets d'information, plusieurs outils sont disponibles :
 
@@ -296,29 +266,59 @@ Pour produire les fichiers xml nécessaire aux processus ou à la modélisation 
 - SHERPA : application en ligne de génération de profils
 - SAEM : application en ligne de génération de profils et de génération de bordereaux SEDA
 
----
-
-## Présentation du modèle de données
-
-Pascal
+.reduite2[![éditeur XML](images/editeurXML.png)]
+.reduite2[![application SHERPA](images/sherpa.png)]
+.reduite2[![éditeur XML](images/referentielSAEM.png)]
 
 ---
 
-### Liens avec d'autres modèles de description
-
-Pascal
-
----
-
-## Outils de production
-
----
+class: left, top
 
 ### Présentation de SHERPA
 
-Delphine-Pascal
+SHERPA a été conçu pour remplacer AGAPE et fournir un lieu centralisé de production de profils SEDA
+
+Il permet de décrire a minima les acteurs et implémente l'ensemble des champs du SEDA 2.0
+
+Il permet d'exporter des profils pour les intégrer dans d'autres outils
+
+Il permet de choisir parmi une liste définie de vocabulaires les listes de codes associés aux profils
 
 ---
+
+class: left, top
+
+### Présentation de SHERPA : Accueil
+
+![page d'accueil authentifié](images/sherpaAccueil.png)
+
+---
+
+class: left, top
+
+### Présentation de SHERPA : Création de notice d'autorité
+
+![page création notice EAC](images/sherpaNoticeAutorite.png)
+
+---
+
+class: left, top
+
+### Présentation de SHERPA : Création d'unité d'archives
+
+![page création unité d'archives](images/sherpaUniteArchives.png)
+
+---
+
+class: left, top
+
+### Présentation de SHERPA : Création de profil
+
+![page création profil](images/sherpaProfil.png)
+
+---
+
+class: left, top
 
 ### Présentation du Référentiel girondin
 
@@ -329,15 +329,21 @@ Les différences :
 
 ---
 
+class: left, top
+
 ### Comment implémenter le SEDA : Pastel, export des applications métiers
 
 Pascal
 
 ---
 
+class: left, top
+
 ## Exercices
 
 ---
+
+class: left, top
 
 ### Profils simples
 
@@ -345,6 +351,8 @@ Pascal
 - Les vidéo des séances d'une collectivité territoriale
 
 ---
+
+class: left, top
 
 ### Profils plus complexes
 

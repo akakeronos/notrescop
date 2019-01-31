@@ -1,18 +1,19 @@
-@link url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-@link url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@link url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic);
 @link url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 
 body {
-  font-family: "Yanone Kaffeesatz";
+  font-family: "Lato";
   font-size: 11 px;
 }
 h1,
 h2,
 h3 {
-  font-family: "Yanone Kaffeesatz";
+  font-family: "Lato";
   font-weight: small;
 }
-
+h2 {
+  font-size: 20 px;
+}
 div {
   font-size: 11px;
 }
@@ -66,7 +67,7 @@ a > code {
 .right-column h1,
 .inverse h2,
 .inverse h3 {
-  font-family: "Yanone Kaffeesatz";
+  font-family: "Lato";
   font-weight: lighter;
 }
 
@@ -79,7 +80,7 @@ a > code {
   width: 43%;
   font-size: 0.9em;
   margin-left: 5px;
-  font-family: "Yanone Kaffeesatz";
+  font-family: "Lato";
 }
 .pull-right ~ * {
   clear: both;
