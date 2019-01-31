@@ -244,25 +244,21 @@ class: left, top
 
 class: left, top
 
-## Liens avec d'autres schéma de description
-
-.pull-left[
-![illustration des liens](images/webLinkedData.png)
-]
-
-.pull-right[
-
-- EAC pour la description des acteurs (OtherMetadata ou URL)
-- SKOS pour les vocabulaires contrôlés (inScheme)
-- EAD ou RIC pour la description du contenu (OtherMetadata ou URL)
-- PROV-O, PREMIS, PRONOM pour le cycle de vie (OtherMetadata ou URL)
-  ]
+### structure d'un profil (SEDA v2) : les éléments obligatoires
 
 ---
 
 class: left, top
 
-# Comment le SEDA ?
+### Liens avec d'autres schéma de description
+
+![illustration des liens](images/webLinkedData.png)
+
+---
+
+class: left, top
+
+### Comment le SEDA ?
 
 Pour produire les fichiers xml nécessaire aux processus ou à la modélisation des paquets d'information, plusieurs outils sont disponibles :
 
@@ -270,11 +266,9 @@ Pour produire les fichiers xml nécessaire aux processus ou à la modélisation 
 - SHERPA : application en ligne de génération de profils
 - SAEM : application en ligne de génération de profils et de génération de bordereaux SEDA
 
----
-
-class: left, top
-
-## Outils de production
+.reduite2[![éditeur XML](images/editeurXML.png)]
+.reduite2[![application SHERPA](images/sherpa.png)]
+.reduite2[![éditeur XML](images/referentielSAEM.png)]
 
 ---
 
@@ -282,7 +276,45 @@ class: left, top
 
 ### Présentation de SHERPA
 
-Delphine-Pascal
+SHERPA a été conçu pour remplacer AGAPE et fournir un lieu centralisé de production de profils SEDA
+
+Il permet de décrire a minima les acteurs et implémente l'ensemble des champs du SEDA 2.0
+
+Il permet d'exporter des profils pour les intégrer dans d'autres outils
+
+Il permet de choisir parmi une liste définie de vocabulaires les listes de codes associés aux profils
+
+---
+
+class: left, top
+
+### Présentation de SHERPA : Accueil
+
+![page d'accueil authentifié](images/sherpaAccueil.png)
+
+---
+
+class: left, top
+
+### Présentation de SHERPA : Création de notice d'autorité
+
+![page création notice EAC](images/sherpaNoticeAutorite.png)
+
+---
+
+class: left, top
+
+### Présentation de SHERPA : Création d'unité d'archives
+
+![page création unité d'archives](images/sherpaUniteArchives.png)
+
+---
+
+class: left, top
+
+### Présentation de SHERPA : Création de profil
+
+![page création profil](images/sherpaProfil.png)
 
 ---
 
