@@ -11,7 +11,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Pourquoi le SEDA ?
 
@@ -21,7 +21,7 @@ Faciliter les échanges entre les systèmes d'information en les **normalisant**
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Pourquoi le SEDA ?
 
@@ -37,7 +37,7 @@ La rédaction de cette grammaire est à l'initiative du Service interministérie
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Pourquoi le SEDA ?
 
@@ -53,7 +53,7 @@ Il vise à :
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Les acteurs du SEDA
 
@@ -74,7 +74,7 @@ Les acteurs sont au nombre de cinq :
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Les transactions du SEDA
 
@@ -97,7 +97,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Structurer les messages
 
@@ -120,19 +120,19 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Valeur probante
 
-- le bordereau est l'acte signé du transfert de responsabilité
-- les messages d'accusé (répcetion, validation) sont les preuves de la transaction
-- les demandes de communication et d'élimination peuvent être signées par un service de contrôle
+- le bordereau est l'acte "signé" du **transfert de responsabilité**
+- les messages d'accusé (réception, validation) sont les **preuves** de la transaction
+- les demandes de communication et d'élimination peuvent être signées par un **service de contrôle**
 
 ![accusé de réception](images/msgAck_seda.png)
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Relier des unités de description
 
@@ -150,7 +150,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Acquitter / réception
 
@@ -167,7 +167,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Faire des demandes
 
@@ -184,7 +184,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Les métadonnées
 
@@ -196,7 +196,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Typologies de métadonnées
 
@@ -206,7 +206,7 @@ Le SEDA utilise quatre sortes de **métadonnées** :
 
 ---
 
-class: left, middle
+class: left, top
 
 ## Les messages SEDA
 
@@ -216,17 +216,17 @@ https://francearchives.fr/seda/Dictionnaire_SEDA2.1.pdf
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Les messages SEDA
 
 #### Les différents messages lors d'un transfert
 
-![Les échanges SEDA V2](images/transferer.png)
+.reduite[![Les échanges SEDA V2](images/transferer.png)]
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Transfert (@ArchiveTransfert) en SEDA v1
 
@@ -234,7 +234,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Transfert (@ArchiveTransfert) en SEDA v2
 
@@ -242,7 +242,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ## Liens avec d'autres schéma de description
 
@@ -253,7 +253,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 # Comment le SEDA ?
 
@@ -265,13 +265,13 @@ Pour produire les fichiers xml nécessaire aux processus ou à la modélisation 
 
 ---
 
-class: left, middle
+class: left, top
 
 ## Outils de production
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Présentation de SHERPA
 
@@ -279,7 +279,7 @@ Delphine-Pascal
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Présentation du Référentiel girondin
 
@@ -290,7 +290,7 @@ Les différences :
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Comment implémenter le SEDA : Pastel, export des applications métiers
 
@@ -298,13 +298,13 @@ Pascal
 
 ---
 
-class: left, middle
+class: left, top
 
 ## Exercices
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Profils simples
 
@@ -313,7 +313,7 @@ class: left, middle
 
 ---
 
-class: left, middle
+class: left, top
 
 ### Profils plus complexes
 
