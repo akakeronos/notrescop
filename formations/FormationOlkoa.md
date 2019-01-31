@@ -1,9 +1,5 @@
 class: left, middle
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
 .footnote[Ceci est fait en texte avec du logiciel libre]
 
 ### Standard d'échange de données pour l'archivage (SEDA)
@@ -15,10 +11,7 @@ background-size: contain;
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Pourquoi le SEDA ?
 
@@ -28,10 +21,7 @@ Faciliter les échanges entre les systèmes d'information en les **normalisant**
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Pourquoi le SEDA ?
 
@@ -47,10 +37,7 @@ La rédaction de cette grammaire est à l'initiative du Service interministérie
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Pourquoi le SEDA ?
 
@@ -66,10 +53,7 @@ Il vise à :
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Les acteurs du SEDA
 
@@ -85,15 +69,12 @@ Les acteurs sont au nombre de cinq :
 - le service de contrôle,
 - le demandeur d'archives.
 
-Ils peuvent avoir plusieurs rôles en même temps
-]
+> Ils peuvent avoir plusieurs rôles en même temps
+> ]
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Les transactions du SEDA
 
@@ -101,6 +82,7 @@ background-size: contain;
 
 ![Les transactions dans le SEDA](images/transactionsSEDA.png)
 ]
+
 .pull-right[
 **Les transactions** sont au nombre de six :
 
@@ -115,6 +97,8 @@ background-size: contain;
 
 ---
 
+class: left, middle
+
 ### Structurer les messages
 
 .pull-left[
@@ -125,21 +109,18 @@ background-size: contain;
 .pull-right[
 
 - types d'acteurs
-  - service producteur
-  - service versant
-  - service d'archives
-  - service de contrôle
+  - service producteur (OriginatingAgency)
+  - service versant (TransferingAgency)
+  - service d'archives (ArchivalAgency)
+  - service de contrôle (AuthorizationControlAuthority)
 - représentation
-  - messages XML
+  - messages XML (Request / Reply / Notification / Acknowledgement)
   - schémas de validation (RNG ou XSD)
     ]
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Valeur probante
 
@@ -151,10 +132,7 @@ background-size: contain;
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Relier des unités de description
 
@@ -164,18 +142,15 @@ background-size: contain;
 
 .pull-right[
 
-- encapsuler dans un bordereau le contenu du versement
-- décrire les acteurs impliqués (producteur, versant, archives)
-- décrire les propriétés techniques des objets données
-- décrire le contenu des unités de description
+- **encapsuler** dans un bordereau le contenu du versement
+- décrire les **acteurs impliqués** (producteur, versant, archives)
+- décrire les **propriétés techniques** des objets données
+- **décrire le contenu** des unités de description
   ]
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Acquitter / réception
 
@@ -192,6 +167,8 @@ background-size: contain;
 
 ---
 
+class: left, middle
+
 ### Faire des demandes
 
 .pull-left[
@@ -207,20 +184,19 @@ background-size: contain;
 
 ---
 
+class: left, middle
+
 ### Les métadonnées
 
 **définition**
 
 > Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
 
-![explication des métadonnées par un métaphore sur le vin](../images/vinContexte.PNG)
+![explication des métadonnées par un métaphore sur le vin](images/vinContexte.PNG)
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ### Typologies de métadonnées
 
@@ -230,10 +206,7 @@ Le SEDA utilise quatre sortes de **métadonnées** :
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ## Les messages SEDA
 
@@ -241,43 +214,35 @@ Prendre les schémas https://francearchives.fr/seda/documentation.html Interface
 
 https://francearchives.fr/seda/Dictionnaire_SEDA2.1.pdf
 
-
-
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
-## Les messages SEDA
+### Les messages SEDA
 
-### Les différents messages lors d'un transfert
-
-
+#### Les différents messages lors d'un transfert
 
 ![Les échanges SEDA V2](images/transferer.png)
 
 ---
 
-### La structuration des messages SEDA V1 d'un transfert (@ArchiveTransfert)
+class: left, middle
 
-![le schéma SEDA V1](/Users/delphinejamet/Documents/git/notrescop/formations/images/seda1.png)
+### Transfert (@ArchiveTransfert) en SEDA v1
+
+![le schéma SEDA V1](images/seda1.png)
 
 ---
 
+class: left, middle
 
-
-### La structuration des messages SEDA V2 d'un transfert (@ArchiveTransfert)
+### Transfert (@ArchiveTransfert) en SEDA v2
 
 ![Les échanges SEDA V2](images/seda2.png)
 
 ---
 
-background-position: top;
-background-repeat: no-repeat;
-background-image: url(./images/fondCorporate.png)
-background-size: contain;
+class: left, middle
 
 ## Liens avec d'autres schéma de description
 
@@ -287,6 +252,8 @@ background-size: contain;
 - Lien avec d'autres schémas (PROV-O, PREMIS, etc) depuis la version 2
 
 ---
+
+class: left, middle
 
 # Comment le SEDA ?
 
@@ -298,27 +265,21 @@ Pour produire les fichiers xml nécessaire aux processus ou à la modélisation 
 
 ---
 
-## Présentation du modèle de données
-
-Pascal
-
----
-
-### Liens avec d'autres modèles de description
-
-Pascal
-
----
+class: left, middle
 
 ## Outils de production
 
 ---
+
+class: left, middle
 
 ### Présentation de SHERPA
 
 Delphine-Pascal
 
 ---
+
+class: left, middle
 
 ### Présentation du Référentiel girondin
 
@@ -329,15 +290,21 @@ Les différences :
 
 ---
 
+class: left, middle
+
 ### Comment implémenter le SEDA : Pastel, export des applications métiers
 
 Pascal
 
 ---
 
+class: left, middle
+
 ## Exercices
 
 ---
+
+class: left, middle
 
 ### Profils simples
 
@@ -345,6 +312,8 @@ Pascal
 - Les vidéo des séances d'une collectivité territoriale
 
 ---
+
+class: left, middle
 
 ### Profils plus complexes
 
