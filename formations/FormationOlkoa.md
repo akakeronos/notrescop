@@ -122,7 +122,65 @@ class: left, top
 
 class: left, top
 
-### Valeur probante
+### Les messages SEDA
+
+#### Les types de messages lors d'un transfert 
+
+.reduite[![Les échanges SEDA V2](images/transferer.png)
+
+---
+
+class: left, top
+
+#### Les types de messages lors d'une communication
+
+![Les échanges SEDA V2](images/communiquer.png)
+
+---
+
+class: left, top
+
+#### Les types de messages lors d'une modification
+
+![Les échanges SEDA V2](images/modifier.png)
+
+---
+
+class: left, top
+
+#### Les types de messages lorsd'une élimination
+
+![Les échanges SEDA V2](images/eliminer.png)
+
+---
+
+class: left, top
+
+#### Les types de messages lors d'une restitution
+
+![Les échanges SEDA V2](images/restituer.png)
+
+---
+
+class: left, top
+
+#### Les demandes d'autorisation
+
+##### Les types de messages lors d'une demande d'autorisation au service producteur
+
+![Les échanges SEDA V2](images/demande-service-prod.png)
+
+---
+
+class: left, top
+
+##### Les différents messages lors d'une demande d'autorisation au service de contrôle
+
+![Les échanges SEDA V2](images/demande-service-controle.png)
+
+---
+
+#### Renforcer la valeur probante des échanges
 
 - le bordereau est l'acte "signé" du **transfert de responsabilité**
 - les messages d'accusé (réception, validation) sont les **preuves** de la transaction
@@ -134,7 +192,7 @@ class: left, top
 
 class: left, top
 
-### Relier des unités de description
+##### Transférer : la structuration des messages
 
 .pull-left[
 ![illustration de la structuration du message](images/msgTransfert_seda.png)
@@ -152,7 +210,7 @@ class: left, top
 
 class: left, top
 
-### Acquitter / réception
+##### Acquitter / réceptionner : la structuration des messages
 
 .pull-left[
 ![illustration de la structuration du message d'acquitement](images/msgTransfertReply_seda.png)
@@ -169,7 +227,7 @@ class: left, top
 
 class: left, top
 
-### Faire des demandes
+##### Demander : la structuration des messages
 
 .pull-left[
 ![illustration de la structuration du message de demande](images/msgDemandeCom_seda.png)
@@ -206,23 +264,7 @@ Le SEDA utilise quatre sortes de **métadonnées** :
 
 ---
 
-class: left, top
 
-## Les messages SEDA
-
-Prendre les schémas https://francearchives.fr/seda/documentation.html Interface web de consultation des schémas de la version 2.0 sous forme SVG
-
-https://francearchives.fr/seda/Dictionnaire_SEDA2.1.pdf
-
----
-
-class: left, top
-
-### Les messages SEDA
-
-#### Les différents messages lors d'un transfert
-
-.reduite[![Les échanges SEDA V2](images/transferer.png)]
 
 ---
 
@@ -322,10 +364,15 @@ class: left, top
 
 ### Présentation du Référentiel girondin
 
-Les différences :
+Les différencesavec SHERPA :
+
+- Centralisateur des données de référence : le coeur du système d'archivage électronique girondin
 
 - Créations de vocabulaires contrôlés
+
 - Des notices producteurs plus complètes
+
+  
 
 ---
 
@@ -347,7 +394,7 @@ class: left, top
 
 ### Profils simples
 
-- La matrice cadatrale selon SIAF
+- La matrice cadatrale selon SIAF : création d'un profil à partir de la documentation du SIAF
 - Les vidéo des séances d'une collectivité territoriale
 
 ---
@@ -356,7 +403,30 @@ class: left, top
 
 ### Profils plus complexes
 
-- La matrice cadastrale dans la réalité
+- La matrice cadastrale dans la réalité : réflexion autour du profil fourni par le SIAF et comment l'améliorer grâce notamment au SEDA V2.
+
+  - les types de fichiers
+
+  - les dates des fichiers
+
+  - renseigner des communicabilités différentes au sein des UA
+
+    
+
 - Les marchés publics
+
 - Bureautique : Activités d'Olkoa en 2018
-- tous les marchés de travaux de 2018
+
+  
+
+
+
+
+
+class: left, top
+
+## Bibliographie
+
+Prendre les schémas https://francearchives.fr/seda/documentation.html Interface web de consultation des schémas de la version 2.0 sous forme SVG
+
+https://francearchives.fr/seda/Dictionnaire_SEDA2.1.pdf
