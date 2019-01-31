@@ -11,7 +11,9 @@ h3 {
   font-family: "Lato";
   font-weight: small;
 }
-
+h2 {
+  font-size: 20 px;
+}
 div {
   font-size: 11px;
 }

@@ -246,10 +246,17 @@ class: left, top
 
 ## Liens avec d'autres schéma de description
 
-- Lien avec l'EAC pour les descripteurs des acteurs
-- Lien avec SKOS pour les vocabulaires d'indexation contrôlés
-- Lien avec EAD ou RIC pour la description des archives
-- Lien avec d'autres schémas (PROV-O, PREMIS, etc) depuis la version 2
+.pull-left[
+![illustration des liens](images/webLinkedData.png)
+]
+
+.pull-right[
+
+- EAC pour la description des acteurs (OtherMetadata ou URL)
+- SKOS pour les vocabulaires contrôlés (inScheme)
+- EAD ou RIC pour la description du contenu (OtherMetadata ou URL)
+- PROV-O, PREMIS, PRONOM pour le cycle de vie (OtherMetadata ou URL)
+  ]
 
 ---
 
