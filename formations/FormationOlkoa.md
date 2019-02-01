@@ -358,21 +358,165 @@ class: left, top
 
 ![page création profil](images/sherpaProfil.png)
 
+
+
 ---
 
 class: left, top
 
-### Présentation du Référentiel girondin
+### La brique logiciel « Le référentiel girondin » : clé de voute du système
 
-Les différencesavec SHERPA :
+- Objectif : réalisation d’un référentiel de structuration et de gestion des métadonnées, interopérable, développé en open source, prenant en compte le contexte normatif et basé sur une ontologie pour :
 
-- Centralisateur des données de référence : le coeur du système d'archivage électronique girondin
+- Créer, importer, centraliser, gérer et exposer  :
 
-- Créations de vocabulaires contrôlés
+- - - des autorités et unités administratives
+    - des vocabulaires contrôlés externes ou internes
+    - des notices d’autorité des acteurs de l’archivage
+    - des profils d’archivage conformes au SEDA (toutes versions)
+    - des identifiants pérennes :  numéroteur centralisé du système d’archivage électronique
 
-- Des notices producteurs plus complètes
+![modèle de données du Référentiel girondin](images/modele-donneeRefSAEM.png)
 
-  
+---
+
+class: left, top
+
+### La brique logiciel « Le référentiel girondin » : les différences avec SHERPA
+
+Le module référentiel permet de :
+
+- créer des autorités et unités administratives 
+- créer, importer et exporter des vocabulaires contrôlés
+- créer, importer et exporter des notices producteurs plus complètes
+- Générer des identifiants ARK
+
+---
+
+class: left, top
+
+### La brique logiciel « Le référentiel girondin » : les autorités et unités administratives
+
+**Entités Autorités administratives** **et unités administratives** : possibilité de créer des autorités administratives, des unités administratives et agents administratifs liés : gestion de la fluctuation des organigrammes, gestion des droits, paramétrages des autres briques du SAE.
+
+
+
+![vocabuliaire dans le référentiel Girondin](images/autorite-et-unitesadministratives-SEAMREf.png)
+
+
+
+---
+
+class: left, top
+
+### La brique logiciel « Le référentiel girondin » : création de vocabulaires contrôlés
+
+Les vocabulaires sont des **listes de termes** organisées. Ils peuvent prendre la forme de listes simples (listes d’autorité) ou hiérarchiques (thésaurus).
+
+**Entités vocabulaires contrôlés** : possibilité d’importer et d'exporter des vocabulaires au format SKOS (thésaurus et listes d’autorité du SIAF) et au format CSV (sort final, communicabilité, DUA, etc.), et d’en créer en fonction des besoins métiers de chaque collectivité (ex : liste des lieux ou bâtiments gérés). Ces vocabulaires réunissent des métadonnées descriptives et de gestion.
+
+![vocabuliaire dans le référentiel Girondin](images/creerVoc.png)
+
+---
+
+class: left, top
+
+### La brique logiciel « Le référentiel girondin » : création de vocabulaires contrôlés
+
+.pull-left[
+![créer un dans le référentiel Girondin](images/creerconceptVoc.png)
+]
+
+.pull-right[
+
+![créer un dans le référentiel Girondin](images/creerconceptVoc2.png)
+
+---
+
+class: left, top
+
+### La brique logiciel « Le référentiel girondin » : créer des notices producteurs
+
+**Entité notices producteur** : possibilité de créer, d’importer et d'exporter des notices d’autorité (conformément à la norme ISAAR-CPF et suivant le format XML-EAC).
+
+.pull-left[![Notice d'autorité dans le référentiel Girondin](images/notice-autorite-Ref.png)
+
+
+
+]
+
+.pull-right[
+
+5 onglets :
+
+- informations générales
+- description
+- propriétés
+- relations 
+- cycle de vie
+
+
+
+---
+
+class: left, top
+
+### La brique logiciel « Le référentiel girondin » : créer des notices producteurs
+
+Focus sur l'onglet description :
+
+.pull-left[![Notice d'autorité dans le référentiel Girondin](images/notice-autorite-description-Ref.png)
+
+]
+
+.pull-right[
+
+Ajouter les champs souhaités :
+
+![Notice d'autorité dans le référentiel Girondin](images/notice-autorite-description-ajouter-Ref.png)
+
+---
+
+class: left, top
+
+### La brique logiciel « Le référentiel girondin » : les identifiants ARK
+
+le modèle d’attribution des identifiants au sein du SAE girondin ![Les identifiant ARK dans le référentiel Girondin](images/modele-attributionArk.png)
+
+---
+
+class: left, top
+
+### La brique logiciel « Le référentiel girondin » : les identifiants ARK
+
+
+
+.pull-left[ le modèle d’attribution des identifiants au sein du SAE girondin
+
+![Les identifiant ARK dans le référentiel Girondin](images/modele-attributionArk2.png)
+
+
+
+]
+
+.pull-right[ 
+
+Structure et intégrité des identifiants ARK dans le SAE girondin
+
+La société Logilab développe Le référentiel avec l’outil cubicweb qui permet :
+
+- de relier les données entre elles via des liens et **des identifiants** en supprimant les ambigüités.
+- de fournir à des briques logicielles externes des identifiants pérennes via le protocole **OAI-PMH**
+
+- - **Structure des identifiants**
+
+  - Les parties **Name et qualifier** sont construites sous la forme d’une chaine de caractères aléatoires avec les contraintes suivantes : 
+
+  - - une chaîne de caractères alphanumériques avec **une séquence en base 2**9 : 				uniquement des	consonnes (sauf l) et des chiffres 0 à 9
+    - la partie Name commence par un préfixe « *rf* » **fixant le contexte d’attribution des 		identifiants** 
+    - une longueur fixe de **10 caractères**
+
+
 
 ---
 
