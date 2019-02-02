@@ -431,6 +431,8 @@ class: left, top
 
 ![créer un dans le référentiel Girondin](images/creerconceptVoc2.png)
 
+]
+
 ---
 
 class: left, top
@@ -455,7 +457,7 @@ class: left, top
 - relations 
 - cycle de vie
 
-
+]
 
 ---
 
@@ -467,13 +469,13 @@ Focus sur l'onglet description :
 
 .pull-left[![Notice d'autorité dans le référentiel Girondin](images/notice-autorite-description-Ref.png)
 
-]
-
-.pull-right[
+].pull-right[
 
 Ajouter les champs souhaités :
 
 ![Notice d'autorité dans le référentiel Girondin](images/notice-autorite-description-ajouter-Ref.png)
+
+]
 
 ---
 
@@ -516,7 +518,7 @@ La société Logilab développe Le référentiel avec l’outil cubicweb qui per
     - la partie Name commence par un préfixe « *rf* » **fixant le contexte d’attribution des 		identifiants** 
     - une longueur fixe de **10 caractères**
 
-
+]
 
 ---
 
