@@ -15,9 +15,9 @@ class: left, top
 
 ### Pourquoi le SEDA ?
 
-Faciliter les échanges entre les systèmes d'information en les **normalisant** et en permettant leur **Interopérabilité**.
+Faciliter les échanges entre les systèmes d'information en les **normalisant** et en permettant leur **interopérabilité**.
 
-![Interopérabilité](images/desertB.jpg)
+.reduite[![Interopérabilité](images/desertB.jpg)]
 
 ---
 
@@ -32,8 +32,10 @@ La rédaction de cette grammaire est à l'initiative du Service interministérie
 - septembre **2012** publication de la **version 1.0**
 - **2014** : parution de la norme Afnor **NF 44-022 MEDONA** : Modélisation des échanges de données pour l'archivage
 - décembre **2015** publication de la **version du standard 2.0**, conforme à la norme MEDONA
-- **2017** : parution de la norme **ISO 20614** : Information et documentation -- Protocole d'échange de données pour l'**interopérabilité et la préservation**
+- **2017** : parution de la norme **ISO 20614 DEPIP** : Information et documentation -- Protocole d'échange de données pour l'**interopérabilité et la préservation**
 - **juin 2018** publication de la révision 2.1 : Interface web de consultation des schémas de la [**version 2.1**](https://francearchives.fr/seda/api_v2-1/seda-2.1-main.html)
+
+![Chronologie du SEDA](images/chronoSEDA.png)
 
 ---
 
@@ -45,11 +47,19 @@ class: left, top
 
 > Il précise les messages échangés ainsi que les métadonnées à utiliser pour **décrire, gérer et pérenniser** l’information.
 
+---
+
+class: left, top
+
+### Pourquoi le SEDA ?
+
 Il vise à :
 
 - proposer un **cadre d'interopérabilité** pour la dématérialisation des processus d'archivage
 - **structurer les messages** renforcant la valeur probante des archives
 - **relier des unités de description** au sein du processus de versement
+
+![illustration du pourquoi du SEDA](images/allInOneSeda.png)
 
 ---
 
@@ -120,13 +130,13 @@ class: left, top
 
 ---
 
-class: left, top
+class: middle, top
 
 ### Les messages SEDA
 
 #### Les types de messages lors d'un transfert
 
-.reduite[![Les échanges SEDA V2](images/transferer.png)
+.reduite[![Les échanges SEDA V2](images/transferer.png)]
 
 ---
 
@@ -158,7 +168,7 @@ class: left, top
 
 #### Les types de messages lors d'une restitution
 
-![Les échanges SEDA V2](images/restituer.png)
+.reduite[![Les échanges SEDA V2](images/restituer.png)]
 
 ---
 
@@ -282,7 +292,11 @@ class: left, top
 
 class: left, top
 
-### structure d'un profil (SEDA v2) : les éléments obligatoires
+### Structure d'un profil (SEDA v2)
+
+#### Les éléments obligatoires du transfert
+
+![les éléments obligatoires](images/sedaMinTransfert.png)
 
 ---
 
@@ -304,9 +318,9 @@ Pour produire les fichiers xml nécessaire aux processus ou à la modélisation 
 - SHERPA : application en ligne de génération de profils
 - SAEM : application en ligne de génération de profils et de génération de bordereaux SEDA
 
-.reduite2[![éditeur XML](images/editeurXML.png)]
-.reduite2[![application SHERPA](images/sherpa.png)]
-.reduite2[![éditeur XML](images/referentielSAEM.png)]
+.reduite2[[![éditeur XML](images/editeurXML.png)](https://jsonformatter.org/xml-editor)]
+.reduite2[[![application SHERPA](images/sherpa.png)](https://francearchives.fr/sherpa/)]
+.reduite2[[![éditeur XML](images/referentielSAEM.png)](https://www.saemgirondin.fr/)]
 
 ---
 
@@ -314,13 +328,9 @@ class: left, top
 
 ### Présentation de SHERPA
 
-SHERPA a été conçu pour remplacer AGAPE et fournir un lieu centralisé de production de profils SEDA
+SHERPA a été conçu pour remplacer AGAPE et fournir un lieu centralisé de production de profils SEDA. Il implémente l'ensemble des champs du SEDA 2.0 et permet d'exporter des profils pour les intégrer dans d'autres outils. Il permet de choisir parmi une liste définie de vocabulaires les listes de codes associés aux profils.
 
-Il permet de décrire a minima les acteurs et implémente l'ensemble des champs du SEDA 2.0
-
-Il permet d'exporter des profils pour les intégrer dans d'autres outils
-
-Il permet de choisir parmi une liste définie de vocabulaires les listes de codes associés aux profils
+.reduite[![illustration de sherpa](https://francearchives.fr/sherpa/data/3dcc0f05c46935e8ee6e6e4e558d943a/images/sherpa_cinematique.png)]
 
 ---
 

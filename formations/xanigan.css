@@ -89,10 +89,10 @@ img {
   max-width: 100%;
 }
 .reduite img {
-  max-height: 500px;
+  max-height: 450px;
 }
 .reduite2 img {
-  max-height: 160px;
+  max-height: 200px;
 }
 .blockquote {
   border-left: solid 2px lightgray;
