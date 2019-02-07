@@ -254,29 +254,21 @@ class: left, top
 
 class: left, top
 
-### Les métadonnées
+### Les différérences entre le SEDA v1 et le SEDA v2
 
-**définition**
+Une structuration **arborescente** versus une structuration orientée **données** 
 
-> Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
+![le schéma SEDA V1](images/Diff_seda1-seda2.png)
 
-![explication des métadonnées par un métaphore sur le vin](images/vinContexte.PNG)
+SEDA v1 : modèle hérité de la norme de description ISAD(G) et de la DTD EAD.
 
----
-
-class: left, top
-
-### Typologies de métadonnées
-
-Le SEDA utilise quatre sortes de **métadonnées** :
-
-![illustration métadonnées seda](images/metadataSeda.png)
+SEDA v2 : 
 
 ---
 
 class: left, top
 
-### Transfert (@ArchiveTransfert) en SEDA v1
+#### Transfert (@ArchiveTransfert) en SEDA v1
 
 ![le schéma SEDA V1](images/seda1.png)
 
@@ -284,7 +276,7 @@ class: left, top
 
 class: left, top
 
-### Transfert (@ArchiveTransfert) en SEDA v2
+#### Transfert (@ArchiveTransfert) en SEDA v2
 
 ![Les échanges SEDA V2](images/seda2.png)
 
@@ -299,6 +291,70 @@ class: left, top
 ![les éléments obligatoires](images/sedaMinTransfert.png)
 
 ---
+
+class: left, top
+
+### Les métadonnées
+
+**définition**
+
+> Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
+
+![explication des métadonnées par un métaphore sur le vin](/Users/delphinejamet/Documents/git/notrescop/formations/images/vinContexte.PNG)
+
+------
+
+class: left, top
+
+### Typologies de métadonnées
+
+Le SEDA utilise quatre sortes de **métadonnées** :
+
+![illustration métadonnées seda](/Users/delphinejamet/Documents/git/notrescop/formations/images/metadataSeda.png)
+
+------
+
+class: left, top
+
+#### Les métadonnées de transfert
+
+
+
+
+
+------
+
+class: left, top
+
+#### Les métadonnées de gestion : 
+
+Les métadonnées de gestion ont pour objet de rassembler l'ensemble des informations utiles à la gestion dans le temps de l'objet archivé : durées de conservation, règles d'accès, 
+
+Ces métadonnées peuvent être communes à tous les objets transférés ou spécifiques à chacun d'entre eux.
+
+![illustration métadonnées gestion seda](images/seda2-metadonnees-gestion.png)
+
+------
+
+class: left, top
+
+#### Les métadonnées de description
+
+
+
+
+
+------
+
+class: left, top
+
+#### Les métadonnées techniques
+
+
+
+
+
+------
 
 class: left, top
 
