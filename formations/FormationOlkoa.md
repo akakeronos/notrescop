@@ -168,7 +168,7 @@ class: left, top
 
 #### Les types de messages lors d'une restitution
 
-.reduite[![Les échanges SEDA V2](images/restituer.png)]
+![Les échanges SEDA V2](images/restituer.png)
 
 ---
 
@@ -380,13 +380,15 @@ class: left, top
     - des profils d’archivage conformes au SEDA (toutes versions)
     - des identifiants pérennes : numéroteur centralisé du système d’archivage électronique
 
-.reduite [![modèle de données du Référentiel girondin](images/modele-donneeRefSAEM.png)]
-
 ---
 
 class: left, top
 
 ### La brique logiciel « Le référentiel girondin » : les différences avec SHERPA
+
+.reduite[![modèle de données du Référentiel girondin](images/modele-donneeRefSAEM.png)]
+
+<!--
 
 Le module référentiel permet de :
 
@@ -394,6 +396,8 @@ Le module référentiel permet de :
 - créer, importer et exporter des vocabulaires contrôlés
 - créer, importer et exporter des notices producteurs plus complètes
 - Générer des identifiants ARK
+
+-->
 
 ---
 
@@ -501,12 +505,11 @@ class: left, top
 
 .pull-right[
 
-Structure et intégrité des identifiants ARK dans le SAE girondin
+Structure et intégrité des identifiants ARK dans le SAE girondin :
 
-La société Logilab développe Le référentiel avec l’outil cubicweb qui permet :
-
-- de relier les données entre elles via des liens et **des identifiants** en supprimant les ambigüités.
-- de fournir à des briques logicielles externes des identifiants pérennes via le protocole **OAI-PMH**
+- permet de relier les données entre elles via des liens et **des identifiants** en supprimant les ambigüités.
+- permet de fournir à des briques logicielles externes des identifiants pérennes via le protocole **OAI-PMH**
+  ]
 
 ---
 
@@ -515,12 +518,9 @@ class: left, top
 ### Structure des identifiants
 
 - Les parties **Name et qualifier** sont construites sous la forme d’une chaine de caractères aléatoires avec les contraintes suivantes :
-
-- - une chaîne de caractères alphanumériques avec **une séquence en base 2**9 : uniquement des consonnes (sauf l) et des chiffres 0 à 9
-  - la partie Name commence par un préfixe « _rf_ » **fixant le contexte d’attribution des identifiants**
-  - une longueur fixe de **10 caractères**
-
-]
+- une chaîne de caractères alphanumériques avec **une séquence en base 2**9 : uniquement des consonnes (sauf l) et des chiffres 0 à 9
+- la partie Name commence par un préfixe « _rf_ » **fixant le contexte d’attribution des identifiants**
+- une longueur fixe de **10 caractères**
 
 ---
 
