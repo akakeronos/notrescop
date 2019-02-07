@@ -332,7 +332,23 @@ Les métadonnées de gestion ont pour objet de rassembler l'ensemble des informa
 
 Ces métadonnées peuvent être communes à tous les objets transférés ou spécifiques à chacun d'entre eux.
 
+
+
 ![illustration métadonnées gestion seda](images/seda2-metadonnees-gestion.png)
+
+
+
+???
+
+AccessRule = Gestion de la communicabilité = Bloc    de    métadonnées    de    gestion    permettant    de    gérer    la communicabilité.   Utilisable   dans   la   zone   des   métadonnées   de gestion  du  paquet  d’Objet   de   données et   dans   la   zone   des métadonnées de description, dans les niveaux de description.
+
+PreventInheritance= Gestion  de  l’héritage  dans  le  nœud courant==> Métadonnée permettant d’ignorer toutes les règles de gestion héritées des nœuds parents dans le nœud courant.
+
+RefNonRuleId= Arrêt de l’héritage dans le nœud courant==>Métadonnée permettant de retirer de l’héritage une règle de gestion définie dans le nœud courant.
+
+Rule = Règle de gestion de la communicabilité ==> Référence  à  une  règle  de  communicabilité  à  appliquer.  Cette  dernière est  présente  dans  un  référentiel  sur  lequel  les  différents  acteurs  de l’échange se sont mis d’accord.
+
+StartDate = Date de départ du calcul ==> Date permettant de calculer le terme de l’application de la règle de gestion  définie  dans  le  bloc  de  métadonnée  de  gestion  permettant  de gérer la communicabilité.
 
 ------
 
@@ -427,14 +443,12 @@ class: left, top
 ### La brique logiciel « Le référentiel girondin » : clé de voute du système
 
 - Objectif : réalisation d’un référentiel de structuration et de gestion des métadonnées, interopérable, développé en open source, prenant en compte le contexte normatif et basé sur une ontologie pour :
-
 - Créer, importer, centraliser, gérer et exposer :
-
-- - - des autorités et unités administratives
-    - des vocabulaires contrôlés externes ou internes
-    - des notices d’autorité des acteurs de l’archivage
-    - des profils d’archivage conformes au SEDA (toutes versions)
-    - des identifiants pérennes : numéroteur centralisé du système d’archivage électronique
+  - des autorités et unités administratives
+  - des vocabulaires contrôlés externes ou internes
+  - des notices d’autorité des acteurs de l’archivage
+  - des profils d’archivage conformes au SEDA (toutes versions)
+  - des identifiants pérennes : numéroteur centralisé du système d’archivage électronique
 
 ---
 
