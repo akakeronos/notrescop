@@ -388,16 +388,13 @@ class: left, top
 
 .reduite[![modèle de données du Référentiel girondin](images/modele-donneeRefSAEM.png)]
 
-<!--
-
+???
 Le module référentiel permet de :
 
 - créer des autorités et unités administratives
 - créer, importer et exporter des vocabulaires contrôlés
 - créer, importer et exporter des notices producteurs plus complètes
 - Générer des identifiants ARK
-
--->
 
 ---
 
