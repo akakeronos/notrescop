@@ -380,7 +380,7 @@ class: left, top
     - des profils d’archivage conformes au SEDA (toutes versions)
     - des identifiants pérennes : numéroteur centralisé du système d’archivage électronique
 
-![modèle de données du Référentiel girondin](images/modele-donneeRefSAEM.png)
+.reduite [![modèle de données du Référentiel girondin](images/modele-donneeRefSAEM.png)]
 
 ---
 
@@ -403,7 +403,7 @@ class: left, top
 
 **Entités Autorités administratives** **et unités administratives** : possibilité de créer des autorités administratives, des unités administratives et agents administratifs liés : gestion de la fluctuation des organigrammes, gestion des droits, paramétrages des autres briques du SAE.
 
-![vocabuliaire dans le référentiel Girondin](images/autorite-et-unitesadministratives-SEAMREf.png)
+.reduite[![vocabulaire dans le référentiel Girondin](images/autorite-et-unitesadministratives-SEAMREf.png)]
 
 ---
 
@@ -415,7 +415,7 @@ Les vocabulaires sont des **listes de termes** organisées. Ils peuvent prendre 
 
 **Entités vocabulaires contrôlés** : possibilité d’importer et d'exporter des vocabulaires au format SKOS (thésaurus et listes d’autorité du SIAF) et au format CSV (sort final, communicabilité, DUA, etc.), et d’en créer en fonction des besoins métiers de chaque collectivité (ex : liste des lieux ou bâtiments gérés). Ces vocabulaires réunissent des métadonnées descriptives et de gestion.
 
-![vocabuliaire dans le référentiel Girondin](images/creerVoc.png)
+![vocabulaire dans le référentiel Girondin](images/creerVoc.png)
 
 ---
 
@@ -483,7 +483,9 @@ class: left, top
 
 ### La brique logiciel « Le référentiel girondin » : les identifiants ARK
 
-le modèle d’attribution des identifiants au sein du SAE girondin ![Les identifiant ARK dans le référentiel Girondin](images/modele-attributionArk.png)
+le modèle d’attribution des identifiants au sein du SAE girondin
+
+.reduite[![Les identifiant ARK dans le référentiel Girondin](images/modele-attributionArk.png)]
 
 ---
 
@@ -506,13 +508,17 @@ La société Logilab développe Le référentiel avec l’outil cubicweb qui per
 - de relier les données entre elles via des liens et **des identifiants** en supprimant les ambigüités.
 - de fournir à des briques logicielles externes des identifiants pérennes via le protocole **OAI-PMH**
 
-- - **Structure des identifiants**
+---
 
-  - Les parties **Name et qualifier** sont construites sous la forme d’une chaine de caractères aléatoires avec les contraintes suivantes :
+class: left, top
 
-  - - une chaîne de caractères alphanumériques avec **une séquence en base 2**9 : uniquement des consonnes (sauf l) et des chiffres 0 à 9
-    - la partie Name commence par un préfixe « _rf_ » **fixant le contexte d’attribution des identifiants**
-    - une longueur fixe de **10 caractères**
+### Structure des identifiants
+
+- Les parties **Name et qualifier** sont construites sous la forme d’une chaine de caractères aléatoires avec les contraintes suivantes :
+
+- - une chaîne de caractères alphanumériques avec **une séquence en base 2**9 : uniquement des consonnes (sauf l) et des chiffres 0 à 9
+  - la partie Name commence par un préfixe « _rf_ » **fixant le contexte d’attribution des identifiants**
+  - une longueur fixe de **10 caractères**
 
 ]
 
@@ -522,7 +528,7 @@ class: left, top
 
 ### Comment implémenter le SEDA : Pastel, export des applications métiers
 
-Pascal
+![illustration Pastell](images/pastell.png)
 
 ---
 
@@ -556,6 +562,8 @@ class: left, top
 * Les marchés publics
 
 * Bureautique : Activités d'Olkoa en 2018
+
+---
 
 class: left, top
 
