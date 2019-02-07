@@ -326,7 +326,7 @@ class: left, top
 
 class: left, top
 
-#### Les métadonnées de gestion : 
+#### Les métadonnées de gestion
 
 Les métadonnées de gestion ont pour objet de rassembler l'ensemble des informations utiles à la gestion dans le temps de l'objet archivé : durées de conservation, règles d'accès, 
 
@@ -334,9 +334,9 @@ Ces métadonnées peuvent être communes à tous les objets transférés ou spé
 
 
 
-![illustration métadonnées gestion seda](images/seda2-metadonnees-gestion.png)
+.reduite2[![illustration métadonnées gestion seda](images/seda2-metadonnees-gestion.png)
 
-
+]
 
 ???
 
