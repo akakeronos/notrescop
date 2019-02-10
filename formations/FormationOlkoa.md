@@ -262,7 +262,7 @@ Une structuration **arborescente** versus une structuration orientée **données
 
 SEDA v1 : modèle hérité de la norme de description ISAD(G) et de la DTD EAD.
 
-SEDA v2 : 
+SEDA v2 : modèle aligné sur les normes de description orientées ressources (RDA, FFBR, RIC)
 
 ---
 
@@ -300,9 +300,9 @@ class: left, top
 
 > Une métadonnée est une donnée servant à **définir ou décrire** une autre donnée. **Porteuse d'information** sur le **contexte**, le **sens** et la **finalité** de la ressource informationnelle portée par la **donnée brute**.
 
-![explication des métadonnées par un métaphore sur le vin](/Users/delphinejamet/Documents/git/notrescop/formations/images/vinContexte.PNG)
+![explication des métadonnées par un métaphore sur le vin](images/vinContexte.PNG)
 
-------
+---
 
 class: left, top
 
@@ -310,19 +310,30 @@ class: left, top
 
 Le SEDA utilise quatre sortes de **métadonnées** :
 
-![illustration métadonnées seda](/Users/delphinejamet/Documents/git/notrescop/formations/images/metadataSeda.png)
+![illustration métadonnées seda](images/metadataSeda.png)
 
-------
+---
 
 class: left, top
 
-#### Les métadonnées de transfert
+#### Les métadonnées de transport
 
+Les   métadonnées   de   transport   ont   pour   objet   d’encadrer   le   transport   des   Objets   de   données   depuis l’opérateur de versement jusqu’au service d’archive
 
+![illustration métadonnées transport](images/metadataSedaTransport.png)
 
+???
+empreinte des fichiers, inventaires des Objets de données transmis, identité de l’émetteur et du récepteur,
+contrat applicable aux Objets de données transférés
+Ces   métadonnées   constituent   un   bloc   à   part   entière   sous   une   forme   de   liste,   pour   tous   les éléments concernés par le transport.  Elles sont uniques par objet d’archives ou par lot d’archives.
 
+Référence à l’accord de service (Archival Agreement)
+ le choix des référentiels et des modèles à utiliser lors des transactions
+  la liste des acteurs, leurs rôles et responsabilités dans ces transactions
+  les niveaux de service, les règles d’accessibilité et les règles de sort final
+Liste des objets de données
 
-------
+---
 
 class: left, top
 
@@ -334,12 +345,11 @@ Ces métadonnées peuvent être communes à tous les objets transférés ou spé
 
 
 
-.reduite2[![illustration métadonnées gestion seda](images/seda2-metadonnees-gestion.png)
+.reduite[![illustration métadonnées gestion seda](images/seda2-metadonnees-gestion.png)
 
 ]
 
 ???
-
 AccessRule = Gestion de la communicabilité = Bloc    de    métadonnées    de    gestion    permettant    de    gérer    la communicabilité.   Utilisable   dans   la   zone   des   métadonnées   de gestion  du  paquet  d’Objet   de   données et   dans   la   zone   des métadonnées de description, dans les niveaux de description.
 
 PreventInheritance= Gestion  de  l’héritage  dans  le  nœud courant==> Métadonnée permettant d’ignorer toutes les règles de gestion héritées des nœuds parents dans le nœud courant.
@@ -350,7 +360,7 @@ Rule = Règle de gestion de la communicabilité ==> Référence  à  une  règle
 
 StartDate = Date de départ du calcul ==> Date permettant de calculer le terme de l’application de la règle de gestion  définie  dans  le  bloc  de  métadonnée  de  gestion  permettant  de gérer la communicabilité.
 
-------
+---
 
 class: left, top
 
@@ -360,17 +370,20 @@ class: left, top
 
 
 
-------
+---
 
 class: left, top
 
 #### Les métadonnées techniques
 
+![illustration métadonnées techniques](images/metadataSedaTechnique.png)
+
+???
+informations de représentation, informations d’intégrité et informations d’identification
 
 
 
-
-------
+---
 
 class: left, top
 
