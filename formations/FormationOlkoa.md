@@ -318,7 +318,7 @@ class: left, top
 
 #### Les métadonnées de transport
 
-Les   métadonnées   de   transport   ont   pour   objet   d’encadrer   le   transport   des   Objets   de   données   depuis l’opérateur de versement jusqu’au service d’archive
+Les   métadonnées   de   transport   ont   pour   objet   d’encadrer   le   transport   des   Objets   de   données   depuis l’opérateur de versement jusqu’au service d’archives.
 
 ![illustration métadonnées transport](images/metadataSedaTransport.png)
 
@@ -360,28 +360,34 @@ Rule = Règle de gestion de la communicabilité ==> Référence  à  une  règle
 
 StartDate = Date de départ du calcul ==> Date permettant de calculer le terme de l’application de la règle de gestion  définie  dans  le  bloc  de  métadonnée  de  gestion  permettant  de gérer la communicabilité.
 
+
+
+------
+
+class: left, top
+
+#### Les métadonnées techniques
+
+![illustration métadonnées techniques](/Users/delphinejamet/Documents/git/notrescop/formations/images/metadataSedaTechnique.png)
+
+???
+informations de représentation, informations d’intégrité et informations d’identification
+
 ---
 
 class: left, top
 
 #### Les métadonnées de description
 
+Les Métadonnées descriptives regroupent l'ensemble des informations descriptives des objets de données. Les informations de pérennisation font référence aux objets de données listés et décrits dans le BinaryDataObjectType et le PhysicalDataObjectType.
+
+![illustration métadonnées description](images/metadonnees-description.png)
 
 
-
-
----
-
-class: left, top
-
-#### Les métadonnées techniques
-
-![illustration métadonnées techniques](images/metadataSedaTechnique.png)
 
 ???
-informations de représentation, informations d’intégrité et informations d’identification
 
-
+archiveUnit : Information   qui   permet   de   gérer   à   la   fois   la hiérarchie intellectuelle, tout en contenant les métadonnées de description    et    de    gestion    propres    à    chaque    niveau    de description  archivistique.
 
 ---
 
