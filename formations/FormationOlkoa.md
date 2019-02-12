@@ -370,6 +370,8 @@ class: left, top
 
 ![illustration métadonnées techniques](/images/metadataSedaTechnique.png)
 
+
+
 ???
 informations de représentation, informations d’intégrité et informations d’identification
 
@@ -381,13 +383,11 @@ class: left, top
 
 Les Métadonnées descriptives regroupent l'ensemble des informations descriptives des objets de données. Les informations de pérennisation font référence aux objets de données listés et décrits dans le BinaryDataObjectType et le PhysicalDataObjectType.
 
-![illustration métadonnées description](images/metadonnees-description.png)
-
-
+.reduite[ ![illustration métadonnées description](images/metadonnees-description.png)]
 
 ???
 
-archiveUnit : Information   qui   permet   de   gérer   à   la   fois   la hiérarchie intellectuelle, tout en contenant les métadonnées de description    et    de    gestion    propres    à    chaque    niveau    de description  archivistique.
+archiveUnit : Information qui   permet  de gérer à la fois la hiérarchie intellectuelle, tout en contenant les métadonnées de description et de gestion propres à chaque niveau de description archivistique.
 
 ---
 
@@ -622,6 +622,8 @@ class: left, top
 
 ## Exercices
 
+![illustration Pastell](images/exercice.png)
+
 ---
 
 class: left, top
@@ -639,13 +641,8 @@ class: left, top
 
 - La matrice cadastrale dans la réalité : réflexion autour du profil fourni par le SIAF et comment l'améliorer grâce notamment au SEDA V2.
 
-  - les types de fichiers
 
-  - les dates des fichiers
-
-  - renseigner des communicabilités différentes au sein des UA
-
-* Les marchés publics
+* Les délibérations
 
 * Bureautique : Activités d'Olkoa en 2018
 
