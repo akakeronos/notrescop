@@ -368,7 +368,7 @@ class: left, top
 
 #### Les métadonnées techniques
 
-![illustration métadonnées techniques](/Users/delphinejamet/Documents/git/notrescop/formations/images/metadataSedaTechnique.png)
+![illustration métadonnées techniques](/images/metadataSedaTechnique.png)
 
 ???
 informations de représentation, informations d’intégrité et informations d’identification
