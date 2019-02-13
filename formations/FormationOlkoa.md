@@ -403,6 +403,19 @@ class: left, top
 
 ### Comment le SEDA ?
 
+1. Saisir les valeurs connues au travers de l'analyse de la production (tableau de gestion)
+2. définir les cardinalités des champs pour les éléments
+   1. toujours et unique
+   2. toujours et multiple
+   3. optionnel et unique
+   4. optionnel et multiple
+
+---
+
+class: left, top
+
+### Comment le SEDA ?
+
 Pour produire les fichiers xml nécessaire aux processus ou à la modélisation des paquets d'information, plusieurs outils sont disponibles :
 
 - éditeur xml : production de bordereaux de versement ou de profils
