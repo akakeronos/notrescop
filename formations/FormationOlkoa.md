@@ -362,13 +362,13 @@ StartDate = Date de départ du calcul ==> Date permettant de calculer le terme d
 
 
 
-------
+---
 
 class: left, top
 
 #### Les métadonnées techniques
 
-![illustration métadonnées techniques](/images/metadataSedaTechnique.png)
+![illustration métadonnées techniques](images/metadataSedaTechnique.png)
 
 
 
