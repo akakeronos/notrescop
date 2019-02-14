@@ -55,47 +55,46 @@ désigne les Archives départementales de la Charente comme maître d’ouvrage 
 **Gouvernance**
 
 Comité de pilotage (COPIL)
-o Composition :
- Directeur général des services
- Directeurs de pôles (Finances, affaires juridiques, commande publique,
-solidarités)
- Directeur des systèmes d’information
- Directrice des AD 16 (autorité d’archivage)
- Chefs de projet Archives et informatique
- Chargés de mission DGS (ADN et PAD 16)
+* Directeur général des services
+* Directeurs de pôles (Finances, affaires juridiques, commande publique, solidarités)
+* Directeur des systèmes d’information
+* Directrice des AD 16 (autorité d’archivage)
+* Chefs de projet Archives et informatique
+* Chargés de mission DGS (ADN et PAD 16)
 
-Interlocuteurs
+**Interlocuteurs**
 
-Olivier Grégoire, directeur général des services
-Paul Bouriat, directeur du pôle Finances et appui aux services
-Florence Defert, directrice du service juridique & commande publique
-Bernard Tribot, directeur du PECS
-Marion Bernard, directrice des Archives départementales
-Joseph Di Nisi, directeur de la DSI
-Catherine Gallardon, directrice du PSol
-Laetitia Fredaigue, directrice de l’insertion économique sociale & solidaire
-Thierry Gravelle, directeur de la MDPH
-Amélie Antoine & Annie Belabed, cheffes de projet Archives 2020
-Stéphanie Bon, chargée de mission PAD 16
-Vincent Malnou, chargé de mission ADN
-Jean-Christophe Cardaillac, chef de projet SAE
+* Olivier Grégoire, directeur général des services
+* Paul Bouriat, directeur du pôle Finances et appui aux services
+* Florence Defert, directrice du service juridique & commande publique
+* Bernard Tribot, directeur du PECS
+* Marion Bernard, directrice des Archives départementales
+* Joseph Di Nisi, directeur de la DSI
+* Catherine Gallardon, directrice du PSol
+* Laetitia Fredaigue, directrice de l’insertion économique sociale & solidaire
+* Thierry Gravelle, directeur de la MDPH
+* Amélie Antoine & Annie Belabed, cheffes de projet Archives 2020
+* Stéphanie Bon, chargée de mission PAD 16
+* Vincent Malnou, chargé de mission ADN
+* Jean-Christophe Cardaillac, chef de projet SAE
 
-Coproj SAE
-Amélie Antoine, Annie Belabed et Jean-Christophe Cardaillac chefs du projet SAE
-Hadhoum Kaabouni et Nicolas Malpeyre (DSIN)
-Caroline Méléard (RGPD) & Franck Velten (Open Data) ponctuellement
+**Coproj SAE**
+
+* Amélie Antoine, Annie Belabed et Jean-Christophe Cardaillac chefs du projet SAE
+* Hadhoum Kaabouni et Nicolas Malpeyre (DSIN)
+* Caroline Méléard (RGPD) & Franck Velten (Open Data) ponctuellement
 
 Les différentes phases d’analyses, les entretiens, les réunions et le recueil d’informations se
 déroulent dans les locaux du Département avec mise à disposition d’un bureau de passage.
 
 
-## Attendus 
+## Attendus
 
 ### Prestation 1 : Etude de faisabilité de l’extraction des données du SI métiers
 (RIO + IODAS) et les modalités de transfert des données et dossiers
 dans un SAE
 
-#### phase 1 
+#### phase 1
 
 Caractéristiques de la GED RIO et identification de la faisabilité
 d’extraction des données
@@ -109,6 +108,7 @@ MDPH pour identifier
 * les documents à récupérer dans la nouvelle GED sociale
 
 Les livrables associés à cette première phase sont les suivants :
+
 * Référentiel de conservation
 * Modélisation des flux
 * Bordereau des éliminables
@@ -116,25 +116,25 @@ Les livrables associés à cette première phase sont les suivants :
 * Rapport sur la faisabilité d’extraction
 * Tableau récapitulatif des volumes et formats par flux
 
-#### PHASE 2 – 
+#### PHASE 2 –
 
 Rédaction du profil d’archivage des dossiers ASE
 
-livrable 
+livrable
 
 * Le modèle conceptuel de données dans la logique structurelle du SEDA
 * La documentation ayant servi à l’élaboration du schéma
 * Le profil au format XSD ou RNG à l’aide d’un outil de génération de profils (SHERPA)
 * Le contrat de service et le contrat de versement
 
-#### PHASE 3 – 
+#### PHASE 3 –
 
 Préconisations pour la futur GED sociale en lien avec le SAE (PSOL et MDPH)
 
 prendre en compte l’interfaçage avec le futur SAE, garant de la pérennité et de l’intégrité
 des données dans le temps
 
-#### Phase 4 - 
+#### Phase 4 -
 
 Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents
 
