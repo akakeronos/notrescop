@@ -1,4 +1,4 @@
-## accompagnement à la mise en oeuvre de l’archivage électronique du Département de la Charente
+## accompagnement à la mise en œuvre de l’archivage électronique du Département de la Charente
 
 ## **Objectifs** : améliorer et moderniser les services rendus aux usagers
 
@@ -96,12 +96,12 @@ dans un SAE
 
 #### phase 1
 
-Caractéristiques de la GED RIO et identification de la faisabilité
-d’extraction des données
+Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données
 
 Etudier la structuration des données et des métadonnées de RIO en y associant les métadonnées
 complémentaires et essentielles de IODAS pour les flux Enfance, Autonomie, Insertion,
 MDPH pour identifier
+
 
 * les éliminables
 * les documents à verser (dossiers clos pour les enfants de plus de 21 ans concernant l’ASE)
@@ -116,6 +116,42 @@ Les livrables associés à cette première phase sont les suivants :
 * Rapport sur la faisabilité d’extraction
 * Tableau récapitulatif des volumes et formats par flux
 
+Méthodo :
+    
+* Comprendre le modèle de données par flux et par mesure
+* Comprendre le niveau de couplage entre logiciel métier et GED
+* Existant vs cible (préparation phase 3)
+* Processus d'alimentation (articulation numérisation, instruction, notification)
+* localisation des documents / données (serveurs de fichiers)
+* volumétrie 
+* nombre de dossiers par flux
+* dossiers communs entre les différents flux : quels liens ?
+
+itération : 
+    * Restitution sur le flux urgent
+    * généralisation
+
+livrables : 
+* cartographie des flux
+* identification des dossiers (ouverts/ clos) : sur quelles propriétés ?
+* évaluation de la faisabilité
+
+    * ressources
+
+    * entretien avec les éditeurs
+
+    
+Combien : 
+    
+* 4 ateliers (1 par flux) : 8j
+* 1 atelier DSI (modèle de données et couplage)
+* 1 atelier avec atelier de NUM
+* 1 atelier avec l'atelier de numérisation
+* 2 jours d'étude
+    
+Qui : 
+    total : 13 jours
+        
 #### PHASE 2 –
 
 Rédaction du profil d’archivage des dossiers ASE
@@ -127,38 +163,122 @@ livrable
 * Le profil au format XSD ou RNG à l’aide d’un outil de génération de profils (SHERPA)
 * Le contrat de service et le contrat de versement
 
+Méthodo :
+* formation sur le SEDA
+* mise en perspective  : pourquoi le SEDA ?
+* aide à la rédaction du profil / mapping / accompagnement pour choix des balises
+
+itération : 
+* alpha du profil ASE
+* beta du profil ASE
+* guide des bonnes pratiques
+
+livrables : 
+    guide des bonnes pratiques SEDA 1 et 2
+    Pas possible d'avoir du SEDA 2.1 pour le moment via SHERPA
+    Participation des interlocuteurs DSI aux formations SEDA
+
+Combien : 
+    * 1 jours de formation SEDA
+    * 1 jours de formation SEDA appliqué à l'ASE
+    * 1 jour restitution guide bonnes pratiques
+    * 1 jour accompagnement à la rédaction
+    
+Qui :  
+     total : 4 jours
 #### PHASE 3 –
 
 Préconisations pour la futur GED sociale en lien avec le SAE (PSOL et MDPH)
 
-prendre en compte l’interfaçage avec le futur SAE, garant de la pérennité et de l’intégrité
-des données dans le temps
+prendre en compte l’interfaçage avec le futur SAE, garant de la pérennité et de l’intégrité des données dans le temps
 
+Méthodo :
+* analyse existant
+* présentation modalités d'interface entre systèmes
+* connecteurs GED SAE
+
+itération : 
+
+livrables : 
+  * éventail des solutions techniques et logicielles
+ 
+Combien : 
+    * 1 jour rédaction bilan existant
+    * 1 jours analyse solutions existantes
+   
+    
+Qui :  
+     total : 2 jours
 #### Phase 4 -
 
 Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents
 
-**Objectif** Explorer plusieurs pistes et proposer des scenarii permettant de garantir la conservation de ces
-données
+**Objectif** Explorer plusieurs pistes et proposer des scenarii permettant de garantir la conservation de ces données
 
 **livrables** Rapport sur les préconisations : avantages/inconvénients
 
-### Solution pour la mise en place d’un archivage électronique mutualisable
+Méthodo :
+* présentation des solutions envisageables
+itération : 
+
+    *atelier avec le COPROJ 
+
+
+livrables : 
+  * restituion au COPIL
+Combien : 
+    * 1 jour d'analyse
+    * 1 jour atelier COPROJ
+    * 1 jour de restitution
+Qui :  
+    
+  total : 2 jours
+  
+### étape 2 Solution pour la mise en place d’un archivage électronique mutualisable
 
 
 #### phase 5 
 
 Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE
 
-Effectuer un diagnostic des infrastructures techniques existantes et mobilisables pour l’intégration
-d’un SAE intermédiaire et définitif en tenant compte de possibles perspectives de
-mutualisation/externalisation. Cette analyse permettra d’identifier les besoins et de dimensionner
-les ressources nécessaires matérielles, techniques, financières et humaines à mettre en oeuvre.
+Effectuer un diagnostic des infrastructures techniques existantes et mobilisables pour l’intégration d’un SAE intermédiaire et définitif en tenant compte de possibles perspectives de mutualisation/externalisation. Cette analyse permettra d’identifier les besoins et de dimensionner les ressources nécessaires matérielles, techniques, financières et humaines à mettre en oeuvre.
 
 **livrable** 
 
 Rapport d’analyse « points forts-points faibles » accompagné des préconisations sur les améliorations et correctifs éventuels à apporter
 
+Méthodo :
+* atelier sur les attendus de la mutualisation
+
+    * attendus animation interne
+
+    * forces : faiblesses solutions externes (coût, souveraineté)
+
+itération : 
+
+    * présentation des moyens nécessaires à la mise en place d'un SAE
+
+    * présentation des moyens nécessaires à la participation à une solution externalisée
+
+    * présentation des pré-requis techniques pour l'internalisation
+
+    * présentation des besoin de connecteurs
+
+
+livrables : 
+
+    * forces / faiblesses scenarii
+
+    * préconisations urbanisation SI GED / SAE
+
+
+Combien : 
+* 1 jour atelier présentation des scenarii DCANT
+* 1 jour restitution
+
+Qui :  
+     total : 2 jours
+    
 #### PHASE 6
 
 Définition du périmètre du SAE par rapport à la GED et aux autres applications
@@ -168,8 +288,34 @@ d’identifier les documents et données devant faire l’objet d’un archivage
 **livrables**
 
 * La cartographie des documents électroniques à archiver
-* Un rapport d’analyse sur l’existant et les priorités à mettre en oeuvre
+1.Le social par l’activité des ateliers de numérisation du Pôle Solidarités et de la MDPH  
+2.La chaîne budgétaire et comptable au regard des contraintes de la FULL DEMAT = TOTEM
+3.Les délibérations ainsi que les séances filmées des assemblées plénières (documents audio-visuels) et les arrêtés du Département soumis au contrôle de légalité. 
 
+
+Méthodo :
+    
+* établissement de la grille de collecte
+* évaluation de la criticité de la production documentaire
+* préconisations de priorisation
+* un atelier par flux
+
+itération : 
+
+
+
+livrables : 
+
+    * Un rapport d’analyse sur l’existant et les priorités à mettre en oeuvre
+
+
+Combien : 
+    * 1 jour par flux (2)
+    * 1 jour pour la rédaction du rapport d'activité
+
+Qui :  
+     total : 3 jours
+     
 #### PHASE 7 – 
 
 Scenarii et plan d’action
@@ -182,9 +328,39 @@ Proposer plusieurs scenarii intégrant des préconisations organisationnelles et
 * Document de synthèse pour comparer les scénarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE
 * Recommandations pour le choix d’un scénario privilégié
 
+Méthodo :
+    * présentation des scenarii
+    * vision globale (intégration open data, SIA) 
+    * entretien avec les porteurs de projets de solutions externes (publiques)
+    * interview avec les services internes et collectivités partenaires
+
+        * atelier avec les services constitués du territoire et établissements publics
+
+    * Atelier sur les enjeux de la mutualisation avec le COPIL
+
+
+itération : 
 
 
 
+livrables : 
+
+
+Combien : 
+
+    * 5 jours
+
+
+Qui :  
+    
+    total 5 jours 
+    
+    total étape 2 : 
+    Pilotage global : 3 jours
+    
+    total jours : 34 jours
+    coût : 22 880
+    
 ## Réponse 
 
 le mémoire méthodologique comprenant :
