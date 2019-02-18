@@ -90,7 +90,11 @@ déroulent dans les locaux du Département avec mise à disposition d’un burea
 
 ## Attendus
 
-### Prestation 1 : Etude de faisabilité de l’extraction des données du SI métiers
+### Prestation 1 : Etude de faisabilité de l’extraction des données du SI "Social"
+Préambule : A la lecture du CCTP, il ressort que la phase 1 de caractérisation de la GED RIO est la clé de voûte de la bonne conduite de la prestation. Aussi, nous vous proposons de considérer
+
+
+
 (RIO + IODAS) et les modalités de transfert des données et dossiers
 dans un SAE
 
@@ -100,7 +104,7 @@ Caractéristiques de la GED RIO et identification de la faisabilité d’extract
 
 Etudier la structuration des données et des métadonnées de RIO en y associant les métadonnées
 complémentaires et essentielles de IODAS pour les flux Enfance, Autonomie, Insertion,
-MDPH pour identifier
+MDPH afin d'identifier : 
 
 
 * les éliminables
@@ -113,11 +117,15 @@ Les livrables associés à cette première phase sont les suivants :
 * Modélisation des flux
 * Bordereau des éliminables
 * Bordereau des dossiers à verser
-* Rapport sur la faisabilité d’extraction
+* Rapport sur la faisabilité de l’extraction
 * Tableau récapitulatif des volumes et formats par flux
 
-Méthodo :
-    
+Méthodologie :
+
+La mise en place d'ateliers d'expression du besoin et de compréhension des contraintes techniques permet de construire un référentiel commun d'attentes et de commencer à travailler sur leur **priorisation** et l'identification des moyens nécessaires pour leur mise en oeuvre.
+
+Ces ateliers ont également pour objectif de partager un vocabulaire et de mieux comprendre les attentes de chaque partie prenante afin d'établir 2 ou 3 scenarii d'évolution prenant en compte le contexte, les moyens et les objectifs.
+
 * Comprendre le modèle de données par flux et par mesure
 * Comprendre le niveau de couplage entre logiciel métier et GED
 * Existant vs cible (préparation phase 3)
@@ -141,6 +149,7 @@ livrables :
     * entretien avec les éditeurs
 
     
+
 Combien : 
     
 * 4 ateliers (1 par flux) : 8j
@@ -148,13 +157,18 @@ Combien :
 * 1 atelier avec atelier de NUM
 * 1 atelier avec l'atelier de numérisation
 * 2 jours d'étude
-    
+  
+
 Qui : 
     total : 13 jours
         
 #### PHASE 2 –
 
 Rédaction du profil d’archivage des dossiers ASE
+
+Préambule : SHERPA ne permet pas à ce jour de créer des profils dans la version 2.1 du SEDA. Par ailleurs, mis à part le logiciel VITAM, aucun SAE existant sur le marché n'accepte cette version du SEDA. aussi nous recommandons de réaliser dans cette phase deux profils, un en version 1.0 et un second en version 2.0.
+
+Par ailleurs, nous estimons qu'il est important que soit associé à cette phase l'ensemble des membres du COPROJ tel que défini dans le CCTP afin de permettre leur parfaite acculturation du SEDA et des enjeux liés à ce schéma. 
 
 livrable
 
@@ -163,20 +177,20 @@ livrable
 * Le profil au format XSD ou RNG à l’aide d’un outil de génération de profils (SHERPA)
 * Le contrat de service et le contrat de versement
 
-Méthodo :
-* formation sur le SEDA
-* mise en perspective  : pourquoi le SEDA ?
-* aide à la rédaction du profil / mapping / accompagnement pour choix des balises
+Méthodolgie :
+* Formation sur le SEDA et prise en main de l'outil SHERPA (version 1.0 et 2.0)
+* Modélisation du flux : accompagnement dans l'élaboration du mapping et les scénarii possibles de la structuration
+* Aide à la rédaction du profil 
 
 itération : 
-* alpha du profil ASE
+* Formation
+* Alpha du profil ASE
 * beta du profil ASE
 * guide des bonnes pratiques
 
 livrables : 
     guide des bonnes pratiques SEDA 1 et 2
-    Pas possible d'avoir du SEDA 2.1 pour le moment via SHERPA
-    Participation des interlocuteurs DSI aux formations SEDA
+    Profils de l'ASE en version 1.0 et 2.0
 
 Combien : 
     * 1 jours de formation SEDA
@@ -201,12 +215,12 @@ itération :
 
 livrables : 
   * éventail des solutions techniques et logicielles
- 
+
 Combien : 
     * 1 jour rédaction bilan existant
     * 1 jours analyse solutions existantes
-   
-    
+
+
 Qui :  
      total : 2 jours
 #### Phase 4 -
@@ -232,8 +246,9 @@ Combien :
     * 1 jour de restitution
 Qui :  
     
+
   total : 2 jours
-  
+
 ### étape 2 Solution pour la mise en place d’un archivage électronique mutualisable
 
 
@@ -257,18 +272,18 @@ Méthodo :
 itération : 
 
     * présentation des moyens nécessaires à la mise en place d'un SAE
-
+    
     * présentation des moyens nécessaires à la participation à une solution externalisée
-
+    
     * présentation des pré-requis techniques pour l'internalisation
-
+    
     * présentation des besoin de connecteurs
 
 
 livrables : 
 
     * forces / faiblesses scenarii
-
+    
     * préconisations urbanisation SI GED / SAE
 
 
@@ -335,7 +350,7 @@ Méthodo :
     * interview avec les services internes et collectivités partenaires
 
         * atelier avec les services constitués du territoire et établissements publics
-
+    
     * Atelier sur les enjeux de la mutualisation avec le COPIL
 
 
@@ -360,7 +375,7 @@ Qui :
     
     total jours : 34 jours
     coût : 22 880
-    
+
 ## Réponse 
 
 le mémoire méthodologique comprenant :
