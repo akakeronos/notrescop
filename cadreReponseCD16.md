@@ -2,81 +2,123 @@
 
 ## Description de la prestation
 
-### Prestation 1 : Etude de faisabilité de l’extraction des données du SI métiers
+### Prestation 1 : Etude de faisabilité de l’extraction des données du SI Social
 
-Préambule :
+#### Préambule :
 
-Définition des ateliers : DJ 
+A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel à une conduite optimale de la prestation. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme de jours d'accompagnement.
 
-- Analyse de l'existant
+#### Méthodologie :
 
-  Synthétiser, cartographier analyser 
+L’approche méthodologique liée aux spécificités d’un projet de dématérialisation croise :
 
-- Expression des besoins
+- une approche processus : analyse à partir des activités des organisations qui produisent des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur service.
 
-  
+> Notre méthodologie : l'event storming
 
-#### phase 1 : DJ
+![des post-it pour découvrir le métier](/Users/delphinejamet/Documents/git/notrescop/images/eventStorming.png)
 
-Objectif : Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données
+- une approche réglementaire : cartographie des textes et réglements en vigueur en prenant en compte la hiérarchie des normes
 
-Démarche : 
+> Notre méthodologie : le mind mapping
 
-* analyse du modèle de données par flux et par mesure
-* analyse du niveau de couplage entre logiciel métier et GED
-* analyse de l'existant et identification des cibles (préparation phase 3)
-* analyse des processus d'alimentation (articulation numérisation, instruction, notification)
-* analyse de la localisation des documents / données (serveurs de fichiers)
-* analyse de la volumétrie 
-* analyse du nombre de dossiers par flux
-* analyse des dossiers communs entre les différents flux et des liens
+![mettre les idées en perspective](/Users/delphinejamet/Documents/git/notrescop/images/mindmap-2123973_960_720.jpg)
+
+- Une approche outillage logiciel dans le domaine de la gestion électronique de documents, de l’archivage numérique, de la confiance électronique
+
+> Notre méthodologie : cartographie des projets mis en oeuvre dans des contextes similaires
+
+A partir de ces éléments, receuillis en ateliers, nous établissons avec vous un canevas en nous inspirant de la culture lean afin d'identifier les éléments qui comportent le plus de valeurs d'usages, qu'il soient techniques, réglementaires ou fonctionnels. Cette première identification de la **valeur maximale d'usage** permet de construire un objectif commun et d'identifier la manière dont chacun pourra contribuer à sa réalisation.
+
+En parallèle, des ateliers d'expression du besoin permettent de construire un référentiel commun d'attentes et de commencer à travailler sur leur **priorisation** et l'identification des moyens nécessaires pour leur mise en oeuvre.
+
+Ces ateliers ont également pour objectif de partager un vocabulaire et de mieux comprendre les attentes de chaque partie prenante afin d'établir 2 ou 3 scenarii d'évolution prenant en compte le contexte, les moyens et les objectifs.
+
+**Atelier : Analyse de l'existant**
+
+La mise en place d'ateliers de compréhension des contraintes techniques et des processus documentaires permet d'analyser, de cartographier et de synthétiser les problématiques auxquelles nous devons faire face. Ils consistent à recueillir le savoir des utilisateurs des applications tant d'un point de vue métier que technique.
+
+**Atelier : Expression des besoins**
+
+La mise en place d'ateliers d'expression du besoin permet de construire un référentiel commun d'attentes et de commencer à travailler sur leur **priorisation** et l'identification des moyens nécessaires pour leur mise en oeuvre.
+
+
+
+![mettre les idées en perspective](/Users/delphinejamet/Documents/git/notrescop/CD16/images/Methodologie1.png)
+
+
+
+#### Phase 1 : Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données DJ
+
+L’analyse de la faisabilité de l’extraction des données du SI métier et des modalités de versement doit se faire en lien avec le service producteur et la direction informatique. L’objectif est de recueillir pour chaque type de dossier métier :  la structuration des données,  les exigences archivistiques et métier (durées de conservations et règles d’accès aux dossiers),  les modalités d’extraction puis de transfert des dossiers et métadonnées.  
+
+Pour mener à bien cette prestation nous vous proposons une démarche basée sur  : 
+
+* l'analyse du modèle de données par flux et par type de mesure
+
+  * analyse des points communs entre les différents flux et les différents type de mesure
+
+* l'analyse du niveau de couplage entre le logiciel métier IODAS et la GED RIO
+
+* l'analyse de l'existant et identification des cibles (préparation de la phase 3)
+
+* l'analyse des processus d'alimentation (articulation numérisation, instruction, notification)
+
+* l'analyse de la localisation des documents / données (serveurs de fichiers)
+
+* l'analyse du nombre de dossiers par flux
+
+* l'analyse de la volumétrie 
+
   
 
 Points abordés :
 
 * cartographie des flux
+
 * Identification des processus
+
 * identification des dossiers (ouverts/ clos) et des propriétés liées au cycle de vie des documents
+
 * évaluation de la faisabilité
 
-
-Charge de travail : 
-
-* 4 ateliers métier (1 par flux) : 8j
-* 1 atelier DSI (modèle de données et couplage)
-* 1 atelier avec le service Archives
-* 1 atelier avec l'atelier de numérisation
-* 2 jours d'étude
-
-Total : 13 jours
-
-#### Phase 2 DJ
-
-Objectif : Rédaction du profil d’archivage des dossiers ASE
-
-Démarche : 
-
-* formation sur le SEDA
-* mise en perspective  : pourquoi le SEDA ?
-* aide à la rédaction du profil / mapping / accompagnement pour choix des balises
-
-
-Points abordés :
-
-* Le modèle conceptuel de données dans la logique structurelle du SEDA
-* La documentation ayant servi à l’élaboration du schéma
-* Le profil au format XSD ou RNG à l’aide d’un outil de génération de profils (SHERPA)
-* Le contrat de service et le contrat de versement
   
 
-Charge de travail : 
+Organisation de la prestation  : 
 
-* 1 jours de formation SEDA
-* 1 jours de formation SEDA appliqué à l'ASE
-* 1 jour restitution guide bonnes pratiques
-* 1 jour accompagnement à la rédaction
+* 7 ateliers :
+  * 4 ateliers métier (1 par flux)
+  * 1 atelier DSI (modèle de données et couplage)
+  * 1 atelier avec le service Archives
+  * 1 atelier avec l'atelier de numérisation
+* 6 jours d'études, d'analyses et de formalisation des livrables
+* Restitution (1 jour)
 
-Total : 4 jours
+Total : 14 jours
+
+
+
+#### Phase 2  Rédaction du profil d’archivage des dossiers ASE DJ
+
+Préambule : SHERPA ne permet pas à ce jour de créer des profils dans la version 2.1 du SEDA. Par ailleurs, mis à part le logiciel VITAM, aucun SAE existant sur le marché n'accepte cette version du SEDA. aussi nous recommandons de réaliser dans cette phase deux profils, un en version 1.0 et un second en version 2.0.
+
+Par ailleurs, nous estimons qu'il est important que soit associé à cette phase l'ensemble des membres du COPROJ tel que défini dans le CCTP afin de permettre leur parfaite acculturation du SEDA et des enjeux liés à ce schéma. 
+
+Organisation de la prestation  : 
+
+- Formation sur le SEDA et prise en main de l'outil SHERPA (version 1.0 et 2.0)
+
+- Atelier de modélisation du flux : accompagnement dans l'élaboration du mapping et les scénarii possibles de structuration des profils
+
+- Aide à la rédaction du profil 
+
+- Aide à la rédaction du contrat de service et du contrat de versement
+
+  Total : 4 jours
+
+
+
+
 
 #### Phase 3 PR
 
