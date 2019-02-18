@@ -53,13 +53,13 @@ L’objectif de nos missions de formation et/ou d’accompagnement est de transm
 de nos activités.
 Cette transmission s’effectue également en fin de mission par la transmission de livrables sous licence ouverte, librement modifiables et reproductibles.
 
-### Prestation 1 : Etude de faisabilité de l’extraction des données du SI Social
+### Prestation 1 : Etude de faisabilité de l’extraction des données du SI métiers (RIO + IODAS) et les modalités de transfert des données et dossiers dans un SAE
 
 #### Préambule
 
 A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel au déroulement optimal des phases ultérieures. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme d'accompagnement.
 
-#### Phase 1 : Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données DJ
+#### Phase 1 - Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données DJ
 
 L’analyse de la faisabilité de l’extraction des données du SI métier et des modalités de versement doit se faire en lien avec les services producteurs , la direction informatique et le service Archives. L’objectif est de recueillir pour chaque type de dossier métier :  la structuration des données, les exigences archivistiques et métier (durées de conservations et règles d’accès aux dossiers),  les modalités d’extraction puis de transfert des dossiers et métadonnées.  
 
@@ -87,7 +87,7 @@ Organisation de la prestation  :
 
 Total : 14 jours
 
-#### Phase 2  Rédaction du profil d’archivage des dossiers de l'aide sociale à l'Enfance (ASE) DJ
+#### Phase 2 - Rédaction du profil d’archivage des dossiers de l'aide sociale à l'Enfance (ASE) DJ
 
 Il  convient  de  réaliser  ce  qu’on  peut  appeler  un  modèle conceptuel de données, en transposant la structuration des données du flux ASE dans la logique structurelle du SEDA puis de déterminer les métadonnées adaptées. Il s’agit donc de retranscrire ces informations dans le profil d’archivage, à l’aide de l' outil de génération de profils, SHERPA, mis à disposition par le Service interministériel des Archives de France.
 
@@ -109,7 +109,7 @@ Organisation de la prestation  :
 
   Total : 4 jours
 
-#### Phase 3 PR
+#### Phase 3 – Préconisations pour la futur GED sociale en lien avec le SAE (PSOL et MDPH) PR
 
 Lors de cette phase, l'objectif est de mettre en place un entrepôt de données et de documents en capacité de s'interfacer avec la chaîne de numérisation, le logiciel de gestion des procédures de l'action sociale et le futur SAE.
 
@@ -140,7 +140,7 @@ Charge de travail :
 
 Total : 4 jours
 
-#### Phase 4 : Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents DJ
+#### Phase 4 - Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents DJ
 
 le  Département  de  la  Charente  procède  depuis  plusieurs  années  à  la numérisation des dossiers d’aide sociale (près de 60 000 dossiers à ce jour). Les dossiers électroniques sont enregistrés et conservés dans un système de GED, en lien avec le système  d’information  métier  IODAS.  Depuis  octobre  2017,  cette  GED  n’est  plus maintenue. Dans ces conditions, il y a une forme d’urgence à mettre en œuvre de manière  opérationnelle  le  versement  de  ces  dossiers  dans  un  SAE,  notamment  des dossiers individuels de l’ASE, compte tenu de leur durée d'utilité administrative et de leur sort final (conservation). Cette mise en sécurité est d’autant plus importante que les dossiers sur support papier ont été éliminés. 
 
@@ -159,9 +159,9 @@ Organisation de la prestation  :
 
 Total :  4 jours
 
-### étape 2 Solution pour la mise en place d’un archivage électronique mutualisable
+### Prestation 2 - Solution pour la mise en place d’un archivage électronique mutualisable
 
-#### Phase 5 DJ
+#### Phase 5 - Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE PR
 
 Objectif : Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE
 
@@ -190,7 +190,7 @@ Charge de travail :
 
 total :  2 jours
 
-#### Phase 6 PR
+#### Phase 6 – Définition du périmètre du SAE par rapport à la GED et aux autres applications PR
 
 L'ajout d'un système d'archivage électronique au sein du système d'information est un élément fort de structuration. A la fois élément indispensable des chantiers de dématérialisation et outil de diffusion de l'information contextualisée, il peut dépasser le strict périmètre de la conservation à valeur probante et patrimoniale des documents administratifs pour servir les stratégies d'offres de service de données et de documents.
 
@@ -198,7 +198,7 @@ Celles-ci dépendent toutefois de l'acceptation par les services des processus d
 
 La réalisation d'ateliers par flux d'archivage permettra d'aborder ces questions et de définir le périmètre fonctionnel attendu par la mise en place de ce module fonctionnel.
 
-Objectif : Définition du périmètre du SAE par rapport à la GED et aux autres applications
+Objectif : Définition du périmètre du SAE par rapport à la GED et aux autres applications.
 
 Démarche :
 
@@ -221,7 +221,7 @@ Charge de travail :
 
 Total : 3 jours
 
-#### Phase 7 PR
+#### Phase 7 - Scenarii et plan d’action PR
 
 Le plan d'action du Département de la Charent en matière d'offre de service d'archivage dépend en partie de la maturité et des attentes des potentiels "clients" de celle-ci. Il nous paraît opportun de profiter de notre accompnement pour réunir les porteurs de projet d'offre de service d'archivage électronique et les potentiels utilisteurs pour mieux définir les attentes, les besoins et les ressources du Département de la Charente comme coordinateur de cette stratégie.
 
