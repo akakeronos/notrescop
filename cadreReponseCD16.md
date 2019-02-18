@@ -14,15 +14,19 @@ L’approche méthodologique liée aux spécificités d’un projet de dématér
 
 - une approche processus : analyse à partir des activités des organisations qui produisent des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur service.
 
-> Notre méthodologie : l'event storming
+> Notre méthodologie : l'event storming.
 
-![des post-it pour découvrir le métier](/Users/delphinejamet/Documents/git/notrescop/images/eventStorming.png)
+Cette méthode nous paraît adaptée au contexte car elle est puissante, engageante, efficiente, simple et amusante.
+Elle suppose de pouvoir réunir dans une même pièce les bonnes personnes (celles qui connaissent les questions à poser et celles qui ont les réponses), de fournir un support illimité pour décrire les étapes du processus, d'explorer un domaine par les évènements qui s'y déroulent, et d'identifier les agrégats résultants des événement
+
+
+![des post-it pour découvrir le métier](images/eventStorming.png)
 
 - une approche réglementaire : cartographie des textes et réglements en vigueur en prenant en compte la hiérarchie des normes
 
 > Notre méthodologie : le mind mapping
 
-![mettre les idées en perspective](/Users/delphinejamet/Documents/git/notrescop/images/mindmap-2123973_960_720.jpg)
+![mettre les idées en perspective](images/mindmap-2123973_960_720.jpg)
 
 - Une approche outillage logiciel dans le domaine de la gestion électronique de documents, de l’archivage numérique, de la confiance électronique
 
