@@ -161,7 +161,16 @@ Total :  4 jours
 
 ### étape 2 Solution pour la mise en place d’un archivage électronique mutualisable
 
-#### Phase 5 DJ
+#### Phase 5 PR
+
+Les stratégies d'implémentation d'un SAE dépendent du potentiel d'intégration des applications et du nombre d'usagers qui souhaitent verser ou interroger cet entrepôt de données.
+L'analyse du système d'information et de la maturité de la démarche d'urbanisation doivent permettre de déterminer quelles sont les stratégies les plus efficaces pour garantir la sécurité des données tout en offrant du service aux entités qui souhaitent y verser leurs données et documents.
+
+Le rôle du SAE comme socle de confiance de la démarche de dématérialisation dépend de l'organisation construite autour de celle-ci. Elle dépend également de la demande externe et des moyens d'accompagnement à leurs prise en compte.
+
+Les objectifs de sécurisation et ceux d'offre de service peuvent parfois être contradictoire en terme de temporalité.
+
+L'analyse du système d'information au regard du contexte permet donc d'illustrer ces différentes stratégies en fonction de l'impact à court et moyen terme que l'institution est capable de produire avec ses moyens.
 
 Objectif : Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE
 
