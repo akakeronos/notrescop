@@ -4,7 +4,7 @@
 
 
 
-#### Méthodologie :
+#### Méthodologie 
 
 L’approche méthodologique liée aux spécificités d’un projet de dématérialisation et d'archivage électronique croise :
 
@@ -40,7 +40,7 @@ La mise en place d'ateliers de compréhension des contraintes techniques et des 
 
 **Atelier : Expression des besoins**
 
-La mise en place d'ateliers d'expression du besoin permet de construire avec les parties prenantes et notamment les membres du COPROJ une vision commune de la cible à atteindre. 
+La mise en place d'ateliers d'expression du besoin permet de construire avec les parties prenantes et notamment les membres du COPROJ et du COPIL une vision commune de la cible à atteindre. 
 
 
 
@@ -58,7 +58,7 @@ Cette transmission s’effectue également en fin de mission par la transmission
 
 ### Prestation 1 : Etude de faisabilité de l’extraction des données du SI Social
 
-#### Préambule :
+#### Préambule 
 
 A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel à une conduite optimale de la prestation. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme de jours d'accompagnement.
 
@@ -151,26 +151,22 @@ Total : 4 jours
 
 #### Phase 4 : Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents DJ
 
-La phase d'analyse de la GED RIO existante Explorer  plusieurs  pistes  et  proposer  des  scenarii permettant  de  garantir  la conservation  de  ces données dans un environnement figé et pérenne le temps d’acquérir le futur SAE du Départementen indiquant les avantages et inconvénients pour chaque proposition. 
+le  Département  de  la  Charente  procède  depuis  plusieurs  années  à  la numérisation des dossiers d’aide sociale (près de 60 000 dossiers à ce jour). Les dossiers électroniques sont enregistrés et conservés dans un système de GED, en lien avec le système  d’information  métier  IODAS.  Depuis  octobre  2017,  cette  GED  n’est  plus maintenue. Dans ces conditions, il y a une forme d’urgence à mettre en œuvre de manière  opérationnelle  le  versement  de  ces  dossiers  dans  un  SAE,  notamment  des dossiers individuels de l’ASE, compte tenu de leur durée d'utilité administrative et de leur sort final (conservation). Cette mise en sécurité est d’autant plus importante que les dossiers sur support papier ont été éliminés. 
 
-Démarche : 
+Objectifs : Explorer plusieurs pistes et proposer des  scenarii permettant de garantir la conservation de ces données dans un environnement figé et pérenne le temps d’acquérir le futur SAE du Département en indiquant les avantages et inconvénients pour chaque proposition. 
 
-* présentation des solutions envisageables
-* définition du rapport coût/investissement
-* analyse de la charge de travail associée à chaque scenarii
+Organisation de la prestation  : 
 
-Points abordés :
+- Analyse des solutions existantes
+- Atelier d'expression du besoin avec le COPROJ
+  - présentation des solutions envisageables
+  - Élaboration de plusieurs scénarii
+- Elaboration des synthèses avec :
+  - définition du rapport coût/investissement
+  - analyse de la charge de travail associée à chaque scenario
+- Restitution au COPIL
 
-* présentation des offres de services existantes
-* entretien avec les porteurs de projets d'offre de service
-
-Charge de travail : 
-
-* 1 jour d'analyse
-* 1 jour atelier COPROJ
-* 1 jour de restitution
-
-Total :  3 jours
+Total :  4 jours
 
 ### étape 2 Solution pour la mise en place d’un archivage électronique mutualisable
 
