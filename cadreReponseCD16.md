@@ -1,5 +1,10 @@
 # MAPA CD16
 
+14k€ de subvention 40€ TTC
+
+41 jours actuellement  soit 43,3 k€ TTC
+
+
 ## Description de la prestation
 
 ### Méthodologie
@@ -123,7 +128,7 @@ Organisation de la prestation  :
 * présentation modalités d'interface entre systèmes.
   * Protocoles de communication.
   * Modèles de données.
-* connecteurs GED SAE. Eléments de gouvernance et offre de service
+* connecteurs GED SAE. Éléments de gouvernance et offre de service
 
 Points abordés :
 
@@ -150,11 +155,11 @@ Organisation de la prestation  :
 
 - Analyse des solutions existantes
 - Atelier d'expression du besoin avec le COPROJ
-  - présentation des solutions envisageables
-  - Élaboration de plusieurs scénarii
-- Elaboration des synthèses avec :
-  - définition du rapport coût/investissement
-  - analyse de la charge de travail associée à chaque scenario
+- présentation des solutions envisageables
+- Élaboration de plusieurs scénarii
+- Élaboration des synthèses avec :
+- définition du rapport coût/investissement
+- analyse de la charge de travail associée à chaque scenario
 - Restitution au COPIL
 
 Charge de travail :
@@ -242,7 +247,7 @@ Total : 5 jours
 
 #### Phase 7 - Scenarii et plan d’action PR
 
-Le plan d'action du Département de la Charent en matière d'offre de service d'archivage dépend en partie de la maturité et des attentes des potentiels "clients" de celle-ci. Il nous paraît opportun de profiter de notre accompnement pour réunir les porteurs de projet d'offre de service d'archivage électronique et les potentiels utilisteurs pour mieux définir les attentes, les besoins et les ressources du Département de la Charente comme coordinateur de cette stratégie.
+Le plan d'action du Département de la Charente en matière d'offre de service d'archivage dépend en partie de la maturité et des attentes des potentiels "clients" de celle-ci. Il nous paraît opportun de profiter de notre accompagnement pour réunir les porteurs de projet d'offre de service d'archivage électronique et les potentiels utilisateurs pour mieux définir les attentes, les besoins et les ressources du Département de la Charente comme coordinateur de cette stratégie.
 
 Nous proposons donc de faire plusieurs itérations permettant successivement de mieux connaître l'offre de service disponible, les attentes de parties prenantes (CD16 et partenaires publics) et les moyens associés à chaque offre de service portée par la collectivité.
 Objectif : Scenarii et plan d’action
@@ -257,8 +262,8 @@ Démarche :
   * Atelier sur les enjeux de la mutualisation avec le COPIL
   
 Points abordés
-* Description des scénarii préconisés
-* Document de synthèse pour comparer les scénarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE
+* Description des scenarii préconisés
+* Document de synthèse pour comparer les scenarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE
 * Recommandations pour le choix d’un scénario privilégié
 
 détail des livrables
@@ -267,12 +272,13 @@ détail des livrables
 * 1 jour rédaction rapport de synthèse1 jour présentation du rapport de synthèse
 * 1 jour rédaction préconisation feuille de route et charges associées
 
-charge de travail 8 jours                                                                                                                                                                                                                         
+charge de travail 8 jours
+                                                                                                                                                                                                                         
 ## CV
 
 ### CV Rhizome data
 
-Domaines de compètences
+Domaines de compétences
 
 * GED/SAE
 * Gouvernance de l'information
@@ -285,12 +291,12 @@ Types d'interventions
 * Audit, collecte de besoins, rédaction de cahier des charges
 * Gestion de projet et pilotage des réalisations côté maîtrise d’ouvrage
 * Responsable produit de projets de dématérialisation
-* Mise en oeuvre de stratégies de service orientées données
+* Mise en œuvre de stratégies de service orientées données
 * architecture technique
 
 Quelques références en lien avec le contexte de la mission
 
-* Mise en oeuvre d'une stratégie de GED transverse au département de la Gironde
-* Mise en oeuvre d'un atelier de dématérialisation du courrier entrant à la MDPH de Gironde
+* Mise en œuvre d'une stratégie de GED transverse au département de la Gironde
+* Mise en œuvre d'un atelier de dématérialisation du courrier entrant à la MDPH de Gironde
 * Responsable produit SAE Girondin
 * Responsable produit portail open data datalocale.fr
