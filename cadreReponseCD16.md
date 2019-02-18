@@ -10,15 +10,19 @@ L’approche méthodologique liée aux spécificités d’un projet de dématér
 
 - une approche processus : analyse à partir des activités des organisations qui produisent des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur service.
 
-> Notre méthodologie : l'event storming
+> Notre méthodologie : l'event storming.
 
-![des post-it pour découvrir le métier](/Users/delphinejamet/Documents/git/notrescop/images/eventStorming.png)
+Cette méthode nous paraît adaptée au contexte car elle est puissante, engageante, efficiente, simple et amusante.
+Elle suppose de pouvoir réunir dans une même pièce les bonnes personnes (celles qui connaissent les questions à poser et celles qui ont les réponses), de fournir un support illimité pour décrire les étapes du processus, d'explorer un domaine par les évènements qui s'y déroulent, et d'identifier les agrégats résultants des événement
+
+
+![des post-it pour découvrir le métier](images/eventStorming.png)
 
 - une approche réglementaire : cartographie des textes et réglements en vigueur en prenant en compte la hiérarchie des normes
 
 > Notre méthodologie : le mind mapping
 
-![mettre les idées en perspective](/Users/delphinejamet/Documents/git/notrescop/images/mindmap-2123973_960_720.jpg)
+![mettre les idées en perspective](images/mindmap-2123973_960_720.jpg)
 
 - Une approche outillage logiciel dans le domaine de la gestion électronique de documents, de l’archivage numérique, de la confiance électronique
 
@@ -116,24 +120,34 @@ Organisation de la prestation  :
 
 #### Phase 3 PR
 
-Objectif : Préconisations pour la futur GED sociale en lien avec le SAE (PSOL et MDPH)
+Lors de cette phase, l'objectif est de mettre en place un entrepôt de données et de documents en capacité de s'interfacer avec la chaîne de numérisation, le logiciel de gestion des procédures de l'action sociale et le futur SAE.
+
+Pour permettre aux parties prenantes (COPIL et COPROJ) de disposer des informations suffisantes pour faire un choix d'outillage, une présentation des points d'attention sera réalisée avec le comité projet. Elle sera enrichie lors de cette présentation des éléments de contexte (budget/ressources humaines) afin de dégager le scenario réalisable.
+
+Objectif : Préconisations pour la future GED sociale en lien avec le SAE (PSOL et MDPH)
 
 Démarche : 
 
-* analyse existant
-* présentation modalités d'interface entre systèmes
-* connecteurs GED SAE
+* analyse existant : forces et faiblesses de la solution existante.
+* présentation modalités d'interface entre systèmes.
+  * Protocoles de communication.
+  * Modèles de données.
+* connecteurs GED SAE. Eléments de gouvernance et offre de service
 
 Points abordés :
 
 * éventail des solutions techniques et logicielles
+* cycle de vie et politique d'archivage
+* métadonnées de gestion et de pérennisation
 
 Charge de travail : 
 
+* 1 atelier MVP  : matrice fonctionnalités/moyens/valeur
 * 1 jour rédaction bilan existant
 * 1 jours analyse solutions existantes
+* 1 jour restitution
 
-Total : 2 jours
+Total : 4 jours
 
 #### Phase 4 : Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents DJ
 
@@ -191,9 +205,15 @@ total :  2 jours
 
 #### Phase 6 PR
 
+L'ajout d'un système d'archivage électronique au sein du système d'information est un élément fort de structuration. A la fois élément indispensable des chantiers de dématérialisation et outil de diffusion de l'information contextualisée, il peut dépasser le strict périmètre de la conservation à valeur probante et patrimoniale des documents administratifs pour servir les stratégies d'offres de service de données et de documents.
+
+Celles-ci dépendent toutefois de l'acceptation par les services des processus d'archivage des données associés à la mise en place de l'outillage technique.
+
+La réalisation d'ateliers par flux d'archivage permettra d'aborder ces questions et de définir le périmètre fonctionnel attendu par la mise en place de ce module fonctionnel.
+
 Objectif : Définition du périmètre du SAE par rapport à la GED et aux autres applications
 
-Démarche : 
+Démarche :
 
 * établissement de la grille de collecte
 * évaluation de la criticité de la production documentaire
@@ -216,35 +236,17 @@ Total : 3 jours
 
 #### Phase 7 PR
 
-Objectif : Scenarii et plan d’action
+Le plan d'action du Département de la Charent en matière d'offre de service d'archivage dépend en partie de la maturité et des attentes des potentiels "clients" de celle-ci. Il nous paraît opportun de profiter de notre accompnement pour réunir les porteurs de projet d'offre de service d'archivage électronique et les potentiels utilisteurs pour mieux définir les attentes, les besoins et les ressources du Département de la Charente comme coordinateur de cette stratégie.
 
-Démarche :
+Nous proposons donc de faire plusieurs itérations permettant successivement de mieux connaître l'offre de service disponible, les attentes de parties prenantes (CD16 et partenaires publics) et les moyens associés à chaque offre de service portée par la collectivité.
+|         Axe          | Contenu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|       Objectif       | Scenarii et plan d’action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|       Démarche       | <ul><li>présentation des scenarii</li><li>vision globale (intégration open data, SIA)</li><li>entretien avec les porteurs de projets de solutions externes (publiques)</li><li>interview avec les services internes et collectivités partenaires</li><ul><li>atelier avec les services constitués du territoire et établissements publics</li><li>Atelier sur les enjeux de la mutualisation avec le COPIL</li></ul></ul>                                                                                                                                           |
+|    Points abordés    | <ul><li>Description des scénarii préconisés</li><li>Document de synthèse pour comparer les scénarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE</li><li>Recommandations pour le choix d’un scénario privilégié</li></ul>                                                                                                                                                                                                                                                                                                           |
+| détail des livrables | <ul><li>1 jour rédaction des scenario</li><li>3 jours d'ateliers avec les (futurs) utilisateurs et porteurs de projet des offres de mutualisation (CD16, établissements disposant d'un service d'archives, communes et intercommunalités disposant d'un service d'archives constitué)</li><li>1 atelier idéation sur la priorisation de la mise en oeuvre du scenario retenu</li><li>1 jour rédaction rapport de synthèse</li><li>1 jour présentation du rapport de synthèse</li><li>1 jour rédaction préconisation feuille de route et charges associées</li></ul> |
+|  charge de travail   | 8 jours                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-* présentation des scenarii
-* vision globale (intégration open data, SIA) 
-* entretien avec les porteurs de projets de solutions externes (publiques)
-* interview avec les services internes et collectivités partenaires
-    * atelier avec les services constitués du territoire et établissements publics
-* Atelier sur les enjeux de la mutualisation avec le COPIL
-
-Points abordés :
-
-* Description des scénarii préconisés
-* Document de synthèse pour comparer les scénarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE
-* Recommandations pour le choix d’un scénario privilégié
-
-Charge de travail : 
-
-* 1 jour rédaction des scenario
-* 1 jour rédaction rapport de synthèse
-* 1 jour présentation du rapport de synthèse
-* 1 atelier idéation sur la priorisation de la mise en oeuvre du scenario retenu
-* 1 jour rédaction préconisation feuille de route et charges associées
-
-Total 5 jours
-
-
-Total mission 32 jours
 
 ## CV
 
