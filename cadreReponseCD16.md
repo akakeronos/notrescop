@@ -10,7 +10,7 @@ L’approche méthodologique liée aux spécificités d’un projet de dématér
 
 > Notre méthodologie : l'event storming.
 
-Cette méthode nous paraît adaptée au contexte car elle est puissante, engageante, efficiente, simple et amusante.
+Cette méthode nous paraît adaptée au contexte car elle est puissante, engageante, efficiente, simple et ludique.
 Elle suppose de pouvoir réunir dans une même pièce les bonnes personnes (celles qui connaissent les questions à poser et celles qui ont les réponses), de fournir un support illimité pour décrire les étapes du processus, d'explorer un domaine par les évènements qui s'y déroulent, et d'identifier les agrégats résultants des événements
 
 
