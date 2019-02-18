@@ -2,15 +2,11 @@
 
 ## Description de la prestation
 
-### Prestation 1 : Etude de faisabilité de l’extraction des données du SI Social
 
-#### Préambule :
-
-A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel à une conduite optimale de la prestation. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme de jours d'accompagnement.
 
 #### Méthodologie :
 
-L’approche méthodologique liée aux spécificités d’un projet de dématérialisation croise :
+L’approche méthodologique liée aux spécificités d’un projet de dématérialisation et d'archivage électronique croise :
 
 - une approche processus : analyse à partir des activités des organisations qui produisent des documents (ou des échanges d’informations), compte tenu de leurs missions dans leur service.
 
@@ -28,7 +24,7 @@ L’approche méthodologique liée aux spécificités d’un projet de dématér
 
 > Notre méthodologie : cartographie des projets mis en oeuvre dans des contextes similaires
 
-A partir de ces éléments, receuillis en ateliers, nous établissons avec vous un canevas en nous inspirant de la culture lean afin d'identifier les éléments qui comportent le plus de valeurs d'usages, qu'il soient techniques, réglementaires ou fonctionnels. Cette première identification de la **valeur maximale d'usage** permet de construire un objectif commun et d'identifier la manière dont chacun pourra contribuer à sa réalisation.
+A partir de ces éléments, receuillis en ateliers, nous établissons avec vous un canvas en nous inspirant de la culture lean afin d'identifier les éléments qui comportent le plus de valeurs d'usages, qu'il soient techniques, réglementaires ou fonctionnels. Cette première identification de la **valeur maximale d'usage** permet de construire un objectif commun et d'identifier la manière dont chacun pourra contribuer à sa réalisation.
 
 En parallèle, des ateliers d'expression du besoin permettent de construire un référentiel commun d'attentes et de commencer à travailler sur leur **priorisation** et l'identification des moyens nécessaires pour leur mise en oeuvre.
 
@@ -40,7 +36,7 @@ La mise en place d'ateliers de compréhension des contraintes techniques et des 
 
 **Atelier : Expression des besoins**
 
-La mise en place d'ateliers d'expression du besoin permet de construire un référentiel commun d'attentes et de commencer à travailler sur leur **priorisation** et l'identification des moyens nécessaires pour leur mise en oeuvre.
+La mise en place d'ateliers d'expression du besoin permet de construire avec les parties prenantes et notamment les membres du COPROJ une vision commune de la cible à atteindre. 
 
 
 
@@ -48,46 +44,42 @@ La mise en place d'ateliers d'expression du besoin permet de construire un réf�
 
 
 
+Par l'identification des [parcours usagers](fiches/parcours-usagers.md), la réalisation d'ateliers de [story mapping](fiches/story-mapping.md) ou l'interview des parties prenantes, nous cherchons à comprendre et à reformuler les besoins exprimés afin de chercher avec vous la meilleure manière d'y répondre.
+
+Nos interventions sont basées sur les **rythmes soutenables** de l'implication des collaborateurs ou collaboratrices.
+
+L’objectif de nos missions de formation et/ou d’accompagnement est de transmettre des connaissances ou des compétences afin de rendre autonome nos client.es. Cette transmision s’effectue tout au long du projet par une interaction, si possible quotidienne avec le référent ou la référente désigné.e par le client ou la cliente. Ces modalités d’échanges visent à garantir l’**implication** des parties prenantes et la **transparence**
+de nos activités.
+Cette transmission s’effectue également en fin de mission par la transmission de livrables sous licence ouverte, librement modifiables et reproductibles.
+
+### Prestation 1 : Etude de faisabilité de l’extraction des données du SI Social
+
+#### Préambule :
+
+A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel à une conduite optimale de la prestation. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme de jours d'accompagnement.
+
 #### Phase 1 : Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données DJ
 
-L’analyse de la faisabilité de l’extraction des données du SI métier et des modalités de versement doit se faire en lien avec le service producteur et la direction informatique. L’objectif est de recueillir pour chaque type de dossier métier :  la structuration des données,  les exigences archivistiques et métier (durées de conservations et règles d’accès aux dossiers),  les modalités d’extraction puis de transfert des dossiers et métadonnées.  
+L’analyse de la faisabilité de l’extraction des données du SI métier et des modalités de versement doit se faire en lien avec les services producteurs , la direction informatique et le service Archives. L’objectif est de recueillir pour chaque type de dossier métier :  la structuration des données, les exigences archivistiques et métier (durées de conservations et règles d’accès aux dossiers),  les modalités d’extraction puis de transfert des dossiers et métadonnées.  
 
 Pour mener à bien cette prestation nous vous proposons une démarche basée sur  : 
 
 * l'analyse du modèle de données par flux et par type de mesure
-
-  * analyse des points communs entre les différents flux et les différents type de mesure
-
+  * analyse des points communs entre les différents flux et les différents types de mesure
 * l'analyse du niveau de couplage entre le logiciel métier IODAS et la GED RIO
-
 * l'analyse de l'existant et identification des cibles (préparation de la phase 3)
-
 * l'analyse des processus d'alimentation (articulation numérisation, instruction, notification)
-
+* l'identification des dossiers (ouverts / clos) et des propriétés liées au cycle de vie des documents
 * l'analyse de la localisation des documents / données (serveurs de fichiers)
-
 * l'analyse du nombre de dossiers par flux
-
 * l'analyse de la volumétrie 
 
-  
 
-Points abordés :
-
-* cartographie des flux
-
-* Identification des processus
-
-* identification des dossiers (ouverts/ clos) et des propriétés liées au cycle de vie des documents
-
-* évaluation de la faisabilité
-
-  
 
 Organisation de la prestation  : 
 
 * 7 ateliers :
-  * 4 ateliers métier (1 par flux)
+  * 4 ateliers "métier" (1 par flux)
   * 1 atelier DSI (modèle de données et couplage)
   * 1 atelier avec le service Archives
   * 1 atelier avec l'atelier de numérisation
@@ -98,25 +90,27 @@ Total : 14 jours
 
 
 
-#### Phase 2  Rédaction du profil d’archivage des dossiers ASE DJ
+#### Phase 2  Rédaction du profil d’archivage des dossiers de l'aide sociale à l'Enfance (ASE) DJ
 
-Préambule : SHERPA ne permet pas à ce jour de créer des profils dans la version 2.1 du SEDA. Par ailleurs, mis à part le logiciel VITAM, aucun SAE existant sur le marché n'accepte cette version du SEDA. aussi nous recommandons de réaliser dans cette phase deux profils, un en version 1.0 et un second en version 2.0.
+Il  convient  de  réaliser  ce  qu’on  peut  appeler  un  modèle conceptuel de données, en transposant la structuration des données du flux ASE dans la logique structurelle du SEDA puis de déterminer les métadonnées adaptées. Il s’agit donc de retranscrire ces informations dans le profil d’archivage, à l’aide de l' outil de génération de profils, SHERPA, mis à disposition par le Service interministériel des Archives de France.
+
+Toutefois, il est important de noter que SHERPA ne permet pas, à ce jour, de créer des profils dans la version 2.1 du SEDA. Par ailleurs, mis à part le logiciel VITAM, aucun SAE existant sur le marché n'accepte cette version du SEDA. Aussi nous recommandons de réaliser dans cette phase deux profils, un en version 1.0 et un second en version 2.0, contrairement à ce qui est demandé dans votre CCTP (p.11).
 
 Par ailleurs, nous estimons qu'il est important que soit associé à cette phase l'ensemble des membres du COPROJ tel que défini dans le CCTP afin de permettre leur parfaite acculturation du SEDA et des enjeux liés à ce schéma. 
 
+Pour mener à bien cette prestation nous vous proposons une démarche alternant formation et réalisations concrètes afin d'autonomiser les chef.fes de projet dans leur futur pratique du SEDA. 
+
 Organisation de la prestation  : 
 
-- Formation sur le SEDA et prise en main de l'outil SHERPA (version 1.0 et 2.0)
+- Formation sur le SEDA et prise en main de l'outil SHERPA (version 1.0 et 2.0),
 
-- Atelier de modélisation du flux : accompagnement dans l'élaboration du mapping et les scénarii possibles de structuration des profils
+- Atelier de modélisation du flux : accompagnement dans l'élaboration du mapping et les scénarii possibles de structuration du profil,
 
-- Aide à la rédaction du profil 
+- Aide à la rédaction du profil,
 
-- Aide à la rédaction du contrat de service et du contrat de versement
+- Aide à la rédaction du contrat de service et du contrat de versement.
 
   Total : 4 jours
-
-
 
 
 
@@ -141,9 +135,9 @@ Charge de travail :
 
 Total : 2 jours
 
-#### Phase 4 DJ
+#### Phase 4 : Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents DJ
 
-Objectif : Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents
+La phase d'analyse de la GED RIO existante Explorer  plusieurs  pistes  et  proposer  des  scenarii permettant  de  garantir  la conservation  de  ces données dans un environnement figé et pérenne le temps d’acquérir le futur SAE du Départementen indiquant les avantages et inconvénients pour chaque proposition. 
 
 Démarche : 
 
@@ -278,4 +272,6 @@ Quelques références en lien avec le contexte de la mission
 * Mise en oeuvre d'un atelier de dématérialisation du courrier entrant à la MDPH de Gironde
 * Responsable produit SAE Girondin
 * Responsable produit portail open data datalocale.fr
+
+
 
