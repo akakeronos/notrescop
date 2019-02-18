@@ -80,24 +80,34 @@ Total : 4 jours
 
 #### Phase 3 PR
 
-Objectif : Préconisations pour la futur GED sociale en lien avec le SAE (PSOL et MDPH)
+Lors de cette phase, l'objectif est de mettre en place un entrepôt de données et de documents en capacité de s'interfacer avec la chaîne de numérisation, le logiciel de gestion des procédures de l'action sociale et le futur SAE.
+
+Pour permettre aux parties prenantes (COPIL et COPROJ) de disposer des informations suffisantes pour faire un choix d'outillage, une présentation des points d'attention sera réalisée avec le comité projet. Elle sera enrichie lors de cette présentation des éléments de contexte (budget/ressources humaines) afin de dégager le scenario réalisable.
+
+Objectif : Préconisations pour la future GED sociale en lien avec le SAE (PSOL et MDPH)
 
 Démarche : 
 
-* analyse existant
-* présentation modalités d'interface entre systèmes
-* connecteurs GED SAE
+* analyse existant : forces et faiblesses de la solution existante.
+* présentation modalités d'interface entre systèmes.
+  * Protocoles de communication.
+  * Modèles de données.
+* connecteurs GED SAE. Eléments de gouvernance et offre de service
 
 Points abordés :
 
 * éventail des solutions techniques et logicielles
+* cycle de vie et politique d'archivage
+* métadonnées de gestion et de pérennisation
 
 Charge de travail : 
 
+* 1 atelier MVP  : matrice fonctionnalités/moyens/valeur
 * 1 jour rédaction bilan existant
 * 1 jours analyse solutions existantes
+* 1 jour restitution
 
-Total : 2 jours
+Total : 4 jours
 
 #### Phase 4 DJ
 
