@@ -4,14 +4,26 @@
 
 ### Prestation 1 : Etude de faisabilité de l’extraction des données du SI métiers
 
-#### phase 1 : 
+Préambule :
+
+Définition des ateliers : DJ 
+
+- Analyse de l'existant
+
+  Synthétiser, cartographier analyser 
+
+- Expression des besoins
+
+  
+
+#### phase 1 : DJ
 
 Objectif : Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données
 
 Démarche : 
-  
+
 * analyse du modèle de données par flux et par mesure
-* analuse du niveau de couplage entre logiciel métier et GED
+* analyse du niveau de couplage entre logiciel métier et GED
 * analyse de l'existant et identification des cibles (préparation phase 3)
 * analyse des processus d'alimentation (articulation numérisation, instruction, notification)
 * analyse de la localisation des documents / données (serveurs de fichiers)
@@ -19,24 +31,26 @@ Démarche :
 * analyse du nombre de dossiers par flux
 * analyse des dossiers communs entre les différents flux et des liens
   
+
 Points abordés :
 
 * cartographie des flux
+* Identification des processus
 * identification des dossiers (ouverts/ clos) et des propriétés liées au cycle de vie des documents
 * évaluation de la faisabilité
 
 
 Charge de travail : 
 
-* 4 ateliers (1 par flux) : 8j
+* 4 ateliers métier (1 par flux) : 8j
 * 1 atelier DSI (modèle de données et couplage)
-* 1 atelier avec atelier de NUM
+* 1 atelier avec le service Archives
 * 1 atelier avec l'atelier de numérisation
 * 2 jours d'étude
 
 Total : 13 jours
 
-#### Phase 2 
+#### Phase 2 DJ
 
 Objectif : Rédaction du profil d’archivage des dossiers ASE
 
@@ -54,6 +68,7 @@ Points abordés :
 * Le profil au format XSD ou RNG à l’aide d’un outil de génération de profils (SHERPA)
 * Le contrat de service et le contrat de versement
   
+
 Charge de travail : 
 
 * 1 jours de formation SEDA
@@ -63,7 +78,7 @@ Charge de travail :
 
 Total : 4 jours
 
-#### Phase 3
+#### Phase 3 PR
 
 Objectif : Préconisations pour la futur GED sociale en lien avec le SAE (PSOL et MDPH)
 
@@ -84,7 +99,7 @@ Charge de travail :
 
 Total : 2 jours
 
-#### Phase 4
+#### Phase 4 DJ
 
 Objectif : Préconisations pour une solution à court terme permettant de sauvegarder les données et métadonnées de la GED RIO dans environnement pérenne garantissant l’intégrité des documents
 
@@ -109,7 +124,7 @@ Total :  3 jours
 
 ### étape 2 Solution pour la mise en place d’un archivage électronique mutualisable
 
-#### Phase 5
+#### Phase 5 DJ
 
 Objectif : Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE
 
@@ -138,7 +153,7 @@ Charge de travail :
 
 total :  2 jours
 
-#### Phase 6
+#### Phase 6 PR
 
 Objectif : Définition du périmètre du SAE par rapport à la GED et aux autres applications
 
@@ -163,7 +178,7 @@ Charge de travail :
 
 Total : 3 jours
 
-#### Phase 7
+#### Phase 7 PR
 
 Objectif : Scenarii et plan d’action
 
