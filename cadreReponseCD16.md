@@ -2,9 +2,7 @@
 
 ## Description de la prestation
 
-
-
-#### Méthodologie 
+### Méthodologie
 
 L’approche méthodologique liée aux spécificités d’un projet de dématérialisation et d'archivage électronique croise :
 
@@ -13,7 +11,7 @@ L’approche méthodologique liée aux spécificités d’un projet de dématér
 > Notre méthodologie : l'event storming.
 
 Cette méthode nous paraît adaptée au contexte car elle est puissante, engageante, efficiente, simple et amusante.
-Elle suppose de pouvoir réunir dans une même pièce les bonnes personnes (celles qui connaissent les questions à poser et celles qui ont les réponses), de fournir un support illimité pour décrire les étapes du processus, d'explorer un domaine par les évènements qui s'y déroulent, et d'identifier les agrégats résultants des événement
+Elle suppose de pouvoir réunir dans une même pièce les bonnes personnes (celles qui connaissent les questions à poser et celles qui ont les réponses), de fournir un support illimité pour décrire les étapes du processus, d'explorer un domaine par les évènements qui s'y déroulent, et d'identifier les agrégats résultants des événements
 
 
 ![des post-it pour découvrir le métier](images/eventStorming.png)
@@ -26,7 +24,7 @@ Elle suppose de pouvoir réunir dans une même pièce les bonnes personnes (cell
 
 - Une approche outillage logiciel dans le domaine de la gestion électronique de documents, de l’archivage numérique, de la confiance électronique
 
-> Notre méthodologie : cartographie des projets mis en oeuvre dans des contextes similaires
+> Notre méthodologie : détails des ilôts et cartographie ubanisée mis en oeuvre dans des contextes similaires
 
 A partir de ces éléments, receuillis en ateliers, nous établissons avec vous un canvas en nous inspirant de la culture lean afin d'identifier les éléments qui comportent le plus de valeurs d'usages, qu'il soient techniques, réglementaires ou fonctionnels. Cette première identification de la **valeur maximale d'usage** permet de construire un objectif commun et d'identifier la manière dont chacun pourra contribuer à sa réalisation.
 
@@ -40,11 +38,10 @@ La mise en place d'ateliers de compréhension des contraintes techniques et des 
 
 **Atelier : Expression des besoins**
 
-La mise en place d'ateliers d'expression du besoin permet de construire avec les parties prenantes et notamment les membres du COPROJ et du COPIL une vision commune de la cible à atteindre. 
+La mise en place d'ateliers d'expression du besoin permet de construire avec les parties prenantes et notamment les membres du COPROJ et du COPIL une vision commune de la cible à atteindre. Cet atelier est orienté impact et ne vise pas uniquement à construire la cible à atteindre mais également les cibles intermédiaires disposant chacune de leur proposition de valeur pour les futurs usagers.
 
 
-
-![mettre les idées en perspective](/images/Methodologie1.png)
+![mettre les idées en perspective](images/Methodologie1.png)
 
 
 
@@ -58,29 +55,27 @@ Cette transmission s’effectue également en fin de mission par la transmission
 
 ### Prestation 1 : Etude de faisabilité de l’extraction des données du SI Social
 
-#### Préambule 
+#### Préambule
 
-A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel à une conduite optimale de la prestation. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme de jours d'accompagnement.
+A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel au déroulement optimal des phases ultérieures. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme d'accompagnement.
 
 #### Phase 1 : Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données DJ
 
 L’analyse de la faisabilité de l’extraction des données du SI métier et des modalités de versement doit se faire en lien avec les services producteurs , la direction informatique et le service Archives. L’objectif est de recueillir pour chaque type de dossier métier :  la structuration des données, les exigences archivistiques et métier (durées de conservations et règles d’accès aux dossiers),  les modalités d’extraction puis de transfert des dossiers et métadonnées.  
 
-Pour mener à bien cette prestation nous vous proposons une démarche basée sur  : 
+Pour mener à bien cette prestation nous vous proposons une démarche basée sur  :
 
 * l'analyse du modèle de données par flux et par type de mesure
-  * analyse des points communs entre les différents flux et les différents types de mesure
+* l'analyse des points communs entre les différents flux et les différents types de mesure
 * l'analyse du niveau de couplage entre le logiciel métier IODAS et la GED RIO
 * l'analyse de l'existant et identification des cibles (préparation de la phase 3)
 * l'analyse des processus d'alimentation (articulation numérisation, instruction, notification)
 * l'identification des dossiers (ouverts / clos) et des propriétés liées au cycle de vie des documents
 * l'analyse de la localisation des documents / données (serveurs de fichiers)
 * l'analyse du nombre de dossiers par flux
-* l'analyse de la volumétrie 
+* l'analyse de la volumétrie
 
-
-
-Organisation de la prestation  : 
+Organisation de la prestation  :
 
 * 7 ateliers :
   * 4 ateliers "métier" (1 par flux)
@@ -92,8 +87,6 @@ Organisation de la prestation  :
 
 Total : 14 jours
 
-
-
 #### Phase 2  Rédaction du profil d’archivage des dossiers de l'aide sociale à l'Enfance (ASE) DJ
 
 Il  convient  de  réaliser  ce  qu’on  peut  appeler  un  modèle conceptuel de données, en transposant la structuration des données du flux ASE dans la logique structurelle du SEDA puis de déterminer les métadonnées adaptées. Il s’agit donc de retranscrire ces informations dans le profil d’archivage, à l’aide de l' outil de génération de profils, SHERPA, mis à disposition par le Service interministériel des Archives de France.
@@ -104,7 +97,7 @@ Par ailleurs, nous estimons qu'il est important que soit associé à cette phase
 
 Pour mener à bien cette prestation nous vous proposons une démarche alternant formation et réalisations concrètes afin d'autonomiser les chef.fes de projet dans leur futur pratique du SEDA. 
 
-Organisation de la prestation  : 
+Organisation de la prestation  :
 
 - Formation sur le SEDA et prise en main de l'outil SHERPA (version 1.0 et 2.0),
 
@@ -116,8 +109,6 @@ Organisation de la prestation  :
 
   Total : 4 jours
 
-
-
 #### Phase 3 PR
 
 Lors de cette phase, l'objectif est de mettre en place un entrepôt de données et de documents en capacité de s'interfacer avec la chaîne de numérisation, le logiciel de gestion des procédures de l'action sociale et le futur SAE.
@@ -126,7 +117,7 @@ Pour permettre aux parties prenantes (COPIL et COPROJ) de disposer des informati
 
 Objectif : Préconisations pour la future GED sociale en lien avec le SAE (PSOL et MDPH)
 
-Démarche : 
+Démarche :
 
 * analyse existant : forces et faiblesses de la solution existante.
 * présentation modalités d'interface entre systèmes.
@@ -140,7 +131,7 @@ Points abordés :
 * cycle de vie et politique d'archivage
 * métadonnées de gestion et de pérennisation
 
-Charge de travail : 
+Charge de travail :
 
 * 1 atelier MVP  : matrice fonctionnalités/moyens/valeur
 * 1 jour rédaction bilan existant
@@ -153,9 +144,9 @@ Total : 4 jours
 
 le  Département  de  la  Charente  procède  depuis  plusieurs  années  à  la numérisation des dossiers d’aide sociale (près de 60 000 dossiers à ce jour). Les dossiers électroniques sont enregistrés et conservés dans un système de GED, en lien avec le système  d’information  métier  IODAS.  Depuis  octobre  2017,  cette  GED  n’est  plus maintenue. Dans ces conditions, il y a une forme d’urgence à mettre en œuvre de manière  opérationnelle  le  versement  de  ces  dossiers  dans  un  SAE,  notamment  des dossiers individuels de l’ASE, compte tenu de leur durée d'utilité administrative et de leur sort final (conservation). Cette mise en sécurité est d’autant plus importante que les dossiers sur support papier ont été éliminés. 
 
-Objectifs : Explorer plusieurs pistes et proposer des  scenarii permettant de garantir la conservation de ces données dans un environnement figé et pérenne le temps d’acquérir le futur SAE du Département en indiquant les avantages et inconvénients pour chaque proposition. 
+Objectifs : Explorer plusieurs pistes et proposer des  scenarii permettant de garantir la conservation de ces données dans un environnement figé et pérenne le temps d’acquérir le futur SAE du Département en indiquant les avantages et inconvénients pour chaque proposition.
 
-Organisation de la prestation  : 
+Organisation de la prestation  :
 
 - Analyse des solutions existantes
 - Atelier d'expression du besoin avec le COPROJ
@@ -174,13 +165,13 @@ Total :  4 jours
 
 Objectif : Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE
 
-Démarche : 
+Démarche :
 
 * atelier sur les attendus de la mutualisation
 * attendus animation interne
 * forces : faiblesses solutions externes (coût, souveraineté)
 
-itération : 
+itération :
 
 * présentation des moyens nécessaires à la mise en place d'un SAE
 * présentation des moyens nécessaires à la participation à une solution externalisée
@@ -192,7 +183,7 @@ Points abordés :
 * forces / faiblesses scenarii
 * préconisations urbanisation SI GED / SAE
 
-Charge de travail : 
+Charge de travail :
 
 * 1 jour atelier présentation des scenarii DCANT
 * 1 jour restitution
@@ -270,6 +261,3 @@ Quelques références en lien avec le contexte de la mission
 * Mise en oeuvre d'un atelier de dématérialisation du courrier entrant à la MDPH de Gironde
 * Responsable produit SAE Girondin
 * Responsable produit portail open data datalocale.fr
-
-
-
