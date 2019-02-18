@@ -44,7 +44,7 @@ La mise en place d'ateliers d'expression du besoin permet de construire avec les
 
 
 
-![mettre les idées en perspective](/Users/delphinejamet/Documents/git/notrescop/CD16/images/Methodologie1.png)
+![mettre les idées en perspective](/images/Methodologie1.png)
 
 
 
