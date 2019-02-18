@@ -100,14 +100,19 @@ Pour mener à bien cette prestation nous vous proposons une démarche alternant 
 Organisation de la prestation  :
 
 - Formation sur le SEDA et prise en main de l'outil SHERPA (version 1.0 et 2.0),
-
 - Atelier de modélisation du flux : accompagnement dans l'élaboration du mapping et les scénarii possibles de structuration du profil,
-
 - Aide à la rédaction du profil,
-
 - Aide à la rédaction du contrat de service et du contrat de versement.
 
-  Total : 4 jours
+
+Charge de travail :
+
+- 1,5 jours de formation
+- 1 jour modélisation du/des flux
+- 1 jour rédaction du/des profil.s
+- 0,5 jour rédaction contrat de service et de versement
+
+Total : 4 jours
 
 #### Phase 3 – Préconisations pour la futur GED sociale en lien avec le SAE (PSOL et MDPH) PR
 
@@ -117,9 +122,9 @@ Pour permettre aux parties prenantes (COPIL et COPROJ) de disposer des informati
 
 Objectif : Préconisations pour la future GED sociale en lien avec le SAE (PSOL et MDPH)
 
-Démarche :
+Organisation de la prestation  :
 
-* analyse existant : forces et faiblesses de la solution existante.
+* analyse de l'existant : forces et faiblesses de la solution existante.
 * présentation modalités d'interface entre systèmes.
   * Protocoles de communication.
   * Modèles de données.
@@ -157,15 +162,35 @@ Organisation de la prestation  :
   - analyse de la charge de travail associée à chaque scenario
 - Restitution au COPIL
 
-Total :  4 jours
+Charge de travail :
+
+- 1 jour analyse des solutions 
+- 1 jour atelier
+- 1 jour rédaction synthèse
+- 1 jour restitution
+
+Total : 4 jours
+
+
 
 ### Prestation 2 - Solution pour la mise en place d’un archivage électronique mutualisable
 
 #### Phase 5 - Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE PR
+Les stratégies d'implémentation d'un SAE dépendent du potentiel d'intégration des applications et du nombre d'usagers qui souhaitent verser ou interroger cet entrepôt de données.
+L'analyse du système d'information et de la maturité de la démarche d'urbanisation doivent permettre de déterminer quelles sont les stratégies les plus efficaces pour garantir la sécurité des données tout en offrant du service aux entités qui souhaitent y verser leurs données et documents.
+
+Le rôle du SAE comme socle de confiance de la démarche de dématérialisation dépend de l'organisation construite autour de celle-ci. Elle dépend également de la demande externe et des moyens d'accompagnement à leurs prise en compte.
+
+Les objectifs de sécurisation et ceux d'offre de service peuvent parfois être contradictoire en terme de temporalité.
+
+L'analyse du système d'information au regard du contexte permet donc d'illustrer ces différentes stratégies en fonction de l'impact à court et moyen terme que l'institution est capable de produire avec ses moyens.
+>>>>>>> 1faed6e19366cd26330354ff02c73e1d0f53af61
+
+
 
 Objectif : Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE
 
-Démarche :
+Organisation de la prestation  :
 
 * atelier sur les attendus de la mutualisation
 * attendus animation interne
@@ -192,34 +217,38 @@ total :  2 jours
 
 #### Phase 6 – Définition du périmètre du SAE par rapport à la GED et aux autres applications PR
 
+Objectif : Définition du périmètre du SAE par rapport à la GED et aux autres applications.
+
 L'ajout d'un système d'archivage électronique au sein du système d'information est un élément fort de structuration. A la fois élément indispensable des chantiers de dématérialisation et outil de diffusion de l'information contextualisée, il peut dépasser le strict périmètre de la conservation à valeur probante et patrimoniale des documents administratifs pour servir les stratégies d'offres de service de données et de documents.
 
 Celles-ci dépendent toutefois de l'acceptation par les services des processus d'archivage des données associés à la mise en place de l'outillage technique.
 
-La réalisation d'ateliers par flux d'archivage permettra d'aborder ces questions et de définir le périmètre fonctionnel attendu par la mise en place de ce module fonctionnel.
+La réalisation d'ateliers par flux d'archivage permettra d'aborder ces questions et de définir le périmètre fonctionnel attendu par la mise en place de ce module fonctionnel autour de trois grands domaines : 
 
-Objectif : Définition du périmètre du SAE par rapport à la GED et aux autres applications.
+1. Le social par l’activité des ateliers de numérisation du Pôle Solidarités et de la MDPH  
 
-Démarche :
+2. La chaîne budgétaire et comptable au regard des contraintes de la FULL DEMAT 
 
-* établissement de la grille de collecte
-* évaluation de la criticité de la production documentaire
+3. Les délibérations ainsi que les séances filmées des assemblées plénières (documents audio-visuels) et les arrêtés du Département soumis au contrôle de légalité. 
+
+Organisation de la prestation  :
+
+* un atelier par flux (chaîne budgétaire et comptable, délibérations, vidéos des séances, arrêtés)
+
+  * analyse des flux, établissement de la grille de collecte
+  * évaluation de la criticité de la production documentaire
+
 * préconisations de priorisation
-* un atelier par flux
 
-Points abordés :
-
-1. La cartographie des documents électroniques à archiver
-   1. Le social par l’activité des ateliers de numérisation du Pôle Solidarités et de la MDPH  
-   2. La chaîne budgétaire et comptable au regard des contraintes de la FULL DEMAT = TOTEM
-   3. Les délibérations ainsi que les séances filmées des assemblées plénières (documents audio-visuels) et les arrêtés du Département soumis au contrôle de légalité. 
+  > NB : l'analyse du domaine social aura été réalisée dans la phase 1.
 
 Charge de travail : 
 
-* 1 jour par flux (x2)
-* 1 jour pour la rédaction du rapport d'activité
+* 1 jour par flux
+* 1 jour pour la rédaction du rapport d'analyse de l'existant et préconisations
+* 1 jour restitution
 
-Total : 3 jours
+Total : 5 jours
 
 #### Phase 7 - Scenarii et plan d’action PR
 
