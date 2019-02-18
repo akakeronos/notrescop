@@ -235,13 +235,29 @@ Total : 3 jours
 Le plan d'action du Département de la Charent en matière d'offre de service d'archivage dépend en partie de la maturité et des attentes des potentiels "clients" de celle-ci. Il nous paraît opportun de profiter de notre accompnement pour réunir les porteurs de projet d'offre de service d'archivage électronique et les potentiels utilisteurs pour mieux définir les attentes, les besoins et les ressources du Département de la Charente comme coordinateur de cette stratégie.
 
 Nous proposons donc de faire plusieurs itérations permettant successivement de mieux connaître l'offre de service disponible, les attentes de parties prenantes (CD16 et partenaires publics) et les moyens associés à chaque offre de service portée par la collectivité.
-|         Axe          | Contenu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       Objectif       | Scenarii et plan d’action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|       Démarche       | <ul><li>présentation des scenarii</li><li>vision globale (intégration open data, SIA)</li><li>entretien avec les porteurs de projets de solutions externes (publiques)</li><li>interview avec les services internes et collectivités partenaires</li><ul><li>atelier avec les services constitués du territoire et établissements publics</li><li>Atelier sur les enjeux de la mutualisation avec le COPIL</li></ul></ul>                                                                                                                                           |
-|    Points abordés    | <ul><li>Description des scénarii préconisés</li><li>Document de synthèse pour comparer les scénarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE</li><li>Recommandations pour le choix d’un scénario privilégié</li></ul>                                                                                                                                                                                                                                                                                                           |
-| détail des livrables | <ul><li>1 jour rédaction des scenario</li><li>3 jours d'ateliers avec les (futurs) utilisateurs et porteurs de projet des offres de mutualisation (CD16, établissements disposant d'un service d'archives, communes et intercommunalités disposant d'un service d'archives constitué)</li><li>1 atelier idéation sur la priorisation de la mise en oeuvre du scenario retenu</li><li>1 jour rédaction rapport de synthèse</li><li>1 jour présentation du rapport de synthèse</li><li>1 jour rédaction préconisation feuille de route et charges associées</li></ul> |
-|  charge de travail   | 8 jours                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+Objectif : Scenarii et plan d’action
+
+Démarche : 
+
+* présentation des scenarii
+* vision globale (intégration open data, SIA)
+* entretien avec les porteurs de projets de solutions externes (publiques)
+* interview avec les services internes et collectivités partenaires
+  * atelier avec les services constitués du territoire et établissements publics
+  * Atelier sur les enjeux de la mutualisation avec le COPIL
+  
+Points abordés
+* Description des scénarii préconisés
+* Document de synthèse pour comparer les scénarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE
+* Recommandations pour le choix d’un scénario privilégié
+
+détail des livrables
+* 1 jour rédaction des scenario3 jours d'ateliers avec les (futurs) utilisateurs et porteurs de projet des offres de mutualisation (CD16, établissements disposant d'un service d'archives, communes et intercommunalités disposant d'un service d'archives constitué)
+* 1 atelier idéation sur la priorisation de la mise en oeuvre du scenario retenu
+* 1 jour rédaction rapport de synthèse1 jour présentation du rapport de synthèse
+* 1 jour rédaction préconisation feuille de route et charges associées
+
+charge de travail 8 jours                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 
 ## CV
