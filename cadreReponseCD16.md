@@ -57,7 +57,7 @@ Cette transmission s’effectue également en fin de mission par la transmission
 
 #### Préambule
 
-A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel au déroulement optimal des phases ultérieures. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme d'accompagnement.
+A la lecture du CCTP, il ressort que le bon déroulement de la phase 1 de caractérisation de la GED RIO est le pré-requis essentiel à l'enchaînement optimal des phases ultérieures. Aussi, nous vous proposons de considérer cette première phase comme l'élément clé et donc d'y allouer les moyens les plus importants en terme d'accompagnement.
 
 #### Phase 1 - Caractéristiques de la GED RIO et identification de la faisabilité d’extraction des données DJ
 
