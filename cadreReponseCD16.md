@@ -13,7 +13,6 @@ L’approche méthodologique liée aux spécificités d’un projet de dématér
 Cette méthode nous paraît adaptée au contexte car elle est puissante, engageante, efficiente, simple et ludique.
 Elle suppose de pouvoir réunir dans une même pièce les bonnes personnes (celles qui connaissent les questions à poser et celles qui ont les réponses), de fournir un support illimité pour décrire les étapes du processus, d'explorer un domaine par les évènements qui s'y déroulent, et d'identifier les agrégats résultants des événements
 
-
 ![des post-it pour découvrir le métier](images/eventStorming.png)
 
 - une approche réglementaire : cartographie des textes et réglements en vigueur en prenant en compte la hiérarchie des normes
@@ -40,10 +39,7 @@ La mise en place d'ateliers de compréhension des contraintes techniques et des 
 
 La mise en place d'ateliers d'expression du besoin permet de construire avec les parties prenantes et notamment les membres du COPROJ et du COPIL une vision commune de la cible à atteindre. Cet atelier est orienté impact et ne vise pas uniquement à construire la cible à atteindre mais également les cibles intermédiaires disposant chacune de leur proposition de valeur pour les futurs usagers.
 
-
 ![mettre les idées en perspective](images/Methodologie1.png)
-
-
 
 Par l'identification des [parcours usagers](fiches/parcours-usagers.md), la réalisation d'ateliers de [story mapping](fiches/story-mapping.md) ou l'interview des parties prenantes, nous cherchons à comprendre et à reformuler les besoins exprimés afin de chercher avec vous la meilleure manière d'y répondre.
 
@@ -103,7 +99,6 @@ Organisation de la prestation  :
 - Atelier de modélisation du flux : accompagnement dans l'élaboration du mapping et les scénarii possibles de structuration du profil,
 - Aide à la rédaction du profil,
 - Aide à la rédaction du contrat de service et du contrat de versement.
-
 
 Charge de travail :
 
@@ -171,8 +166,6 @@ Charge de travail :
 
 Total : 4 jours
 
-
-
 ### Prestation 2 - Solution pour la mise en place d’un archivage électronique mutualisable
 
 #### Phase 5 - Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE PR
@@ -184,9 +177,6 @@ Le rôle du SAE comme socle de confiance de la démarche de dématérialisation 
 Les objectifs de sécurisation et ceux d'offre de service peuvent parfois être contradictoire en terme de temporalité.
 
 L'analyse du système d'information au regard du contexte permet donc d'illustrer ces différentes stratégies en fonction de l'impact à court et moyen terme que l'institution est capable de produire avec ses moyens.
->>>>>>> 1faed6e19366cd26330354ff02c73e1d0f53af61
-
-
 
 Objectif : Analyse du système d’information du Département dans la perspective d’implémentation d’un SAE
 
@@ -255,15 +245,29 @@ Total : 5 jours
 Le plan d'action du Département de la Charent en matière d'offre de service d'archivage dépend en partie de la maturité et des attentes des potentiels "clients" de celle-ci. Il nous paraît opportun de profiter de notre accompnement pour réunir les porteurs de projet d'offre de service d'archivage électronique et les potentiels utilisteurs pour mieux définir les attentes, les besoins et les ressources du Département de la Charente comme coordinateur de cette stratégie.
 
 Nous proposons donc de faire plusieurs itérations permettant successivement de mieux connaître l'offre de service disponible, les attentes de parties prenantes (CD16 et partenaires publics) et les moyens associés à chaque offre de service portée par la collectivité.
-|         Axe          | Contenu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       Objectif       | Scenarii et plan d’action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|       Démarche       | <ul><li>présentation des scenarii</li><li>vision globale (intégration open data, SIA)</li><li>entretien avec les porteurs de projets de solutions externes (publiques)</li><li>interview avec les services internes et collectivités partenaires</li><ul><li>atelier avec les services constitués du territoire et établissements publics</li><li>Atelier sur les enjeux de la mutualisation avec le COPIL</li></ul></ul>                                                                                                                                           |
-|    Points abordés    | <ul><li>Description des scénarii préconisés</li><li>Document de synthèse pour comparer les scénarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE</li><li>Recommandations pour le choix d’un scénario privilégié</li></ul>                                                                                                                                                                                                                                                                                                           |
-| détail des livrables | <ul><li>1 jour rédaction des scenario</li><li>3 jours d'ateliers avec les (futurs) utilisateurs et porteurs de projet des offres de mutualisation (CD16, établissements disposant d'un service d'archives, communes et intercommunalités disposant d'un service d'archives constitué)</li><li>1 atelier idéation sur la priorisation de la mise en oeuvre du scenario retenu</li><li>1 jour rédaction rapport de synthèse</li><li>1 jour présentation du rapport de synthèse</li><li>1 jour rédaction préconisation feuille de route et charges associées</li></ul> |
-|  charge de travail   | 8 jours                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+Objectif : Scenarii et plan d’action
 
+Démarche : 
 
+* présentation des scenarii
+* vision globale (intégration open data, SIA)
+* entretien avec les porteurs de projets de solutions externes (publiques)
+* interview avec les services internes et collectivités partenaires
+  * atelier avec les services constitués du territoire et établissements publics
+  * Atelier sur les enjeux de la mutualisation avec le COPIL
+  
+Points abordés
+* Description des scénarii préconisés
+* Document de synthèse pour comparer les scénarii et identifier les facteurs clefs de la réussite de mise en oeuvre d’un SAE
+* Recommandations pour le choix d’un scénario privilégié
+
+détail des livrables
+* 1 jour rédaction des scenario3 jours d'ateliers avec les (futurs) utilisateurs et porteurs de projet des offres de mutualisation (CD16, établissements disposant d'un service d'archives, communes et intercommunalités disposant d'un service d'archives constitué)
+* 1 atelier idéation sur la priorisation de la mise en oeuvre du scenario retenu
+* 1 jour rédaction rapport de synthèse1 jour présentation du rapport de synthèse
+* 1 jour rédaction préconisation feuille de route et charges associées
+
+charge de travail 8 jours                                                                                                                                                                                                                         
 ## CV
 
 ### CV Rhizome data
